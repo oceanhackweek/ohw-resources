@@ -1,0 +1,28 @@
+site_name: OceanHackWeek Learning Resources
+nav:
+    - Home: index.md
+    - Tutorials:
+      - GitHub: github.md
+      - git: git.md
+      - Jupyter: jupyterhub.md
+      - Conda: conda.md
+      - Numpy: numpy.md
+      - Pandas: pandas.md
+theme: 
+    name: readthedocs
+    collapse_by_default: false
+    highlightjs: true
+plugins:
+    - search
+    - markdownextradata
+extra:
+  hackweek:
+    name: OceanHackWeek Learning Resources
+    web_url: https://oceanhackweek.github.io/ohw-learning-resources
+    slack_url: https://oceanhackweek.slack.com
+    github_org_url: https://github.com/oceanhackweek/
+    email: oceanhkw@uw.edu
+    admin_contact: Emilio Mayorga
+markdown_extensions:
+  - admonition
+repo_url: https://github.com/oceanhackweek/ohw-learning-resources
