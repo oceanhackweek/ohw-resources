@@ -35,3 +35,6 @@ extra:
 markdown_extensions:
   - admonition
 repo_url: https://github.com/oceanhackweek/ohw-learning-resources
+
+extra_css:
+    - extra.css
