@@ -1,13 +1,22 @@
-site_name: OceanHackWeek Learning Resources
+site_name: OceanHackWeek Resources
 nav:
-    - Home: index.md
+    - Overview: index.md
+    - Code of Conduct: conduct.md
+    - Logistics: logistics.md
+    - Pre-event Preparation:
+      - Python Requirements: preweek-python.md
+      - Git & GitHub Setup: preweek-github.md
     - Tutorials:
       - GitHub: github.md
       - git: git.md
       - Jupyter: jupyterhub.md
       - Conda: conda.md
-      - Numpy: numpy.md
-      - Pandas: pandas.md
+      # - Numpy: numpy.md
+      # - Pandas: pandas.md
+    - Hack Projects: 
+      - Getting Started: projects.md
+      - Project Overview: projects-overview.md
+      - Project Guidelines: projects-guidelines.md
 theme: 
     name: readthedocs
     collapse_by_default: false
