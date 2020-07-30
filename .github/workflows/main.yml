@@ -23,6 +23,10 @@ jobs:
         run: |
           conda info
           conda install -c conda-forge mkdocs mkdocs-markdownextradata-plugin
+      - name: Deploy docs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@1.12
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   # build:
   #   name: Deploy docs
   #   runs-on: ubuntu-latest
