@@ -29,7 +29,7 @@ We will harness our collective talent assembled during the event to rapidly adva
 
 
 <!-- 
-![hackweek-mission](img/hackweek-mission.png)
+![hackweek-mission](../img/hackweek-mission.png)
 
 This preliminary tutorial is one that we would like you to complete before arriving to the hackweek. The purpose is to learn about how we plan to work with various software tools and how you can best prepare for our event. We would like everyone works through this tutorial so that we can make the best use of our time together in person.
 

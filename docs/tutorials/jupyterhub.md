@@ -10,15 +10,15 @@ We will encourage you to use our shared resources for all the tutorials, and you
 
 Access to our shared cloud environment is easy. Just click on [{{ hackweek.pangeo_url }}]({{ hackweek.pangeo_url }})
 
-![pangeo-opening](img/pangeo-opening.png)
+![pangeo-opening](../img/pangeo-opening.png)
 
 Assuming you set up your GitHub credentials correctly (see the previous lesson), you can now click on the "Sign in with GitHub" button:
 
-![pangeo-loading](img/pangeo-loading.png)
+![pangeo-loading](../img/pangeo-loading.png)
 
 It will take a little bit of time for this to load - be patient! Once things are spun up you will see your very own instance of a [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) environment:
 
-![jupyterlab](img/jupyterlab.png)
+![jupyterlab](../img/jupyterlab.png)
 
 ## What is Pangeo and how is this system configured?
 
@@ -34,28 +34,28 @@ First we'll show you how to pull some files from GitHub into your virtual drive 
 
 To do this, we will need to interface with the file system of Pangeo. Pangeo is deployed in a Linux operating system and we will need to open a terminal within Pangeo to manage our files. There are two ways to do this: (1) Navigate to the "File" menu, choose "New" and then "Terminal" or (2) click on the "terminal" button in JupyterLab: 
 
-![terminal-button](img/terminal-button.png)
+![terminal-button](../img/terminal-button.png)
 
 This will open a new terminal tab in your JupyterLab interface:
 
-![terminal-tab](img/terminal.png)
+![terminal-tab](../img/terminal.png)
 
 Now you can issue any Linux commands to manage your local file system. 
 
 Now let's clone a repository (Note: we'll be teaching about Git clone during our introductory tutorials). This tutorial is built in a repository called "preliminary", so let's try cloning that. First, navigate in a browser on your own computer to the repository link [here](https://github.com/ICESAT-2HackWeek/preliminary). Next, click on the green "clone or download" button and then copy the url into your clipboard by clicking the copy button:
 
-![clone](img/clone.png)
+![clone](../img/clone.png)
 
 Now navigate back to your command line in JupyterLab. Type "git clone" and then paste in the url:
 
-![terminal-clone](img/terminal-clone.png)
+![terminal-clone](../img/terminal-clone.png)
 
 !!! note "A note about cutting and pasting"
     Pasting something from your clipboard into the Pangeo terminal requires holding down the "shift" key and right-clicking.  This is different from the usual Linux method that only requires a right click.
 
 After issuing the Git clone command you should see something like this:
 
-![clone-result](img/clone-result.png)
+![clone-result](../img/clone-result.png)
 
 ## How do I end my Pangeo session? Will I lose all of my work?
 
@@ -63,7 +63,7 @@ When you are finished working for the day it is important to explicitly log out 
 
 To stop the server, navigate to "Hub --> Control Panel" and then click the "Stop my server" button:
 
-![shutting-down](img/stop-server.png)
+![shutting-down](../img/stop-server.png)
 
 !!! warning "logging out"
     Logging out will **NOT** cause any of your work to be lost or deleted. It simply shuts down some resources. It would be equivalent to turning off your desktop computer at the end of the day.

@@ -28,7 +28,7 @@ One person in your group (preferably one who has never done it before) should vo
 
 https://github.com/oceanhackweek
 
-![](img/newRepo.png)
+![](../img/newRepo.png)
 
 Click New and follow the steps: check yes to create README.md
 
@@ -99,7 +99,7 @@ git remote -v
 To practice these steps more, make more changes to the title and the description of the project.
 
 
-![](img/centralized_workflow.png)
+![](../img/centralized_workflow.png)
 
 *Ran into a problem?*
 
@@ -149,17 +149,17 @@ You can continue working on as usual.
 
 So far you collaborated using what is called a centralized git workflow: i.e. every collaborator makes directly changes to the repo.
 
-![](img/centralized_workflow_atlasian.png)
+![](../img/centralized_workflow_atlasian.png)
 
 Some merge conflicts can be avoided by working with Forks instead of directly pushing to the repo.
 
 Forks are public copies of the main repo, from which you can submit changes to the main repo.
 
-![](img/forked_workflow.png)
+![](../img/forked_workflow.png)
 
 * Sync your local repo with the public one
 * Fork the public repo
-![](img/fork_button.png)
+![](../img/fork_button.png)
 	* Note it looks the same but the web address contains your username	
     [www.github.com/valentina-s/ohw19-project-ProjectName](www.github.com/valentina-s/ohw19-project-ProjectName)
 * Go to your local repo and rename your `origin` to point to the fork:
@@ -195,7 +195,7 @@ git push origin master
 
 Submit a pull request by clicking `New pull request`:
 
-![](img/newPR.png)
+![](../img/newPR.png)
 
 * Explain what changes you have made.
 * Assign somebody for review.
@@ -207,7 +207,7 @@ Submit a pull request by clicking `New pull request`:
 
 In general we encourage github users to submit changes to the main repo through pull requests, but direct push is still a viable workflow for small projects when participants work on the same documents.
 
-![](img/BasicForkWorkflow.png)
+![](../img/BasicForkWorkflow.png)
 
 
 ## Version control and Jupyter notebooks
