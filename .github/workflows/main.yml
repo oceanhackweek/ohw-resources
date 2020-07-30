@@ -2,7 +2,7 @@ name: Test MkDocs on GH action
 on:
   push:
     branches:
-      - test-conda-in-ghaction
+      - master
 
 jobs:
   example-4:
