@@ -2,7 +2,7 @@ name: Test MkDocs on GH action
 on:
   push:
     branches:
-      - test-conda-in-ghaction
+      - master
 
 jobs:
   conda-mkdocs:
@@ -20,7 +20,7 @@ jobs:
           show-channel-urls: true
           use-only-tar-bz2: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: install conda and build docs
+      - name: Install conda and build docs
         shell: bash -l {0}
         run: |
           conda info
