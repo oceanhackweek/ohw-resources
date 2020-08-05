@@ -1,28 +1,29 @@
 # Logistics
 
 ## Time
-OceanHackWeek 2020 will take place **online** daily, from 11am - 2pm Pacific Daylight Time, during August 10-14. Tutorials held in the first portion will cover data science topics, followed by project hacking in the afternoon. 
+OceanHackWeek 2020 will take place **online** daily, during the period 11am-2pm PDT / 2pm-5pm EDT / 18:00-21:00 UTC on August 10-14. Tutorials will cover data science topics, followed by project hacking in the afternoon. Pre-hackweek OPTIONAL activities will be on August 6-7. See [Tutorial schedule](schedule.md#tutorials) for details.
 
 
 ## Channel of communication
-We will use the [OceanHackWeek Slack workspace](http://oceanhackweek.slack.com/) as the main channel of communication before, during, and after the hackweek. You should have received an invitation to join this workspace. If you haven't seen it in your inbox, check your spam folder, or simply [join via this link](https://join.slack.com/t/oceanhackweek/shared_invite/zt-fv2ixo1d-PwHO_tz3MZq57OtTgWdhXg).
+We will use the [OceanHackWeek Slack workspace](http://oceanhackweek.slack.com/) as the main channel of communication before, during, and after the hackweek. You should have received an invitation to join this workspace. If you haven't seen it in your inbox, check your spam folder, or email us at oceanhkw@uw.edu.
 
 In the OHW Slack workspace, you have the ability to go directly from a channel or direct message chat into a video chat, with screen-sharing capability. This will be particularly useful during hack project time.
 
 
+
 ## Tutorial broadcasting
-We will use Zoom to broadcast all tutorials, via this link: ZOOM LINK NEEDED.
+We will use Zoom to broadcast all tutorials, via this link: ZOOM LINK.
 
 Etiquette during tutorial time:
 - Do not interrupt instructor
-- Ask all your questions on the tutorial Slack channel
-- **Vote up** the questions on the Slack channel so that moderator can prioritize them during the question time.
-- Have questions after the tutorial? We will have helper channels on the following topics: NEED TOPICS HERE
-- ...
+- Ask all your questions on Slido in the #tutorials channel.
+- Vote up questions on Slido in the #tutorials channel so that moderator can prioritize them during the question time.
+- Have questions after the tutorial? We will have helpdesk channels, see [here](schedule.md#helpdesks) page for detail.
 
 
-## Hack project
-See the [Projects](projects.md) page for more info.
+
+## Hack projects
+See [Project overview](projects/overview.md) and [Hacking at OHW20](projects/steps.md) for more info.
 
 
 <!-- NOTE: putting OHW19 resources below for reviving later. -->

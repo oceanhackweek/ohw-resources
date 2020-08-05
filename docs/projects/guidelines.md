@@ -1,6 +1,12 @@
-# Project Guidelines
+<!-- 
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+NOT USING THIS PAGE FOR OHW2020, CONSIDER REVIVING FOR LATER IN-PERSON EVENT. 
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+-->
 
-**STILL NEED TO REVISE THIS**
+
+
+# Project Guidelines
 
 ## Project Template
 Each project requires a brief project summary in the README.md of each GitHub project folder. Below is a template for the project summary.
