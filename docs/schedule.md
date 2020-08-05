@@ -2,8 +2,12 @@
 
 All OHW20 “live-virtual” activities will take place during the period 11am-2pm PDT / 2pm-5pm EDT / 18:00-21:00 UTC. **All times listed below are in PDT (UTC-7).** You can find your timezone offset at [https://www.timeanddate.com](https://www.timeanddate.com) or similar sites.
 
-## Pre-hackweek OPTIONAL tutorials
+This schedule is also avaliable as a
+[Google Calendar](https://calendar.google.com/calendar/embed?src=c_05tbvgs1f29lrv2s17diuscuhc%40group.calendar.google.com&ctz=America%2FNew_York)
+or [iCal/WebCal](https://calendar.google.com/calendar/ical/c_05tbvgs1f29lrv2s17diuscuhc%40group.calendar.google.com/public/basic.ics)
+subscription.
 
+## Pre-hackweek OPTIONAL tutorials
 
 ### Thursday (August 6)
 
