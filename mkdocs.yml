@@ -6,17 +6,16 @@ nav:
     - Pre-event Preparation:
       - Python Requirements: preweek/python.md
       - Git & GitHub Setup: preweek/github.md
-    - Tutorials:
-      - GitHub: tutorials/github.md
-      - git: tutorials/git.md
-      - Jupyter: tutorials/jupyterhub.md
-      - Conda: tutorials/conda.md
+    # - Tutorials:
+      # - GitHub: tutorials/github.md
+      # - git: tutorials/git.md
+      # - Jupyter: tutorials/jupyterhub.md
+      # - Conda: tutorials/conda.md
       # - Numpy: numpy.md
       # - Pandas: pandas.md
     - Hack Projects: 
-      - Getting Started: projects/projects.md
       - Project Overview: projects/overview.md
-      - Project Guidelines: projects/guidelines.md
+      - Hacking at OHW20: projects/steps.md
 theme: 
     name: readthedocs
     collapse_by_default: false
