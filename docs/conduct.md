@@ -13,13 +13,13 @@ Harassment includes, but is not limited to:
 * Unwelcome sexual attention
 * Advocating for, or encouraging, any of the above behavior
 
-Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from Oceanhackweek with no refund.
+Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from OceanHackWeek with no refund.
 
-Oceanhackweek organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. We expect participants to follow these rules at all the event venues and event-related social activities.
+OceanHackWeek organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. We expect participants to follow these rules at all the event venues and event-related social activities.
 
 
 ## Reporting a violation
-Harassment and other code of conduct violations reduce the value of Oceanhackweek for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. You can make a report either personally or anonymously. **Anonymous reports can be made [here](https://oceanhackweek.wufoo.com/forms/zep2ybt1swlulc/).**
+Harassment and other code of conduct violations reduce the value of OceanHackWeek for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. You can make a report either personally or anonymously. **Anonymous reports can be made [here](https://oceanhackweek.wufoo.com/forms/zep2ybt1swlulc/).**
 
 This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 

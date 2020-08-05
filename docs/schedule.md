@@ -1,6 +1,6 @@
 # OHW20 Schedule
 
-All OHW20 “live-virtual” activities will take place during the period 11am-2pm PDT / 2pm-5pm EDT / 18:00-21:00 UTC.
+All OHW20 “live-virtual” activities will take place during the period 11am-2pm PDT / 2pm-5pm EDT / 18:00-21:00 UTC. **All times listed below are in PDT (UTC-7).** You can find your timezone offset at [https://www.timeanddate.com](https://www.timeanddate.com) or similar sites.
 
 ## Pre-hackweek OPTIONAL tutorials
 
@@ -59,7 +59,7 @@ All OHW20 “live-virtual” activities will take place during the period 11am-2
     <tr>
       <td>11:00AM - 1:00PM</td>
       <td>
-        <strong>Scientific Python basics</strong>
+        <strong>Scientific Python basics.</strong> Jupyter, numpy, pandas, matplotlib
       </td>
       <td>
         <ul>
@@ -82,10 +82,7 @@ All OHW20 “live-virtual” activities will take place during the period 11am-2
   </tbody>
 </table>
 
-
-
-
-<br><br>
+<br>
 
 ## Tutorials
 
@@ -127,7 +124,7 @@ All OHW20 “live-virtual” activities will take place during the period 11am-2
       <td><strong>Searching and obtaining data from multiple servers</strong></td>
       <td>
         <ul>
-          <li>Filipe Fernendes</li>
+          <li>Filipe Fernandes</li>
           <li>Alison Gray</li>
           <li>Ben Tupper</li>
         </ul>
@@ -145,7 +142,6 @@ All OHW20 “live-virtual” activities will take place during the period 11am-2
     </tr>
   </tbody>
 </table>
-
 
 <br>
 
@@ -195,7 +191,6 @@ All OHW20 “live-virtual” activities will take place during the period 11am-2
   </tbody>
 </table>
 
-
 <br>
 
 ### Wednesday (August 12)
@@ -233,8 +228,6 @@ All OHW20 “live-virtual” activities will take place during the period 11am-2
     </tr>
   </tbody>
 </table>
-
-
 
 <br>
 
@@ -274,10 +267,7 @@ All OHW20 “live-virtual” activities will take place during the period 11am-2
   </tbody>
 </table>
 
-
-
 <br>
-
 
 ### Friday (August 14)
 
@@ -330,8 +320,7 @@ All OHW20 “live-virtual” activities will take place during the period 11am-2
   </tbody>
 </table>
 
-
-<br><br>
+<br>
 
 ## Helpdesks
 
@@ -393,6 +382,3 @@ All OHW20 “live-virtual” activities will take place during the period 11am-2
     </tr>
   </tbody>
 </table>
-
-
-<br><br>
