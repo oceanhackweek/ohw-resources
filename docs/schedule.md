@@ -1,8 +1,6 @@
 # Schedule
 
-All OHW20 “live-virtual” activities will take place during the period 11am-2pm PDT / 2pm-5pm EDT / 18:00-21:00 UTC. 
-
-The Zoom link will be posted on the [#ohw20_announcements](https://app.slack.com/client/TUFFMB3EE/C017HT6NSKZ) channel.
+All OHW20 “live-virtual” activities will take place during the period 11am-2pm PDT / 2pm-5pm EDT / 18:00-21:00 UTC.  The Zoom link will be posted on the [#ohw20_announcements](https://app.slack.com/client/TUFFMB3EE/C017HT6NSKZ) channel.
 
 Tips for navigating the virtual tutorials:
 
@@ -12,8 +10,19 @@ Tips for navigating the virtual tutorials:
 
 <br>
 
-## Pre-hackweek OPTIONAL tutorials
+**All times listed below are in PDT (UTC-7).** You can find your timezone offset at [https://www.timeanddate.com](https://www.timeanddate.com) or similar sites.
 
+This schedule is also avaliable as a
+[Google Calendar](https://calendar.google.com/calendar/embed?src=c_05tbvgs1f29lrv2s17diuscuhc%40group.calendar.google.com&ctz=America%2FNew_York)
+or [iCal/WebCal](https://calendar.google.com/calendar/ical/c_05tbvgs1f29lrv2s17diuscuhc%40group.calendar.google.com/public/basic.ics)
+subscription.
+
+
+
+<br>
+
+
+## Pre-hackweek OPTIONAL tutorials
 
 ### Thursday (August 6)
 
@@ -69,7 +78,7 @@ Tips for navigating the virtual tutorials:
     <tr>
       <td>11:00AM - 1:00PM</td>
       <td>
-        <strong>Scientific Python basics</strong>
+        <strong>Scientific Python basics.</strong> Jupyter, numpy, pandas, matplotlib
       </td>
       <td>
         <ul>
@@ -92,10 +101,14 @@ Tips for navigating the virtual tutorials:
   </tbody>
 </table>
 
+<<<<<<< HEAD
 
 
 
 <br><br><br>
+=======
+<br>
+>>>>>>> 16886f97e50626e135134541591d98509e2b2e36
 
 ## Tutorials
 
@@ -137,7 +150,7 @@ Tips for navigating the virtual tutorials:
       <td><strong>Searching and obtaining data from multiple servers</strong></td>
       <td>
         <ul>
-          <li>Filipe Fernendes</li>
+          <li>Filipe Fernandes</li>
           <li>Alison Gray</li>
           <li>Ben Tupper</li>
         </ul>
@@ -155,7 +168,6 @@ Tips for navigating the virtual tutorials:
     </tr>
   </tbody>
 </table>
-
 
 <br>
 
@@ -205,7 +217,6 @@ Tips for navigating the virtual tutorials:
   </tbody>
 </table>
 
-
 <br>
 
 ### Wednesday (August 12)
@@ -243,8 +254,6 @@ Tips for navigating the virtual tutorials:
     </tr>
   </tbody>
 </table>
-
-
 
 <br>
 
@@ -284,10 +293,7 @@ Tips for navigating the virtual tutorials:
   </tbody>
 </table>
 
-
-
 <br>
-
 
 ### Friday (August 14)
 
@@ -340,11 +346,11 @@ Tips for navigating the virtual tutorials:
   </tbody>
 </table>
 
-
-<br><br>
+<br>
 
 ## Helpdesks
 
+<<<<<<< HEAD
 Apart from the helpdesk Slack channels listed below, you are also welcome to direct message the helpers if you don't feel comfortable asking questions publicly.
 
 - [Git helpdesk](https://app.slack.com/client/TUFFMB3EE/C018C1MMK0A): Filipe Fernandes, Wu-Jung Lee, Kavin Nguyen
@@ -353,3 +359,63 @@ Apart from the helpdesk Slack channels listed below, you are also welcome to dir
 - [Visualization in R](https://app.slack.com/client/TUFFMB3EE/C018C882SM9): Camille Ross, Kavin Nguyen
 - [Visualization in Python](https://app.slack.com/client/TUFFMB3EE/C018C27E7FU): Filipe Fernandes, Kavin Nguyen, Sophie Clayton
 - [Machine Learning](https://app.slack.com/client/TUFFMB3EE/C0185A712QN): Valentina Staneva, Nick Record, Wu-Jung Lee
+=======
+<table>
+  <thead>
+    <tr>
+      <th>Topic</th>
+      <th>Helpers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Git</strong>
+      </td>
+      <td>
+        Filipe Fernandes, Wu-Jung Lee
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Data Access (R)</strong>
+      </td>
+      <td>
+        Ben Tupper
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Data Access (Python)</strong>
+      </td>
+      <td>
+        Filipe Fernandes
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Visualization (R)</strong>
+      </td>
+      <td>
+        Camille Ross
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Visualization (Python)</strong>
+      </td>
+      <td>
+        Filipe Fernandes
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Machine learning</strong>
+      </td>
+      <td>
+        Valentina Staneva, Nick Record
+      </td>
+    </tr>
+  </tbody>
+</table>
+>>>>>>> 16886f97e50626e135134541591d98509e2b2e36

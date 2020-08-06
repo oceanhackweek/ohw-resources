@@ -4,12 +4,12 @@ nav:
     - Code of Conduct: conduct.md
     - Logistics: logistics.md
     - Schedule: schedule.md
-    - Hack Projects: 
+    - Projects: 
       - Project Overview: projects/overview.md
       - Hacking at OHW20: projects/steps.md
-    - Pre-event Preparation:
-      - Python Requirements: preweek/python.md
-      - Git & GitHub Setup: preweek/github.md
+    # - Pre-event Preparation:
+    #   - Python Requirements: preweek/python.md
+    #   - Git & GitHub Setup: preweek/github.md
     # - Tutorials:
       # - GitHub: tutorials/github.md
       # - git: tutorials/git.md
@@ -27,14 +27,14 @@ plugins:
 extra:
   hackweek:
     name: OceanHackWeek Resources
-    web_url: https://oceanhackweek.github.io/ohw-learning-resources
+    web_url: https://oceanhackweek.github.io/ohw-resources
     slack_url: https://oceanhackweek.slack.com
     github_org_url: https://github.com/oceanhackweek/
     email: oceanhkw@uw.edu
     admin_contact: Emilio Mayorga
 markdown_extensions:
   - admonition
-repo_url: https://github.com/oceanhackweek/ohw-learning-resources
+repo_url: https://github.com/oceanhackweek/ohw-resources
 
 extra_css:
     - extra.css
