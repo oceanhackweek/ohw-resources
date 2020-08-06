@@ -1,6 +1,16 @@
-# OHW20 Schedule
+# Schedule
 
-All OHW20 “live-virtual” activities will take place during the period 11am-2pm PDT / 2pm-5pm EDT / 18:00-21:00 UTC.
+All OHW20 “live-virtual” activities will take place during the period 11am-2pm PDT / 2pm-5pm EDT / 18:00-21:00 UTC. 
+
+The Zoom link will be posted on the [#ohw20_announcements](https://app.slack.com/client/TUFFMB3EE/C017HT6NSKZ) channel.
+
+Tips for navigating the virtual tutorials:
+
+- Ask all your questions on the Slido page linked from the [#tutorials](https://app.slack.com/client/TUFFMB3EE/G018QH20KAM) channel. We will use this same channel everyday.
+- **Vote up** questions from others to help the moderators prioritize which questions to ask the speaker during tutorials.
+
+
+<br>
 
 ## Pre-hackweek OPTIONAL tutorials
 
@@ -85,7 +95,7 @@ All OHW20 “live-virtual” activities will take place during the period 11am-2
 
 
 
-<br><br>
+<br><br><br>
 
 ## Tutorials
 
@@ -335,64 +345,11 @@ All OHW20 “live-virtual” activities will take place during the period 11am-2
 
 ## Helpdesks
 
-<table>
-  <thead>
-    <tr>
-      <th>Topic</th>
-      <th>Helpers</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <strong>Git</strong>
-      </td>
-      <td>
-        Filipe Fernandes, Wu-Jung Lee
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Data Access (R)</strong>
-      </td>
-      <td>
-        Ben Tupper
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Data Access (Python)</strong>
-      </td>
-      <td>
-        Filipe Fernandes
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Visualization (R)</strong>
-      </td>
-      <td>
-        Camille Ross
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Visualization (Python)</strong>
-      </td>
-      <td>
-        Filipe Fernandes
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Machine learning</strong>
-      </td>
-      <td>
-        Valentina Staneva, Nick Record
-      </td>
-    </tr>
-  </tbody>
-</table>
+Apart from the helpdesk Slack channels listed below, you are also welcome to direct message the helpers if you don't feel comfortable asking questions publicly.
 
-
-<br><br>
+- [Git helpdesk](https://app.slack.com/client/TUFFMB3EE/C018C1MMK0A): Filipe Fernandes, Wu-Jung Lee, Kavin Nguyen
+- [Data Access in R](https://app.slack.com/client/TUFFMB3EE/C01859W5BQE): Ben Tupper, Kavin Nguyen
+- [Data Access in Python](https://app.slack.com/client/TUFFMB3EE/C018QL3JH5X): Filipe Fernandes, Alex Kearney, Chelle Gentemann, Emilio Mayorga, Wu-Jung Lee
+- [Visualization in R](https://app.slack.com/client/TUFFMB3EE/C018C882SM9): Camille Ross, Kavin Nguyen
+- [Visualization in Python](https://app.slack.com/client/TUFFMB3EE/C018C27E7FU): Filipe Fernandes, Kavin Nguyen, Sophie Clayton
+- [Machine Learning](https://app.slack.com/client/TUFFMB3EE/C0185A712QN): Valentina Staneva, Nick Record, Wu-Jung Lee
