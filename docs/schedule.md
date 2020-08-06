@@ -8,18 +8,12 @@ Tips for navigating the virtual tutorials:
 - **Vote up** questions from others to help the moderators prioritize which questions to ask the speaker during tutorials.
 
 
-<br>
-
 **All times listed below are in PDT (UTC-7).** You can find your timezone offset at [https://www.timeanddate.com](https://www.timeanddate.com) or similar sites.
 
 This schedule is also avaliable as a
 [Google Calendar](https://calendar.google.com/calendar/embed?src=c_05tbvgs1f29lrv2s17diuscuhc%40group.calendar.google.com&ctz=America%2FNew_York)
 or [iCal/WebCal](https://calendar.google.com/calendar/ical/c_05tbvgs1f29lrv2s17diuscuhc%40group.calendar.google.com/public/basic.ics)
 subscription.
-
-
-
-<br>
 
 
 ## Pre-hackweek OPTIONAL tutorials
@@ -101,14 +95,8 @@ subscription.
   </tbody>
 </table>
 
-<<<<<<< HEAD
 
-
-
-<br><br><br>
-=======
 <br>
->>>>>>> 16886f97e50626e135134541591d98509e2b2e36
 
 ## Tutorials
 
@@ -350,7 +338,6 @@ subscription.
 
 ## Helpdesks
 
-<<<<<<< HEAD
 Apart from the helpdesk Slack channels listed below, you are also welcome to direct message the helpers if you don't feel comfortable asking questions publicly.
 
 - [Git helpdesk](https://app.slack.com/client/TUFFMB3EE/C018C1MMK0A): Filipe Fernandes, Wu-Jung Lee, Kavin Nguyen
@@ -359,63 +346,3 @@ Apart from the helpdesk Slack channels listed below, you are also welcome to dir
 - [Visualization in R](https://app.slack.com/client/TUFFMB3EE/C018C882SM9): Camille Ross, Kavin Nguyen
 - [Visualization in Python](https://app.slack.com/client/TUFFMB3EE/C018C27E7FU): Filipe Fernandes, Kavin Nguyen, Sophie Clayton
 - [Machine Learning](https://app.slack.com/client/TUFFMB3EE/C0185A712QN): Valentina Staneva, Nick Record, Wu-Jung Lee
-=======
-<table>
-  <thead>
-    <tr>
-      <th>Topic</th>
-      <th>Helpers</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <strong>Git</strong>
-      </td>
-      <td>
-        Filipe Fernandes, Wu-Jung Lee
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Data Access (R)</strong>
-      </td>
-      <td>
-        Ben Tupper
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Data Access (Python)</strong>
-      </td>
-      <td>
-        Filipe Fernandes
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Visualization (R)</strong>
-      </td>
-      <td>
-        Camille Ross
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Visualization (Python)</strong>
-      </td>
-      <td>
-        Filipe Fernandes
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Machine learning</strong>
-      </td>
-      <td>
-        Valentina Staneva, Nick Record
-      </td>
-    </tr>
-  </tbody>
-</table>
->>>>>>> 16886f97e50626e135134541591d98509e2b2e36
