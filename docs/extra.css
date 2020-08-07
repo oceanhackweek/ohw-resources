@@ -26,3 +26,49 @@ code.no-highlight {
 dd {
     padding-left: 20px;
 }
+
+/* Table styles */
+/* From https://github.com/squidfunk/mkdocs-material/issues/175 */
+
+/* .md-typeset__table {
+    min-width: 100%;
+}
+ 
+.md-typeset table:not([class]) {
+    display: table;
+} */
+
+/************************* DEFAULT TABLES **************************/
+/* From https://github.com/carla-simulator/carla/blob/master/Docs/extra.css 
+   and see the style in action: https://carla.readthedocs.io/en/latest/build_linux/
+*/
+
+table.defTable {
+    border: 1px solid #242424;
+    background-color: #f3f6f6;
+    text-align: left;
+    border-collapse: collapse;
+    min-width: 100%;
+  }
+  
+  table.defTable thead {
+    background: #ffffff; 
+    border-bottom: 2px solid #444444;
+  }
+  
+  table.defTable tr:nth-child(even) {
+    background: #ffffff;
+  }
+
+  table.defTable thead th {
+    font-size: 110%;
+    padding: 7px 13px;
+  }
+
+  table.defTable tbody tr:hover {
+    background-color: #f3eab8b7;
+  }
+
+  table.defTable tbody td {
+    padding: 7px 13px;
+  }
