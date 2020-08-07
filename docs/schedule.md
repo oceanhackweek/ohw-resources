@@ -7,7 +7,6 @@ Tips for navigating the virtual tutorials:
 - Ask all your questions on the Slido page linked from the [#tutorials](https://app.slack.com/client/TUFFMB3EE/G018QH20KAM) channel. We will use this same channel everyday.
 - **Vote up** questions from others to help the moderators prioritize which questions to ask the speaker during tutorials.
 
-
 **All times listed below are in PDT (UTC-7).** You can find your timezone offset at [https://www.timeanddate.com](https://www.timeanddate.com) or similar sites.
 
 This schedule is also avaliable as a
@@ -20,7 +19,7 @@ subscription.
 
 ### Thursday (August 6)
 
-<table>
+<table class ="defTable">
   <thead>
     <tr>
       <th>Time</th>
@@ -52,7 +51,6 @@ subscription.
         </ul>
       </td>
     </tr>
-    <tr>
   </tbody>
 </table>
 
@@ -60,7 +58,7 @@ subscription.
 
 ### Friday (August 7)
 
-<table>
+<table class ="defTable">
   <thead>
     <tr>
       <th>Time</th>
@@ -91,10 +89,8 @@ subscription.
         </ul>
       </td>
     </tr>
-    <tr>
   </tbody>
 </table>
-
 
 <br>
 
@@ -102,7 +98,7 @@ subscription.
 
 ### Monday (August 10)
 
-<table>
+<table class ="defTable">
   <thead>
     <tr>
       <th>Time</th>
@@ -124,17 +120,17 @@ subscription.
       <td> </td>
     </tr>
     <tr>
-      <td>11:30AM - 12:15AM</td>
+      <td>11:30AM - 12:15PM</td>
       <td><strong>Xarray</strong></td>
       <td>Deepak Cherian</td>
     </tr>
     <tr>
-      <td>12:15AM - 12:30AM</td>
+      <td>12:15PM - 12:30PM</td>
       <td>Break</td>
       <td> </td>
     </tr>
     <tr>
-      <td>12:30AM - 1:15PM</td>
+      <td>12:30PM - 1:15PM</td>
       <td><strong>Searching and obtaining data from multiple servers</strong></td>
       <td>
         <ul>
@@ -145,7 +141,7 @@ subscription.
       </td>
     </tr>
     <tr>
-      <td>1:15AM - 1:30PM</td>
+      <td>1:15PM - 1:30PM</td>
       <td>Break</td>
       <td> </td>
     </tr>
@@ -161,7 +157,7 @@ subscription.
 
 ### Tuesday (August 11)
 
-<table>
+<table class ="defTable">
   <thead>
     <tr>
       <th>Time</th>
@@ -178,22 +174,22 @@ subscription.
       <td> </td>
     </tr>
     <tr>
-      <td>11:30AM - 12:15AM</td>
+      <td>11:30AM - 12:15PM</td>
       <td><strong>Data visualization in Python</strong></td>
       <td>Jim Bednar</td>
     </tr>
     <tr>
-      <td>12:15AM - 12:30AM</td>
+      <td>12:15PM - 12:30PM</td>
       <td>Break</td>
       <td> </td>
     </tr>
     <tr>
-      <td>12:30AM - 1:15PM</td>
+      <td>12:30PM - 1:15PM</td>
       <td><strong>Data visualization in R</strong></td>
       <td>Maria Pachiadaki</td>
     </tr>
     <tr>
-      <td>1:15AM - 1:30PM</td>
+      <td>1:15PM - 1:30PM</td>
       <td>Break</td>
       <td> </td>
     </tr>
@@ -209,7 +205,7 @@ subscription.
 
 ### Wednesday (August 12)
 
-<table>
+<table class ="defTable">
   <thead>
     <tr>
       <th>Time</th>
@@ -226,17 +222,17 @@ subscription.
       <td>Chelle Gentemann</td>
     </tr>
     <tr>
-      <td>11:30AM - 12:15AM</td>
+      <td>11:30AM - 12:15PM</td>
       <td><strong>Data management</strong></td>
       <td>Ben Tupper</td>
     </tr>
     <tr>
-      <td>12:15AM - 12:30AM</td>
+      <td>12:15PM - 12:30PM</td>
       <td>Break</td>
       <td> </td>
     </tr>
     <tr>
-      <td>12:30AM - 2:00PM</td>
+      <td>12:30PM - 2:00PM</td>
       <td><strong>Project work and helpdesk</strong></td>
       <td>Everyone</td>
     </tr>
@@ -247,7 +243,7 @@ subscription.
 
 ### Thursday (August 13)
 
-<table>
+<table class ="defTable">
   <thead>
     <tr>
       <th>Time</th>
@@ -264,17 +260,17 @@ subscription.
       <td>Valentina Staneva</td>
     </tr>
     <tr>
-      <td>11:30AM - 12:30AM</td>
+      <td>11:30AM - 12:30PM</td>
       <td><strong>ML case study and Q/A</strong></td>
       <td>Maike Sonnewald</td>
     </tr>
     <tr>
-      <td>12:30AM - 12:45AM</td>
+      <td>12:30PM - 12:45PM</td>
       <td>Break</td>
       <td> </td>
     </tr>
     <tr>
-      <td>12:45AM - 2:00PM</td>
+      <td>12:45PM - 2:00PM</td>
       <td><strong>Project work and helpdesks</strong></td>
       <td>Everyone</td>
     </tr>
@@ -285,7 +281,7 @@ subscription.
 
 ### Friday (August 14)
 
-<table>
+<table class ="defTable">
   <thead>
     <tr>
       <th>Time</th>
@@ -302,32 +298,32 @@ subscription.
       <td> </td>
     </tr>
     <tr>
-      <td>11:30AM - 12:15AM</td>
-      <td><strong>Project presentaions I</strong></td>
+      <td>11:30AM - 12:15PM</td>
+      <td><strong>Project presentations I</strong></td>
       <td>Everyone</td>
     </tr>
     <tr>
-      <td>12:15AM - 12:30AM</td>
+      <td>12:15PM - 12:30PM</td>
       <td>Break</td>
       <td> </td>
     </tr>
     <tr>
-      <td>12:30AM - 1:10PM</td>
-      <td><strong>Project presentaions II</strong></td>
+      <td>12:30PM - 1:10PM</td>
+      <td><strong>Project presentations II</strong></td>
       <td>Everyone</td>
     </tr>
     <tr>
-      <td>1:10AM - 1:15AM</td>
-      <td><strong>Break</strong></td>
+      <td>1:10PM - 1:15PM</td>
+      <td>Break</td>
       <td> </td>
     </tr>
     <tr>
-      <td>1:15AM - 1:45AM</td>
+      <td>1:15PM - 1:45PM</td>
       <td><strong>Reproducible research</strong></td>
       <td>Joseph Gum</td>
     </tr>
     <tr>
-      <td>1:45AM - 2:00PM</td>
+      <td>1:45PM - 2:00PM</td>
       <td><strong>Final Gathering</strong></td>
       <td>Everyone</td>
     </tr>
