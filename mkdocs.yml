@@ -4,21 +4,30 @@ repo_url: https://github.com/oceanhackweek/ohw-resources
 nav:
   - Overview: index.md
   - Code of Conduct: conduct.md
-  - Logistics: logistics.md
-  - Schedule: schedule.md
-  - Projects: 
-    - Project Overview: projects/overview.md
-    - Hacking at OHW20: projects/steps.md
-  # - Pre-event Preparation:
-  #   - Python Requirements: preweek/python.md
-  #   - Git & GitHub Setup: preweek/github.md
-  # - Tutorials:
+  - Logistics: 
+    - logistics/overview.md
+    - schedule.md
+    - Getting Help: logistics/getting_help.md
+  - Pre-event Preparation:
+    - Git & GitHub Setup: preweek/github.md
+    - GitHub: tutorials/github.md
+    - git: tutorials/git.md
+    - Jupyter: tutorials/jupyterhub.md
+    - Python Requirements: preweek/python.md
+    - Conda: tutorials/conda.md
+    # - Numpy: numpy.md
+    # - Pandas: pandas.md
+  - Tutorials:
+    - Data Access in Python: tutorials/github.md
     # - GitHub: tutorials/github.md
     # - git: tutorials/git.md
     # - Jupyter: tutorials/jupyterhub.md
     # - Conda: tutorials/conda.md
     # - Numpy: numpy.md
     # - Pandas: pandas.md
+  - Projects: 
+    - Project Overview: projects/overview.md
+    - Hacking at OHW20: projects/steps.md
 
 theme: 
   name: readthedocs
