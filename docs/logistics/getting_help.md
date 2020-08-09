@@ -17,19 +17,17 @@ Apart from the helpdesk Slack channels listed below, you are also welcome to dir
 
 ## During tutorials
 
-**From Wu-Jung: I think we need to have a set intro each time we start a tutorial.  Here is how we will be asking questions, here is where to get help. If we can distill the intro into a few lines, we could have the presenter dock a tab with those instructions through their full talk.**
-
 - Ask questions on Slack! Use the [#tutorials](https://app.slack.com/client/TUFFMB3EE/G018QH20KAM) channel to ask questions or check out answers to questions others have posed. We will use this same channel every day. Several of us will be monitoring this channel and addressing your questions throughout the tutorials
-- Ask questions on the Slido page linked from the #tutorials channel (see the pinned message)
 - **Vote up** questions from others to help the moderators prioritize which questions to ask the speaker during tutorials.
+- Tutorial moderators will mark questions that are best answered by the instructor and ask helpers (and anyone else!) to answer the rest in real time. Then when the instructor ask if there are questions the moderators will read those reserved for the instructor.
 - Zoom Chat will **not** be available. Ask on Slack!
 - You will be muted at the start of the tutorial presentation. The moderator will review questions on Slack and Slido, and ask the questions to the instructor during Q&A time.
 
 ## Projects
 
-See the [Projects Getting Started page](/projects/steps/).
+See the [Projects Getting Started page](../projects/steps.md).
 
 ## Reporting a Code of Conduct violation
 
-Harassment and other [Code of Conduct violations](/conduct) reduce the value of OceanHackWeek for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. You can make a report either personally or anonymously. **Anonymous reports can be made [here](https://oceanhackweek.wufoo.com/forms/zep2ybt1swlulc/).**
+Harassment and other [Code of Conduct violations](../conduct.md) reduce the value of OceanHackWeek for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. You can make a report either personally or anonymously. **Anonymous reports can be made [here](https://oceanhackweek.wufoo.com/forms/zep2ybt1swlulc/).**
 
