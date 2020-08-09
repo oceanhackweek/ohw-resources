@@ -27,6 +27,9 @@ subscription.
       <td>11:00AM - 1:00PM</td>
       <td>
         <strong>Git and GitHub</strong>
+        <br>
+        <a href="https://github.com/oceanhackweek/ohw-preweek/tree/master/git-github-survival-guide">Presentation slides (pdf)</a>
+        &mdash; <a href="https://www.youtube.com/watch?v=G0wqFMXp-ww&list=PLA6PlfxWZPLTPQ_OIr3dDPF9FRiHQXoVF&index=34&t=0s">video</a>
       </td>
       <td>
         <ul>
@@ -67,6 +70,9 @@ subscription.
       <td>
         <strong>Jupyter and Scientific Python basics:</strong>
         <br>numpy, pandas, matplotlib
+        <br>
+        <a href="https://github.com/oceanhackweek/ohw-preweek/tree/master/data-analysis-modules">Jupyter notebooks</a>
+        &mdash; <a href="https://www.youtube.com/watch?v=HNIo7Z2-mYA&list=PLA6PlfxWZPLTPQ_OIr3dDPF9FRiHQXoVF&index=35&t=0s">video</a>
       </td>
       <td>
         <ul>

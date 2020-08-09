@@ -1,33 +1,28 @@
-# Git & GitHub Setup
+# Git Setup and Basics
 
 **REVIEW THIS AND COMBINE WITH GIT AND GITHUB MATERIALS IN THE TEMPLATE**
 
 ## Getting setup with Git and GitHub
 
-We will use Git and Github for collaborative work. Be sure to arrive at Oceanhackweek with your own [GitHub](https://github.com/) account.
+We will use Git and Github for collaborative work. Be sure to arrive at OceanHackWeek with your own [GitHub](https://github.com/) account.
 
-**Git Installation**
+## Git Installation
 
+- Windows
+    - You need to install Git for Windows from this [link](https://gitforwindows.org/). For more setup details follow these [instructions](https://carpentries.github.io/workshop-template/#shell)
+- MAC OS
+    - Download the [git installer](https://git-scm.com/download/mac) and run it.
+- Linux (Debian)
+    ```
+      sudo apt install git-all
+    ```
+    
+To test open the terminal (on Windows, Git Bash) and setup your username and email:
 
-* Windows
-  - You need to install Git for Windows from this [link](https://gitforwindows.org/). For more setup details follow these [instructions](https://carpentries.github.io/workshop-template/#shell)
-
-* MAC OS
-
-  - Download the [git installer](https://git-scm.com/download/mac) and run it.
-
-* Linux (Debian)
-
-  ```
-    sudo apt install git-all
-  ```
-  
-  To test open the terminal (on Windows Git Bash) and setup your username and email:
-  
-  ```
-    git config --global user.name "your username"
-    git config --global user.email "your email"
-  ```
+```
+  git config --global user.name "your username"
+  git config --global user.email "your email"
+```
  
 
 ## Getting started with Bash
