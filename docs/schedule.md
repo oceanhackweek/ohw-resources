@@ -1,15 +1,10 @@
 # Schedule
 
-All OHW20 “live-virtual” activities will take place during the period 11am-2pm PDT / 2pm-5pm EDT / 18:00-21:00 UTC.  The Zoom link will be posted on the [#ohw20_announcements](https://app.slack.com/client/TUFFMB3EE/C017HT6NSKZ) channel.
-
-Tips for navigating the virtual tutorials:
-
-- Ask all your questions on the Slido page linked from the [#tutorials](https://app.slack.com/client/TUFFMB3EE/G018QH20KAM) channel. We will use this same channel everyday.
-- **Vote up** questions from others to help the moderators prioritize which questions to ask the speaker during tutorials.
+All OceanHackWeek 2020 “live-virtual” activities will take place during the period 11am-2pm PDT / 2pm-5pm EDT / 18:00-21:00 UTC on August 10-14.  The Zoom link is posted on the [#ohw20_announcements](https://app.slack.com/client/TUFFMB3EE/C017HT6NSKZ) channel. Tutorials will cover data science topics, followed by project hacking. Pre-hackweek OPTIONAL activities will be on August 6-7. See the schedule below for details.
 
 **All times listed below are in PDT (UTC-7).** You can find your timezone offset at [https://www.timeanddate.com](https://www.timeanddate.com) or similar sites.
 
-This schedule is also avaliable as a
+This schedule is also available as a
 [Google Calendar](https://calendar.google.com/calendar/embed?src=c_05tbvgs1f29lrv2s17diuscuhc%40group.calendar.google.com&ctz=America%2FNew_York)
 or [iCal/WebCal](https://calendar.google.com/calendar/ical/c_05tbvgs1f29lrv2s17diuscuhc%40group.calendar.google.com/public/basic.ics)
 subscription.
@@ -32,6 +27,9 @@ subscription.
       <td>11:00AM - 1:00PM</td>
       <td>
         <strong>Git and GitHub</strong>
+        <br>
+        <a href="https://github.com/oceanhackweek/ohw-preweek/tree/master/git-github-survival-guide">Presentation slides (pdf)</a>
+        &mdash; <a href="https://www.youtube.com/watch?v=G0wqFMXp-ww&list=PLA6PlfxWZPLTPQ_OIr3dDPF9FRiHQXoVF&index=34&t=0s">video</a>
       </td>
       <td>
         <ul>
@@ -70,7 +68,11 @@ subscription.
     <tr>
       <td>11:00AM - 1:00PM</td>
       <td>
-        <strong>Scientific Python basics.</strong> Jupyter, numpy, pandas, matplotlib
+        <strong>Jupyter and Scientific Python basics:</strong>
+        <br>numpy, pandas, matplotlib
+        <br>
+        <a href="https://github.com/oceanhackweek/ohw-preweek/tree/master/data-analysis-modules">Jupyter notebooks</a>
+        &mdash; <a href="https://www.youtube.com/watch?v=HNIo7Z2-mYA&list=PLA6PlfxWZPLTPQ_OIr3dDPF9FRiHQXoVF&index=35&t=0s">video</a>
       </td>
       <td>
         <ul>
@@ -131,7 +133,8 @@ subscription.
     </tr>
     <tr>
       <td>12:30PM - 1:15PM</td>
-      <td><strong>Searching and obtaining data from multiple servers</strong></td>
+      <td><strong>Searching and obtaining data 
+      <br>from multiple servers</strong></td>
       <td>
         <ul>
           <li>Filipe Fernandes</li>
@@ -329,16 +332,3 @@ subscription.
     </tr>
   </tbody>
 </table>
-
-<br>
-
-## Helpdesks
-
-Apart from the helpdesk Slack channels listed below, you are also welcome to direct message the helpers if you don't feel comfortable asking questions publicly.
-
-- [Git helpdesk](https://app.slack.com/client/TUFFMB3EE/C018C1MMK0A): Filipe Fernandes, Wu-Jung Lee, Kavin Nguyen
-- [Data Access in R](https://app.slack.com/client/TUFFMB3EE/C01859W5BQE): Ben Tupper, Kavin Nguyen
-- [Data Access in Python](https://app.slack.com/client/TUFFMB3EE/C018QL3JH5X): Filipe Fernandes, Alex Kearney, Chelle Gentemann, Emilio Mayorga, Wu-Jung Lee
-- [Visualization in R](https://app.slack.com/client/TUFFMB3EE/C018C882SM9): Camille Ross, Kavin Nguyen
-- [Visualization in Python](https://app.slack.com/client/TUFFMB3EE/C018C27E7FU): Filipe Fernandes, Kavin Nguyen, Sophie Clayton
-- [Machine Learning](https://app.slack.com/client/TUFFMB3EE/C0185A712QN): Valentina Staneva, Nick Record, Wu-Jung Lee

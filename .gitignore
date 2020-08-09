@@ -3,3 +3,4 @@ site/
 node_modules/
 *.swp
 .ipynb_checkpoints
+mkdocs_uwemiliomdev.yml

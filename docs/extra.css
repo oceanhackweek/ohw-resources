@@ -27,17 +27,6 @@ dd {
     padding-left: 20px;
 }
 
-/* Table styles */
-/* From https://github.com/squidfunk/mkdocs-material/issues/175 */
-
-/* .md-typeset__table {
-    min-width: 100%;
-}
- 
-.md-typeset table:not([class]) {
-    display: table;
-} */
-
 /************************* DEFAULT TABLES **************************/
 /* From https://github.com/carla-simulator/carla/blob/master/Docs/extra.css 
    and see the style in action: https://carla.readthedocs.io/en/latest/build_linux/
@@ -72,3 +61,14 @@ table.defTable {
   table.defTable tbody td {
     padding: 7px 13px;
   }
+
+/* Table styles */
+/* From https://github.com/squidfunk/mkdocs-material/issues/175 */
+
+/* .md-typeset__table {
+    min-width: 100%;
+}
+ 
+.md-typeset table:not([class]) {
+    display: table;
+} */
