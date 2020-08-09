@@ -13,28 +13,27 @@ We will use Git and Github for collaborative work. Be sure to arrive at OceanHac
 - MAC OS
     - Download the [git installer](https://git-scm.com/download/mac) and run it.
 - Linux (Debian)
-    ```
-      sudo apt install git-all
+    ```bash
+    sudo apt install git-all
     ```
     
 To test open the terminal (on Windows, Git Bash) and setup your username and email:
 
-```
-  git config --global user.name "your username"
-  git config --global user.email "your email"
+```bash
+git config --global user.name "your username"
+git config --global user.email "your email"
 ```
  
+## Getting started with Bash terminal
 
-## Getting started with Bash
-
-During the hackweek it will be useful to know how to navigate between files from the command line. If you are not familiar with the unix shell commands you can review the first three sections of this [Software Carpentry Shell Novice](https://swcarpentry.github.io/shell-novice/) lesson. On Windows, use the Git Bash terminal to run these commands.
+During the hackweek it will be useful to know how to navigate between files from the command line. If you are not familiar with the linux shell commands, you can review the first three sections of this [Software Carpentry Shell Novice](https://swcarpentry.github.io/shell-novice/) lesson. On Windows, use the Git Bash terminal to run these commands.
 
 
-## Command line editor
+## Terminal (command line) text editor
 
-When working on the command line, it is often handy to modify file content directly from there. For that you can use a command line editor such as `nano`. On Mac and Linux it is usually pre-installed, but for Windows you can follow the instructions in this [link](http://carpentries.github.io/workshop-template/#editor) to set it up. Test your installation by opening a terminal and running `nano --version`. If it works you can link your github with nano:
+When working on the command line (the terminal or shell), it is often handy to modify file content directly from there. For that you can use a command line editor such as [nano](https://linuxize.com/post/how-to-use-nano-text-editor/). On Mac and Linux it is usually pre-installed, but for Windows you can follow the instructions in this [link](http://carpentries.github.io/workshop-template/#editor) to set it up. Test your installation by opening a terminal and running `nano --version`. If it works you can link your git configuration with nano:
 
-```
+```bash
 git config --global core.editor "nano -w"
 ```
 
