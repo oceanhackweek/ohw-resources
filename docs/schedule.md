@@ -65,7 +65,8 @@ subscription.
     <tr>
       <td>11:00AM - 1:00PM</td>
       <td>
-        <strong>Jupyter and Scientific Python basics:</strong> numpy, pandas, matplotlib
+        <strong>Jupyter and Scientific Python basics:</strong>
+        <br>numpy, pandas, matplotlib
       </td>
       <td>
         <ul>
@@ -126,7 +127,8 @@ subscription.
     </tr>
     <tr>
       <td>12:30PM - 1:15PM</td>
-      <td><strong>Searching and obtaining data from multiple servers</strong></td>
+      <td><strong>Searching and obtaining data 
+      <br>from multiple servers</strong></td>
       <td>
         <ul>
           <li>Filipe Fernandes</li>
