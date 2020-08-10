@@ -44,6 +44,7 @@ extra:
     web_url: https://oceanhackweek.github.io/ohw-resources
     slack_url: https://oceanhackweek.slack.com
     github_org_url: https://github.com/oceanhackweek/
+    jupyterhub_url: https://ocean.hackweek.io
     email: oceanhkw@uw.edu
     admin_contact: Emilio Mayorga
 

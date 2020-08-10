@@ -14,7 +14,6 @@ We will use Git and Github for collaborative work. Be sure to arrive at OceanHac
     - Download the [git installer](https://git-scm.com/download/mac) and run it.
 - Linux (Debian): `sudo apt install git-all`
 
-
 To test open the terminal (on Windows, Git Bash) and setup your username and email:
 
 ```bash
@@ -39,7 +38,8 @@ git config --global core.editor "nano -w"
 
 ## Git steps and workflows
 
-**Steps 1-5 focus on the Git "centralized workflow". We present it here as an illustration, but the workflow we recommend for use in OHW20 is the Git Fork - Clone workflow, discussed in Step 6 and discussed in the OHW20 pre-hackweek presentation on 8/6, [here](../tutorials/getting_started.md#pre-hackweek-tutorials), and recommended for use in OHW20.**
+!!! note "Centralized vs Fork-Clone workflows"
+    Steps 1-5 focus on the Git "centralized workflow". We present it here as an illustration, but **the workflow we recommend for use in OHW20 is the Git Fork - Clone workflow, discussed in Step 6 and discussed in the OHW20 pre-hackweek presentation on 8/6, [here](../tutorials/getting_started.md#pre-hackweek-tutorials).**
 
 
 ### 1. Create a project repository
@@ -77,19 +77,9 @@ git push origin
 
 Make sure your change appears online.
 
-<!-- Use an appropriate "adminition" type and syntax -->
-! Remember to run:
+!!! note "Remember to run:"
+    `git status` to observe the changes made into the your repository. Pay attention to the colors. To see the changes in the files run `git diff`.
 
-```bash
-git status
-```
-to observe the changes made into the your repository.
-
-Pay attention to the colors. To see the changes in the files run:
-
-```bash
-git diff
-```
 
 ### 4. Update your local repository with the changes of your collaborators
 
@@ -97,14 +87,8 @@ git diff
 git pull origin master
 ```
 
-<!-- Use an appropriate "adminition" type and syntax -->
-! Remember `origin` is just a short name of the web address of the repository.
-
-To see the what is hidden in origin:
-
-```bash
-git remote -v
-```
+!!! note "Remember `origin` is just a short name of the web address of the repository."
+    To see what is hidden in origin: `git remote -v`
 
 To continue practicing these steps, make more changes to the title and the description of the project.
 
@@ -146,7 +130,8 @@ git push origin master
 
 You can continue working on as usual.
 
-! Remember to pull often and push small changes to avoid messing with complicatd merges and keep your repo up-to-date.
+!!! note "Remember to pull often and push small changes ..."
+    ... to avoid messing with complicatd merges and keep your repo up-to-date.
 
 
 ### 6. Avoiding problems: forking workflow
@@ -157,7 +142,8 @@ So far you collaborated using what is called a centralized git workflow: i.e. ev
 
 Some merge conflicts can be avoided by working with Forks instead of directly pushing to the repo.
 
-**This is the workflow covered in the OHW20 pre-hackweek presentation on 8/6, [here](../tutorials/getting_started.md#pre-hackweek-tutorials), and recommended for use in OHW20.**
+!!! note "This is the workflow covered in the OHW20 pre-hackweek presentation on 8/6"
+    The presentation is [here](../tutorials/getting_started.md#pre-hackweek-tutorials); the workflow is the one recommended for use in OHW20.
 
 Forks are public copies of the main repo, from which you can submit changes to the main repo.
 
@@ -183,8 +169,8 @@ git remote add upstream https://github.com/oceanhackweek/ohw20-project-ProjectNa
 
 From now on you will push to `origin`, but you pull from `upstream`.
 
-
-! Make sure your `origin` contains your github username, and upstream contains the oceanhackweek name.
+!!! warning 
+    "Make sure your `origin` contains your github username, and upstream contains the oceanhackweek name."
 
 #### Submitting changes via a pull request
 
@@ -196,7 +182,8 @@ git commit -m "more changes"
 git push origin master
 ```
 
-! Note they appear on your fork, but not on the main repo.
+!!! note
+    They appear on your fork, but not on the main repo.
 
 Submit a pull request by clicking `New pull request`:
 
@@ -207,7 +194,8 @@ Submit a pull request by clicking `New pull request`:
 - Reviewer: look through changes in the files
 - Approve PR or ask for more changes.
 
-! Note: while your pull request is pending, any change you push to the fork will become a part of the request. This is useful if you are asked to make small changes before your PR is accepted.
+!!! note
+    While your pull request is pending, any change you push to the fork will become a part of the request. This is useful if you are asked to make small changes before your PR is accepted.
 
 In general we encourage github users to submit changes to the main repo through pull requests, but direct push is still a viable workflow for small projects when participants work on the same documents.
 
@@ -229,7 +217,8 @@ In general we encourage github users to submit changes to the main repo through 
 	git revert HEAD
 	```
 	
-	! Note your files in the local repo will be still there. 
+!!! note
+    Your files in the local repo will be still there. 
 
 
 ## References and Resources
