@@ -6,6 +6,9 @@ Teaching software to a diverse group of participants, each with different comput
 
 We will encourage you to use our shared Hub resources for all the tutorials, and you can optionally use this for your projects as well. We also hope you will practice installing Python libraries locally on your laptop so that you can continue working after leaving our event (see our next lesson for details).
 
+For this hackweek have created virtual computing instances on Amazon Web Services (AWS) that can be deployed on demand in a parallel computing environment. We use JupyterHub as a way to give a Jupyter Notebook server (JupyterLab) to each person in a group. [These slides](https://www.slideshare.net/willingc/jupyterhub-a-thing-explainer-overview?from_action=save) give a nice overview of what JupyterHub is all about. We use JupyterHub in an educational setting because it enables us to quickly begin working with code without spending time to get the necessary libraries and dependencies set up on everyone's individual computers.
+
+
 ## How do I access the shared cloud environment?
 
 Access to our shared cloud environment is easy. Just click on [{{ hackweek.jupyterhub_url }}]({{ hackweek.jupyterhub_url }})
@@ -20,11 +23,6 @@ It will take a little bit of time for this to load - be patient! Once things are
 
 ![jupyterlab](../img/jupyterlab.png)
 
-## What is Pangeo and how is this system configured?
-
-[Pangeo](https://pangeo.io) is a community of researchers building open, reproducible and scalable scientific software tools. Several of us are involved in projects with NASA and NSF to build prototype systems to enable data discovery in the era of expanding data volume and complexity.
-
-For this hackweek have created virtual computing instances on Amazon Web Services that can be deployed on demand in a parallel computing environment. We use JupyterHub as a way to give a Jupyter Notebook server to each person in a group. [These slides](https://www.slideshare.net/willingc/jupyterhub-a-thing-explainer-overview?from_action=save) give a nice overview of what JupyterHub is all about. We use JupyterHub in an educational setting because it enables us to quickly begin working with code without spending time to get the necessary libraries and dependencies set up on everyone's individual computers.
 
 ## How do I get my code in and out of the Hub?
 
