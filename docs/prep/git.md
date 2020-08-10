@@ -226,10 +226,11 @@ In general we encourage github users to submit changes to the main repo through 
 Git and GitHub are very powerful tools but no doubt the learning curve is steep. Learning is an iterative process so below we list some resources which can help you be better prepared:
 
 - OHW19 tutorial: Git, GitHub, and Project Collaboration. [presentation files](https://github.com/oceanhackweek/ohw19-tutorial-github) and [video](https://www.youtube.com/watch?v=wWKDp4Uw25A&list=PLA6PlfxWZPLTPQ_OIr3dDPF9FRiHQXoVF&index=14&t=0s). This tutorial is the source of most of the materials for this Git page.
-- [Software Carpentry Lesson](http://swcarpentry.github.io/git-novice/)
+- [git-novice - Software Carpentry Lesson](http://swcarpentry.github.io/git-novice/) (3 hours with exercises)
+- [Setting Up Git - Software Carpentry Lesson](https://swcarpentry.github.io/git-novice/02-setup/index.html)
 - [Atlassian Tutorials - Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control)
 - [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E) (3:45 min)
-- [Software Carpentry Lesson](http://swcarpentry.github.io/git-novice/) (3 hours with exercises)
 - [GitHub Learning Lab](https://lab.github.com/): practice with a bot! (On your own pace)
 - [An interactive Git Tutorial: the tool you didn’t know you needed. From personal workflows to open collaboration](https://berkeley-stat159-f17.github.io/stat159-f17/lectures/01-git/Git-Tutorial..html)
 - [GeoHackWeek 2019 tutorial: Getting started with Git](https://geohackweek.github.io/Introductory/03-git-tutorial/)
+- [ICESAT-2HackWeek intro-jupyter-git repo](https://github.com/ICESAT-2HackWeek/intro-jupyter-git), with several notebooks going into a lot of detail.

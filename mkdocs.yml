@@ -11,7 +11,7 @@ nav:
   - Pre-event Preparation:
     - Git: prep/git.md
     - GitHub: prep/github.md
-    - Jupyter: prep/jupyterhub.md
+    - Jupyter and the Hub: prep/jupyterhub.md
     # - Conda: prep/conda.md
     # - Python Requirements: preweek/python.md
     # - Numpy: numpy.md
