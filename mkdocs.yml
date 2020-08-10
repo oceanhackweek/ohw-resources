@@ -12,7 +12,7 @@ nav:
     - Git: prep/git.md
     - GitHub: prep/github.md
     - Jupyter: prep/jupyterhub.md
-    - Conda: prep/conda.md
+    # - Conda: prep/conda.md
     # - Python Requirements: preweek/python.md
     # - Numpy: numpy.md
     # - Pandas: pandas.md
@@ -40,7 +40,7 @@ extra_css:
 
 extra:
   hackweek:
-    name: OceanHackWeek Resources
+    name: OceanHackWeek
     web_url: https://oceanhackweek.github.io/ohw-resources
     slack_url: https://oceanhackweek.slack.com
     github_org_url: https://github.com/oceanhackweek/
