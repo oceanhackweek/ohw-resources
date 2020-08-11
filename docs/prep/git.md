@@ -39,7 +39,7 @@ git config --global core.editor "nano -w"
 ## Git steps and workflows
 
 !!! note "Centralized vs Fork-Clone workflows"
-    Steps 1-5 focus on the Git "centralized workflow". We present it here as an illustration, but **the workflow we recommend for use in OHW20 is the Git Fork - Clone workflow, discussed in Step 6 and discussed in the OHW20 pre-hackweek presentation on 8/6, [here](../tutorials/getting_started.md#pre-hackweek-tutorials).**
+    Steps 1-5 focus on the Git "centralized workflow". We present it here as an illustration, but **the workflow we recommend for use in OHW20 is the Git Fork - Clone workflow, discussed in Step 6 and discussed in the OHW20 pre-hackweek presentation on 2020-8-6, [here](../tutorials/getting_started.md#pre-hackweek-tutorials).**
 
 
 ### 1. Create a project repository
@@ -50,20 +50,20 @@ On your own or someone in your project group (preferably one who has never done 
 
 Click `New` and follow the steps: check yes to create a `README.md` file.
 
-* Format project name as `ohw20-project-ProjectName` (you can change the name later), where `ProjectName` is, well, a brief name for your project
+* Format project name as `ohw20-proj-myprojectname` (you can change the name later), where `myprojectname` is a brief name for your project
 * Invite others to the repo:
-  	* `Settings -> Collaborators`
-  	* Note to collaborators: you will receive an invitation to your email associated with github.com. If you cannnot find it look for the `bell` notifications on the top right of the website.
+    * `Settings -> Collaborators`
+    * Note to collaborators: you will receive an invitation to your email associated with github.com. If you cannnot find it look for the `bell` notifications on the top right of the website.
 
 ### 2. Clone the repository
 
 Each participant should clone the repository so they have their copy on their Hub account space (and locally in the participant's computer, if desired). Navigate through the terminal to the folder where you want to keep OceanHackWeek work (`cd path_to_oceanhackweek`).
 
 ```bash
-git clone https://github.com/oceanhackweek/ohw20-project-ProjectName.git
+git clone https://github.com/oceanhackweek/ohw20-proj-myprojectname.git
 ```
 
-This will create a new folder called `ohw19-project-ProjectName`. Navigate to the new folder, `ohw19-project-ProjectName`.
+This will create a new folder called `ohw20-proj-myprojectname`. Navigate to the new folder, `ohw20-proj-myprojectname`.
 
 ### 3. Update the README with your name
 
@@ -153,18 +153,18 @@ Forks are public copies of the main repo, from which you can submit changes to t
 * Fork the public repo
 ![](../img/fork_button.png)
 	* Note it looks the same but the web address contains your username	
-    [www.github.com/valentina-s/ohw19-project-ProjectName](www.github.com/valentina-s/ohw19-project-ProjectName)
+    [www.github.com/valentina-s/ohw20-proj-myprojectname](www.github.com/valentina-s/ohw20-proj-myprojectname)
 * Go to your local repo and rename your `origin` to point to the fork:
 
 ```bash
 git remote rm origin
-git remote add origin https://github.com/valentina-s/ohw20-project-ProjectName.git
+git remote add origin https://github.com/valentina-s/ohw20-proj-myprojectname.git
 ```
 
 * Add a new remote to talk to the main repo:
 
 ```
-git remote add upstream https://github.com/oceanhackweek/ohw20-project-ProjectName.git 
+git remote add upstream https://github.com/oceanhackweek/ohw20-proj-myprojectname.git 
 ```
 
 From now on you will push to `origin`, but you pull from `upstream`.
