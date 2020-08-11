@@ -127,7 +127,7 @@ subscription.
         <strong>Xarray</strong>
         <br>
         <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/09-xarray">Jupyter notebook</a>
-        &mdash; video
+        &mdash; <a href="https://youtu.be/q020HHnGAWo">video</a>
       </td>
       <td>Deepak Cherian</td>
     </tr>
@@ -143,10 +143,9 @@ subscription.
         <br>from multiple servers</strong>
         <br>Python: 
         <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/01-Data-Access">Jupyter notebooks</a>
-        &mdash; video
         <br>R: 
         <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/08-R-tutorials">Jupyter notebooks</a>
-        &mdash; video
+        <br><a href="https://youtu.be/q4Ebdsd02g0">video</a>
       </td>
       <td>
         <ul>
@@ -163,7 +162,10 @@ subscription.
     </tr>
     <tr>
       <td>1:30PM - 2:00PM</td>
-      <td><strong>Project pitch</strong></td>
+      <td>
+        <strong>Project pitch</strong>
+        <br><a href="https://youtu.be/-UgXROWW0vs">video</a>
+      </td>
       <td>Joseph Gum</td>
     </tr>
   </tbody>
