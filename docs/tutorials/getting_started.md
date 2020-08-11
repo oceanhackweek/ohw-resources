@@ -29,7 +29,7 @@ Start the "Oceanhackweek" computing environement (the Oceanhackweek "image"). It
 This basic workflow allows you to follow along with tutorials with your own live copy of the tutorials notebooks while staying up-to-date with any changes made to the master tutorials repository, [ohw20-tutorials](https://github.com/oceanhackweek/ohw20-tutorials).
 
 ### Shortcut
-The first time you try to upload the ohw20-tutorials, Launch a new terminal, then enter:
+The first time you try to upload (`git clone`) the `ohw20-tutorials` repository, launch a new terminal, then enter:
 
 ```bash
 git clone https://github.com/oceanhackweek/ohw20-tutorials.git
@@ -40,7 +40,7 @@ Now you have a new `ohw20-tutorials` directory under your "home" directory, `/ho
 ### Longer description - Step 1
 Navigate to the [tutorial repository on GitHub](https://github.com/oceanhackweek/ohw20-tutorials).
 
-Clone the tutorial to your machine/Pangeo environment. You can easily copy the link to a repository by selecting the green "clone or download" dropdown (making sure the pop up says "Clone with HTTPS") and hitting the clipboard icon, which will automatically copy the link for you.
+Clone the tutorial to the Hub environment. You can easily copy the link to a repository by selecting the green "clone or download" dropdown (making sure the pop up says "Clone with HTTPS") and hitting the clipboard icon, which will automatically copy the link for you.
 
 Launch a terminal (using the "plus" sign in the upper left corner of your JupyterHub) and execute:
 
@@ -55,7 +55,7 @@ cd ohw20-tutorials
 Follow along by opening and running the tutorial notebooks. You can save changes within your clone (such as edits to a notebook) or add other files, then download a copy to your local machine if you'd like.
 
 ### Step 3
-Update your local copy with any changes to the `origin` repository. If you have saved changes within your local copy of the notebook or added other files, this may cause conflicts (*ask us questions if you run into problems!*). Fetch and merge (using `git pull`) the latest changes from the `origin` remote.
+Update your Hub copy with any changes to the `origin` repository. If you have saved changes within your local copy of the notebook or added other files, this may cause conflicts (*ask us questions if you run into problems!*). Fetch and merge (using `git pull`) the latest changes from the `origin` remote.
 
 ```bash
 git pull origin
@@ -63,7 +63,7 @@ git pull origin
 
 These instructions assume you're working on the default `master` branch.
 
-**Please note: the OceanHackWeek JupyterHub (the Hub) should not be relied upon to save your files beyond the duration of the hackweek, and will be removed a couple of weeks after the hackweek. Thus, for any non-repository changes or repository changes that have not been pushed to GitHub, you MUST complete Step 4 to save the files to your local machine if you would like continued access to them.**
+**Please note: the OceanHackWeek JupyterHub (the Hub) should not be relied upon to save your files beyond the duration of the hackweek, and will be removed a couple of weeks after the hackweek. Thus, for any non-repository changes or repository changes that have not been pushed to GitHub, you MUST complete Step 3 to save the files to your local machine if you would like continued access to them.**
 
 ----
 Adapted from [https://icesat-2hackweek.github.io/learning-resources/tutorials/getting_started/](https://icesat-2hackweek.github.io/learning-resources/tutorials/getting_started/). Originally from [https://medium.com/sweetmeat/how-to-keep-a-downstream-git-repository-current-with-upstream-repository-changes-10b76fad6d97](https://medium.com/sweetmeat/how-to-keep-a-downstream-git-repository-current-with-upstream-repository-changes-10b76fad6d97)

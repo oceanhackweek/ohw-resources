@@ -123,7 +123,12 @@ subscription.
     </tr>
     <tr>
       <td>11:30AM - 12:15PM</td>
-      <td><strong>Xarray</strong></td>
+      <td>
+        <strong>Xarray</strong>
+        <br>
+        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/09-xarray">Jupyter notebook</a>
+        &mdash; video
+      </td>
       <td>Deepak Cherian</td>
     </tr>
     <tr>
@@ -133,8 +138,16 @@ subscription.
     </tr>
     <tr>
       <td>12:30PM - 1:15PM</td>
-      <td><strong>Searching and obtaining data 
-      <br>from multiple servers</strong></td>
+      <td>
+        <strong>Searching and obtaining data 
+        <br>from multiple servers</strong>
+        <br>Python: 
+        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/01-Data-Access">Jupyter notebooks</a>
+        &mdash; video
+        <br>R: 
+        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/08-R-tutorials">Jupyter notebooks</a>
+        &mdash; video
+      </td>
       <td>
         <ul>
           <li>Filipe Fernandes</li>
@@ -264,8 +277,8 @@ subscription.
     </tr>
     <tr>
       <td>11:30AM - 12:30PM</td>
-      <td><strong>ML case study and Q/A</strong></td>
-      <td>Maike Sonnewald</td>
+      <td><strong><a href="https://doi.org/10.1126/sciadv.aay4740">Elucidating ecological complexity: Unsupervised learning determines global marine eco-provinces</a></strong></td>
+      <td><a href="http://msonnewald.com/">Maike Sonnewald</a></td>
     </tr>
     <tr>
       <td>12:30PM - 12:45PM</td>
