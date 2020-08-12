@@ -7,17 +7,17 @@ Teaching software to a diverse group of participants, each with different comput
 We encourage you to use our shared Hub resources for running all the tutorials, and you can optionally use this for your projects as well. We also hope you will practice installing Python libraries locally on your laptop so that you can continue working after leaving our event.
 
 !!! note "Pre-Hackweek Jupyter tutorial"
-     **See the OHW20 pre-hackweek presentation on 8/7, [here](../tutorials/getting_started.md#pre-hackweek-tutorials), which demonstrated effective Jupyter use both locally and on the OHW Hub**
+     **See the OHW20 pre-hackweek presentation on 2020-8-7, [here](../tutorials/getting_started.md#pre-hackweek-tutorials), which demonstrated effective Jupyter use both locally and on the OHW Hub**
 
 ## How do I access the shared cloud environment?
 
 Access to our shared cloud environment is easy. Just click on [{{ hackweek.jupyterhub_url }}]({{ hackweek.jupyterhub_url }})
 
-![pangeo-opening](../img/ohwjupyterhub-opening.png)
+![hub-opening](../img/ohwjupyterhub-opening.png)
 
 Assuming you set up your GitHub credentials correctly (see the previous lesson), you can now click on the "Sign in with GitHub" button:
 
-![pangeo-loading](../img/pangeo-loading.png)
+![hub-loading](../img/pangeo-loading.png)
 
 It will take a little bit of time for this to load - be patient! Once things are spun up you will see your very own instance of a [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) graphical user interface:
 
@@ -51,10 +51,7 @@ Now navigate back to your command line in JupyterLab. Type "git clone" and then 
 git clone https://github.com/oceanhackweek/ohw20-tutorials.git
 ```
 
-!!! note "A note about cutting and pasting"
-    Pasting something from your clipboard into the Pangeo terminal requires holding down the "shift" key and right-clicking.  This is different from the usual Linux method that only requires a right click.
-
-After issuing the Git clone command you should see something like this:
+After issuing the git clone command you should see something like this:
 
 ![clone-result](../img/clone-result.png)
 

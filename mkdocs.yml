@@ -12,7 +12,7 @@ nav:
     - Git: prep/git.md
     - GitHub: prep/github.md
     - Jupyter and the Hub: prep/jupyterhub.md
-    # - Conda: prep/conda.md
+    # - Conda, Python, R: prep/conda.md
     # - Python Requirements: preweek/python.md
     # - Numpy: numpy.md
     # - Pandas: pandas.md
