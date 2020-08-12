@@ -42,12 +42,17 @@ Navigate to the [tutorial repository on GitHub](https://github.com/oceanhackweek
 
 Clone the tutorial to the Hub environment. You can easily copy the link to a repository by selecting the green "clone or download" dropdown (making sure the pop up says "Clone with HTTPS") and hitting the clipboard icon, which will automatically copy the link for you.
 
-Launch a terminal (using the "plus" sign in the upper left corner of your JupyterHub) and execute:
+Launch a terminal using the "plus" sign in the upper left corner of your JupyterHub:
+
+![Jupyter Launch Terminal](../img/Jupyter-LaunchNewTerminal.jpg)
+
+then execute the `git clone` statement:
 
 ```bash
 git clone https://github.com/oceanhackweek/ohw20-tutorials.git
-cd ohw20-tutorials
 ```
+
+A new `ohw20-tutorials` directory will be created, holding the repository clone.
 
 <!-- _Note: a more detailed version of step 1, including images, is available as part of the [Preliminary Steps - JupyterHub Connection](https://icesat-2hackweek.github.io/learning-resources/preliminary/jupyterhub/#how-do-i-get-my-code-in-and-out-of-pangeo) -->
 
