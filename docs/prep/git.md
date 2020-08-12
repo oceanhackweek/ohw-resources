@@ -142,7 +142,7 @@ So far you collaborated using what is called a centralized git workflow: i.e. ev
 
 Some merge conflicts can be avoided by working with Forks instead of directly pushing to the repo.
 
-!!! note "This is the workflow covered in the OHW20 pre-hackweek presentation on 8/6"
+!!! note "This is the workflow covered in the OHW20 pre-hackweek presentation on 2020-8-6"
     The presentation is [here](../tutorials/getting_started.md#pre-hackweek-tutorials); the workflow is the one recommended for use in OHW20.
 
 Forks are public copies of the main repo, from which you can submit changes to the main repo.
@@ -152,7 +152,7 @@ Forks are public copies of the main repo, from which you can submit changes to t
 * Sync your local repo with the public one
 * Fork the public repo
 ![](../img/fork_button.png)
-	* Note it looks the same but the web address contains your username	
+    * Note it looks the same but the web address contains your username	
     [www.github.com/valentina-s/ohw20-proj-myprojectname](www.github.com/valentina-s/ohw20-proj-myprojectname)
 * Go to your local repo and rename your `origin` to point to the fork:
 
@@ -169,7 +169,7 @@ git remote add upstream https://github.com/oceanhackweek/ohw20-proj-myprojectnam
 
 From now on you will push to `origin`, but you pull from `upstream`.
 
-!!! warning 
+!!! warning
     "Make sure your `origin` contains your github username, and upstream contains the oceanhackweek name."
 
 #### Submitting changes via a pull request

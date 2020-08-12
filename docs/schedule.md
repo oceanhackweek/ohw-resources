@@ -187,14 +187,21 @@ subscription.
     <tr>
       <td>11:00AM - 11:30AM</td>
       <td>
-        <strong>Participants lightning talk</strong>
+        <strong>Participants Introductions 
+        <br>& Discussions</strong>
       </td>
       <td> </td>
     </tr>
     <tr>
       <td>11:30AM - 12:15PM</td>
-      <td><strong>Data visualization in Python</strong></td>
-      <td>Jim Bednar</td>
+      <td>
+        <strong>Data visualization in Python
+        <br>with Holoviz</strong>
+        <br>
+        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/holoviz-examples">Jupyter notebooks</a>
+        &mdash; <a href="https://youtu.be/fW7-XT_8m6U">video</a>
+      </td>
+      <td>James Bednar</td>
     </tr>
     <tr>
       <td>12:15PM - 12:30PM</td>
@@ -203,7 +210,12 @@ subscription.
     </tr>
     <tr>
       <td>12:30PM - 1:15PM</td>
-      <td><strong>Data visualization in R</strong></td>
+      <td>
+        <strong>Data visualization in R</strong>
+        <br>
+        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/02-R-genomicviz">Jupyter notebooks</a>
+        &mdash; <a href="https://youtu.be/B49zCa-P0Hs">video</a>
+      </td>
       <td>Maria Pachiadaki</td>
     </tr>
     <tr>
@@ -235,13 +247,17 @@ subscription.
     <tr>
       <td>11:00AM - 11:30AM</td>
       <td>
-        <strong>Satellite data access and manipulation</strong>
+        <strong>Satellite data from the cloud,</strong>
+        <br>in Python
       </td>
       <td>Chelle Gentemann</td>
     </tr>
     <tr>
       <td>11:30AM - 12:15PM</td>
-      <td><strong>Data management</strong></td>
+      <td>
+        <strong>Raster data management,</strong>
+        <br>in R
+      </td>
       <td>Ben Tupper</td>
     </tr>
     <tr>
@@ -251,7 +267,9 @@ subscription.
     </tr>
     <tr>
       <td>12:30PM - 2:00PM</td>
-      <td><strong>Project work and helpdesk</strong></td>
+      <td>
+        <strong>Project work and helpdesk</strong>
+      </td>
       <td>Everyone</td>
     </tr>
   </tbody>
