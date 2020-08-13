@@ -249,6 +249,9 @@ subscription.
       <td>
         <strong>Satellite data from the cloud,</strong>
         <br>in Python
+        <br>
+        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/10-satellite-data-access">Jupyter notebooks</a>
+        &mdash; <a href="https://youtu.be/6LzVSjd3dt0">video</a>
       </td>
       <td>Chelle Gentemann</td>
     </tr>
@@ -257,8 +260,17 @@ subscription.
       <td>
         <strong>Raster data management,</strong>
         <br>in R
+        <br>
+        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/08-R-tutorials">Jupyter notebooks</a>
+        &mdash; <a href="https://youtu.be/YPhY5Vq611s">video</a>
       </td>
-      <td>Ben Tupper</td>
+      <td>
+        <ul>
+          <li>Camille Ross</li>
+          <li>Nick Record</li>
+          <li>Ben Tupper</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>12:15PM - 12:30PM</td>
