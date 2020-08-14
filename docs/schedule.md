@@ -347,7 +347,14 @@ subscription.
   </thead>
   <tbody>
     <tr>
-      <td>11:00AM - 11:30AM</td>
+      <td>11:00AM - 11:05AM</td>
+      <td>
+        <strong>Introduction and guidance for today</strong>
+      </td>
+      <td>Cath Mitchell</td>
+    </tr>
+    <tr>
+      <td>11:05AM - 11:30AM</td>
       <td>
         <strong>Groups finalizing projects</strong>
       </td>
