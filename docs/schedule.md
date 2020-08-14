@@ -304,12 +304,20 @@ subscription.
       <td>11:00AM - 11:30AM</td>
       <td>
         <strong>Machine learning</strong>
+        <br>
+        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/ml-overview">Presentation materials</a>
+        &mdash; <a href="https://youtu.be/1hgu9YhxZVA">video</a>
       </td>
       <td>Valentina Staneva</td>
     </tr>
     <tr>
       <td>11:30AM - 12:30PM</td>
-      <td><strong><a href="https://doi.org/10.1126/sciadv.aay4740">Elucidating ecological complexity: Unsupervised learning determines global marine eco-provinces</a></strong></td>
+      <td>
+        <strong><a href="https://doi.org/10.1126/sciadv.aay4740">Elucidating ecological complexity: Unsupervised learning determines global marine eco-provinces</a></strong>
+        <br>
+        Presentation
+        &mdash; <a href="https://youtu.be/L0kdQITUZcg">video</a>
+      </td>
       <td><a href="http://msonnewald.com/">Maike Sonnewald</a></td>
     </tr>
     <tr>
