@@ -371,18 +371,23 @@ subscription.
       <td> </td>
     </tr>
     <tr>
-      <td>12:30PM - 1:10PM</td>
+      <td>12:30PM - 1:00PM</td>
       <td><strong>Project presentations II</strong></td>
       <td>Everyone</td>
     </tr>
     <tr>
-      <td>1:10PM - 1:15PM</td>
+      <td>1:00PM - 1:15PM</td>
       <td>Break</td>
       <td> </td>
     </tr>
     <tr>
       <td>1:15PM - 1:45PM</td>
-      <td><strong>Reproducible research</strong></td>
+      <td>
+        <strong>Reproducible research</strong>
+        <br>
+        Presentation
+        &mdash; <a href="https://youtu.be/qQZVEfljyDI">video</a>
+      </td>
       <td>Joseph Gum</td>
     </tr>
     <tr>
