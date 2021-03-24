@@ -315,7 +315,7 @@ subscription.
       <td>
         <strong><a href="https://doi.org/10.1126/sciadv.aay4740">Elucidating ecological complexity: Unsupervised learning determines global marine eco-provinces</a></strong>
         <br>
-        Presentation
+        <a href="https://drive.google.com/file/d/1pkoB2iF3TMrZgROkUtMQvCx4GfbrzGej/view?usp=sharing">Presentation</a>
         &mdash; <a href="https://youtu.be/L0kdQITUZcg">video</a>
       </td>
       <td><a href="http://msonnewald.com/">Maike Sonnewald</a></td>
