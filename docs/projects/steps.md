@@ -1,13 +1,10 @@
-# Hacking at OHW20
+# Hacking at OHW21
 
 ## How will the projects be conducted?
 
-Different from previous years, OHW20 is a lighter-weight event in respect of everyone's time constraints and additional responsibilities due to COVID impacts. The hack projects will therefore be primarily proposed and mentored by OHW organizers, rather than from brainstorming and spontaneous group formation in previous in-person events.
+We have put together the Project proposal form (**COMING SOON!**) that includes a list of questions that walk you through the few things to consider while setting up a project. Feel free to bounce ideas and form groups in the `#ohw21_project` channel prior to the event, and submit the proposal form when you think you/your team is ready.
 
-OHW20 organizers have put together a list of 12 projects: [Descriptions of all mentored projects](https://docs.google.com/document/d/12e3e2i_C8XK-XqeBpeS71aox1T5m7_42DOec8Q-pmD4/edit?usp=sharing). On Monday (August 10) we will have a brief “project pitch” session for an overview of all projects, but feel free to [sign up on this google spreadsheet](https://docs.google.com/spreadsheets/d/1aqqw9xRMewZkow-wBWHh-xlH-L4IK0KOCTVfqQqrSQ8/edit?usp=sharing) beforehand and/or ask questions in #general or in each specific Slack project channel.
-
-You are welcome to gather a group to work on other project ideas, but due to time constraints we will not be able to provide dedicated support for these projects. You’re however welcome to ask questions via Slack helpdesk channels.
-
+On Tuesday August 3 we will have a brief “project setup” session for an overview of all projects already proposed up to that point, and give another opportunity to pitch new ideas that may be formed throughout the day. The deadline to submit project proposals is 3pm PDT / 6pm EDT / 22:00 UTC that day.
 
 ## Tips for getting started
 

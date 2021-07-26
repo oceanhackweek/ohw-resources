@@ -1,14 +1,15 @@
-site_name: OceanHackWeek Resources
+site_name: OceanHackWeek'21 Resources
 repo_url: https://github.com/oceanhackweek/ohw-resources
 
 nav:
   - Overview: index.md
+  - About OHW: about_ohw.md
   - Code of Conduct: conduct.md
   - Logistics: 
     - logistics/overview.md
     - schedule.md
     - Getting Help: logistics/getting_help.md
-  - Pre-event Preparation:
+  - Preparation:
     - Git: prep/git.md
     - GitHub: prep/github.md
     - Jupyter and the Hub: prep/jupyterhub.md
@@ -21,7 +22,7 @@ nav:
     # - Data Access in Python: tutorials/github.md
   - Projects: 
     - Project Overview: projects/overview.md
-    - Hacking at OHW20: projects/steps.md
+    - Hacking at OHW21: projects/steps.md
 
 theme: 
   name: readthedocs

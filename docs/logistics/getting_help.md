@@ -1,5 +1,7 @@
 # Getting Help
 
+**THIS PAGE WILL BE UPDATED FOR OHW21 SOON. STAY TUNED!**
+
 We know how overwhelming all of this information can be. Here is some for asking questions and figuring out where to turn for help.
 
 You can ask anything on the Slack #general channel, any time. Organizers and helpers are monitoring this channel, and some of your fellow hackweek participants may be able to help you! Also, feel free to send a direct message on Slack to any of the organizers or helpers. 

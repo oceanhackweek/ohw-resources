@@ -1,5 +1,7 @@
 # Overview of Logistics
 
+**THIS PAGE WILL BE UPDATED FOR OHW21 SOON. STAY TUNED!**
+
 ## Time
 
 OceanHackWeek 2020 will take place **online** daily, during the period 11am-2pm PDT / 2pm-5pm EDT / 18:00-21:00 UTC on August 10-14. Tutorials will cover data science topics, followed by project hacking in the afternoon. [Pre-hackweek OPTIONAL activities](../schedule.md#pre-hackweek-optional-tutorials) will be on August 6-7. See [Tutorial schedule](../schedule.md#tutorials) for details.
