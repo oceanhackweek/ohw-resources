@@ -1,5 +1,13 @@
 # Schedule
 
+**The OHW21 schedules are coming soon. Stay tuned!**
+
+Some of you will participate in person at the [Bigelow Laboratory for Ocean Sciences](https://www.bigelow.org/) in Maine (US), and others will participate virtually from time zones all over the world. As we have learned throughout the pandemic, each of these gathering styles has strengths and weaknesses. We are committed to providing an engaging and full experience for everyone and will strive to facilitate cross communication and collaboration across all participants.
+
+**In-person participants** will gather for full days, 9am - 5pm EDT. While **virtual participants** may choose to engage primarily with this group and schedule via Zoom and Slack, we strongly encourage you to join the program designed specifically as a virtual event. The virtual event will be split into two schedules and groups based on the distribution of participant time zones, in a 3-hour daily block of formal, live activities. The larger virtual event will take place 11:00am - 2:00pm PDT / 18:00 - 21:00 UTC, except the first day when we will start 30 minutes earlier. The “Oceania” virtual event is intended to accommodate participants from Australia to India. You will be asked to choose between the two virtual groups.
+
+<!-- 
+
 All OceanHackWeek 2020 “live-virtual” activities will take place during the period 11am-2pm PDT / 2pm-5pm EDT / 18:00-21:00 UTC on August 10-14.  The Zoom link is posted on the [#ohw20_announcements](https://app.slack.com/client/TUFFMB3EE/C017HT6NSKZ) channel. Tutorials will cover data science topics, followed by project hacking. Pre-hackweek OPTIONAL activities will be on August 6-7. See the schedule below for details.
 
 **All times listed below are in PDT (UTC-7).** You can find your timezone offset at [https://www.timeanddate.com](https://www.timeanddate.com) or similar sites.
@@ -396,4 +404,6 @@ subscription.
       <td>Everyone</td>
     </tr>
   </tbody>
-</table>
+</table> 
+
+-->

@@ -1,5 +1,7 @@
 # Project Overview
 
+Collaborative projects are a key component of OceanHackWeek, in which you get to interact with others closely and apply new skills to make something exciting happen: it can be creating tools to streamline access of a particular data source, visualizing some high density data interactively, testing existing models with new data sources, or anything else you may want to do at the intersection of oceanography and data science.
+
 ## What is a Hack?
 
 A "hack" is a small project that aims to solve a specific problem using computational tools.

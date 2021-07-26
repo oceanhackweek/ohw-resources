@@ -1,43 +1,22 @@
 # Overview
 
-## What is a hackweek?
+Welcome to [OceanHackWeek](about_ohw.md) 2021 (OHW21)! OHW21 a 4-day collaborative learning experience taking place August 3-6, 2021, as a hybrid in-person and virtual event. It is aimed at exploring, creating and promoting effective computation and analysis workflows for large and complex oceanographic data. It includes tutorials, data exploration, software development, collaborative projects and community networking. At our [general web site (https://oceanhackweek.github.io)](https://oceanhackweek.github.io) you can read more about OceanHackWeek, including the [OHW21 organizing committee](https://oceanhackweek.github.io/our-team.html) and links to [events from previous years](https://oceanhackweek.github.io/pasthackweeks.html).
 
-[The hackweek model](https://doi.org/10.1073/pnas.1717196115) has emerged in the data
-science community as a powerful tool for fostering exchange of ideas in research
-and computation by providing training in modern data analysis workflows.
-In contrast to conventional academic conferences or workshops, hackweeks are intensive
-and interactive, facilitated by three core components: tutorials on state-of-the-art
-methodologies, peer-learning, and on-site project work in a collaborative environment.
-Compared to hackathons typically focused on software development, hackweeks have a greater 
-focus on learning and open-ended projects as informal education and peer learning opportunities.
-This setup is particularly powerful for sciences that require not only domain-specific
-knowledge but also effective computational workflows to foster rapid exchange of ideas
-and make discovery.
+**This site is being actively updated this week (week before OHW21)! Much of it is still out of date, and is the content from last year. We'll keep you posted about updates via Slack. In the meantime, please watch out for references to 2020 ("OHW20") or links that don't work.** This is specially true for the schedule and tutorials pages. Check back soon.
 
-This is an excellent match with the nature of oceanographic research
-where data are large and complex and the community is diverse and collaborative.
-The hackweek model adopted by [OceanHackWeek](https://oceanhackweek.github.io) was spearheaded by 
-the successful [*Astro-*](http://astrohackweek.org/),
-[*Neuro-*](https://neurohackweek.github.io/), and [*Geohackweek*](https://geohackweek.github.io/).
+To make sure that OHW21 will be a welcoming environment for everyone, please read our [Code of Conduct](conduct.md) carefully as part of your preparation. We expect all participants to adhere to the Code of Conduct in all interactions throughout the hackweek.
 
+## Schedules
 
-## Mission Statement
+**In-person participants** will gather for full days, 9am - 5pm EDT. While **virtual participants** may choose to engage primarily with this group and schedule via Zoom and Slack, we strongly encourage you to join the program designed specifically as a virtual event. The virtual event will be split into two schedules and groups based on the distribution of participant time zones, in a 3-hour daily block of formal, live activities. The larger virtual event will take place 11:00am - 2:00pm PDT / 18:00 - 21:00 UTC, except the first day when we will start 30 minutes earlier. The “Oceania” virtual event is intended to accommodate participants from Australia to India. You will be asked to choose between the two virtual groups.
 
-### Core objectives
-The core objectives of OceanHackWeek are:
+The fleshed out schedules will be [available soon in the Schedule page](schedule.md).
 
-1. **Promote data and software proficiency in the ocean sciences community:** Provide oceanographers with computational and data science skills to advance modern oceanographic research, which often requires the integration and manipulation of diverse sources of big data and models.
+## Preparation
 
-2. **Facilitate inclusive community building:** Connect oceanographers across disciplines, career stages and trajectories, and diversity of experience and identity to cultivate an inclusive, open and sharing culture that catalyzes data-intensive research.
+We will use a [JupyterHub](https://jupyter.org/hub)-based online environment for all OceanHackWeek computational activities, including tutorials; this environment supports both Python and R. You will need a robust internet connection and a capable laptop or desktop computer. **On July 29 and 30, we will offer short optional sessions to answer questions on the basics of Git, GitHub, Jupyter and core R and Python scientific libraries, and OceanHackWeek in general. We'll send information about these sessions shortly, including links about these materials.** We will use Slack, Zoom and GitHub as our primary communication and content delivery platforms. The week before OceanHackWeek you will receive via email an invitation to join the OceanHackWeek GitHub organization.
 
-### Training and education
-We will share knowledge in modern software tools aimed at handling increasingly large and complex oceanographic datasets. Our approach will be to develop templates for best practices in solving common oceanographic data science challenges, built off a set of sample datasets provided during the hackathon. We will learn from leading experts in various fields, and use this knowledge to develop educational content that can be shared across disciplines long after the event. Our training will focus on software tools, but we will also explore challenges in successfully navigating complexity in project management and design.
-
-### Networking and community building
-We will connect students, faculty, software developers and others across industry, government and academic settings. The connections we make during the hackathon will be maintained through an online user community. We hope our activities can foster the growth of an interdisciplinary network for solving Earth science challenges.
-
-### Software development
-We will harness our collective talent assembled during the event to rapidly advance the development of software tools.
+The content in the **Preparation** section will be updated soon, and the pre-hackweek schedule will be available in the [Schedule page](schedule.md).
 
 
 <!-- 
