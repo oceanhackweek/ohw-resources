@@ -1,23 +1,20 @@
 # Overview
 
-Welcome to [OceanHackWeek](about_ohw.md) 2021 (OHW21)! OHW21 a 4-day collaborative learning experience taking place August 3-6, 2021, as a hybrid in-person and virtual event. It is aimed at exploring, creating and promoting effective computation and analysis workflows for large and complex oceanographic data. It includes tutorials, data exploration, software development, collaborative projects and community networking. At our [general web site (https://oceanhackweek.github.io)](https://oceanhackweek.github.io) you can read more about OceanHackWeek, including the [OHW21 organizing committee](https://oceanhackweek.github.io/our-team.html) and links to [events from previous years](https://oceanhackweek.github.io/pasthackweeks.html).
+Welcome to [OceanHackWeek](about_ohw.md) 2021 (OHW21)! OHW21 is a 4-day collaborative learning experience taking place August 3-6, 2021, as a hybrid in-person and virtual event. It is aimed at exploring, creating and promoting effective computation and analysis workflows for large and complex oceanographic data. It includes tutorials, data exploration, software development, collaborative projects and community networking. At our [general web site (https://oceanhackweek.github.io)](https://oceanhackweek.github.io) you can read more about OceanHackWeek, including the [OHW21 organizing committee](https://oceanhackweek.github.io/our-team.html) and links to [events from previous years](https://oceanhackweek.github.io/pasthackweeks.html).
 
-**This site is being actively updated this week (week before OHW21)! Much of it is still out of date, and is the content from last year. We'll keep you posted about updates via Slack. In the meantime, please watch out for references to 2020 ("OHW20") or links that don't work.** This is specially true for the schedule and tutorials pages. Check back soon.
+**This site is being actively updated this week (week before OHW21)! Some parts are still out of date, and is the content from last year. We'll keep you posted about updates via Slack. In the meantime, please watch out for references to 2020 ("OHW20") or links that don't work.**
 
 To make sure that OHW21 will be a welcoming environment for everyone, please read our [Code of Conduct](conduct.md) carefully as part of your preparation. We expect all participants to adhere to the Code of Conduct in all interactions throughout the hackweek.
 
 ## Schedules
 
-**In-person participants** will gather for full days, 9am - 5pm EDT. While **virtual participants** may choose to engage primarily with this group and schedule via Zoom and Slack, we strongly encourage you to join the program designed specifically as a virtual event. The virtual event will be split into two schedules and groups based on the distribution of participant time zones, in a 3-hour daily block of formal, live activities. The larger virtual event will take place 11:00am - 2:00pm PDT / 18:00 - 21:00 UTC, except the first day when we will start 30 minutes earlier. The “Oceania” virtual event is intended to accommodate participants from Australia to India. You will be asked to choose between the two virtual groups.
-
-The fleshed out schedules will be [available soon in the Schedule page](schedule.md).
+There are three different schedules, corresponding to the **in-person event**, the **main virtual event** and the **Oceania virtual event**. The "Oceania" virtual event is intended to accommodate participants from Australia to India. You will be asked to choose between the two virtual groups. Go to [the Schedule page for details](schedule.md).
 
 ## Preparation
 
-We will use a [JupyterHub](https://jupyter.org/hub)-based online environment for all OceanHackWeek computational activities, including tutorials; this environment supports both Python and R. You will need a robust internet connection and a capable laptop or desktop computer. **On July 29 and 30, we will offer short optional sessions to answer questions on the basics of Git, GitHub, Jupyter and core R and Python scientific libraries, and OceanHackWeek in general. We'll send information about these sessions shortly, including links about these materials.** We will use Slack, Zoom and GitHub as our primary communication and content delivery platforms. The week before OceanHackWeek you will receive via email an invitation to join the OceanHackWeek GitHub organization.
+We will use a [JupyterHub](https://jupyter.org/hub)-based online environment for all OceanHackWeek computational activities, including tutorials; this environment supports both Python and R. You will need a robust internet connection and a capable laptop or desktop computer. **On July 29 and 30, we will offer short "pre-hackweek" optional sessions to answer questions on the basics of Git, GitHub, Jupyter and core R and Python scientific libraries, and OceanHackWeek in general. The schedule is available in the [Schedule page](schedule.md#pre-hackweek-optional-check-ins), and the Zoom link will be sent via Slack.** The content in the **Preparation** section will be updated very soon.
 
-The content in the **Preparation** section will be updated soon, and the pre-hackweek schedule will be available in the [Schedule page](schedule.md).
-
+We will use Slack, Zoom and GitHub as our primary communication and content delivery platforms. The week before OceanHackWeek you will receive via email an invitation to join the OceanHackWeek GitHub organization, [https://github.com/oceanhackweek/](https://github.com/oceanhackweek/).
 
 <!-- 
 ![hackweek-mission](../img/hackweek-mission.png)
