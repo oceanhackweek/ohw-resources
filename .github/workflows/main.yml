@@ -8,8 +8,6 @@ jobs:
   conda-mkdocs:
     name: MkDocs
     runs-on: "ubuntu-latest"
-    env:
-      ACTIONS_ALLOW_UNSECURE_COMMANDS: true
     steps:
       - uses: actions/checkout@v2
       - uses: conda-incubator/setup-miniconda@v2.1.1
