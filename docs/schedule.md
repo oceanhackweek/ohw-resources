@@ -6,7 +6,6 @@ Some of you will participate in person at the [Bigelow Laboratory for Ocean Scie
 
 **In-person participants** will gather for full days, 9am - 5pm EDT. While **virtual participants** may choose to engage primarily with this group and schedule via Zoom and Slack, we strongly encourage you to join the program designed specifically as a virtual event. The virtual event will be split into two schedules and groups based on the distribution of participant time zones, in a 3-hour daily block of formal, live activities. The larger virtual event will take place 11:00am - 2:00pm PDT / 18:00 - 21:00 UTC, except the first day when we will start 30 minutes earlier. The “Oceania” virtual event is intended to accommodate participants from Australia to India. You will be asked to choose between the two virtual groups.
 
-<!-- 
 
 All OceanHackWeek 2020 “live-virtual” activities will take place during the period 11am-2pm PDT / 2pm-5pm EDT / 18:00-21:00 UTC on August 10-14.  The Zoom link is posted on the [#ohw20_announcements](https://app.slack.com/client/TUFFMB3EE/C017HT6NSKZ) channel. Tutorials will cover data science topics, followed by project hacking. Pre-hackweek OPTIONAL activities will be on August 6-7. See the schedule below for details.
 
@@ -18,9 +17,9 @@ or [iCal/WebCal](https://calendar.google.com/calendar/ical/c_05tbvgs1f29lrv2s17d
 subscription.
 
 
-## Pre-hackweek OPTIONAL tutorials
+## Pre-hackweek OPTIONAL check-ins
 
-### Thursday (August 6)
+### Thursday (July 29)
 
 <table class ="defTable">
   <thead>
@@ -62,7 +61,7 @@ subscription.
 
 <br>
 
-### Friday (August 7)
+### Friday (July 30)
 
 <table class ="defTable">
   <thead>
@@ -104,9 +103,11 @@ subscription.
 
 <br>
 
-## Tutorials
+## OHW21 Schedules
 
-### Monday (August 10)
+**BREAK UP INTO IN-PERSON, MAIN/LARGE VIRTUAL, AND OCEANIA VIRTUAL SECTIONS**
+
+### Tuesday (August 3)
 
 <table class ="defTable">
   <thead>
@@ -181,67 +182,7 @@ subscription.
 
 <br>
 
-### Tuesday (August 11)
-
-<table class ="defTable">
-  <thead>
-    <tr>
-      <th>Time</th>
-      <th>Event</th>
-      <th>Instructors</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>11:00AM - 11:30AM</td>
-      <td>
-        <strong>Participants Introductions 
-        <br>& Discussions</strong>
-      </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>11:30AM - 12:15PM</td>
-      <td>
-        <strong>Data visualization in Python
-        <br>with Holoviz</strong>
-        <br>
-        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/holoviz-examples">Jupyter notebooks</a>
-        &mdash; <a href="https://youtu.be/fW7-XT_8m6U">video</a>
-      </td>
-      <td>James Bednar</td>
-    </tr>
-    <tr>
-      <td>12:15PM - 12:30PM</td>
-      <td>Break</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>12:30PM - 1:15PM</td>
-      <td>
-        <strong>Data visualization in R</strong>
-        <br>
-        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/02-R-genomicviz">Jupyter notebooks</a>
-        &mdash; <a href="https://youtu.be/B49zCa-P0Hs">video</a>
-      </td>
-      <td>Maria Pachiadaki</td>
-    </tr>
-    <tr>
-      <td>1:15PM - 1:30PM</td>
-      <td>Break</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>1:30PM - 2:00PM</td>
-      <td><strong>Project work and helpdesks</strong></td>
-      <td>Everyone</td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-### Wednesday (August 12)
+### Wednesday (August 4)
 
 <table class ="defTable">
   <thead>
@@ -297,7 +238,7 @@ subscription.
 
 <br>
 
-### Thursday (August 13)
+### Thursday (August 5)
 
 <table class ="defTable">
   <thead>
@@ -343,7 +284,7 @@ subscription.
 
 <br>
 
-### Friday (August 14)
+### Friday (August 6)
 
 <table class ="defTable">
   <thead>
@@ -404,6 +345,4 @@ subscription.
       <td>Everyone</td>
     </tr>
   </tbody>
-</table> 
-
--->
+</table>

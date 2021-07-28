@@ -1,20 +1,22 @@
-# Overview of Logistics
-
-**THIS PAGE WILL BE UPDATED FOR OHW21 SOON. STAY TUNED!**
+# Logistics Overview
 
 ## Time
 
-OceanHackWeek 2020 will take place **online** daily, during the period 11am-2pm PDT / 2pm-5pm EDT / 18:00-21:00 UTC on August 10-14. Tutorials will cover data science topics, followed by project hacking in the afternoon. [Pre-hackweek OPTIONAL activities](../schedule.md#pre-hackweek-optional-tutorials) will be on August 6-7. See [Tutorial schedule](../schedule.md#tutorials) for details.
+OceanHackWeek 2021 will take place August 3-6. *Pre-hackweek OPTIONAL activities* will be on July 29-30 as a 1-hour session each day.
+
+**In-person participants** will gather for full days, 9am - 5pm EDT. While **virtual participants** may choose to engage primarily with this group and schedule via Zoom and Slack, we strongly encourage you to join the program designed specifically as a virtual event. The virtual event will be split into two schedules and groups based on the distribution of participant time zones, in a 3-hour daily block of formal, live activities. The **larger virtual event** will take place 11:00am - 2:00pm PDT / 18:00 - 21:00 UTC, *except the first day when we will start 30 minutes earlier*. The **“Oceania” virtual event** is intended to accommodate participants from Australia to India and will take place 12:00pm - 3:00pm AEST / 2:00 - 5:00 UTC. You will be asked to choose between the two virtual groups.
+
+Detailed schedules are available [Schedule page](../schedule.md).
 
 ## Channel of communication: Slack
 
 We will use the [OceanHackWeek Slack workspace](http://oceanhackweek.slack.com/) as the main channel of communication before, during, and after the hackweek. You should have received an invitation to join this workspace. If you haven't seen it in your inbox, check your spam folder, or email us at *oceanhkw@uw.edu*.
 
-[go directly from a channel or direct message chat into a voice or video chat](https://slack.com/help/articles/216771908-Make-calls-in-Slack), with screen-sharing capability. This will be particularly useful during hack project time.
+[Go directly from a channel or direct message chat into a voice or video chat](https://slack.com/help/articles/216771908-Make-calls-in-Slack), with screen-sharing capability. This will be particularly useful during hack project time.
 
 ## OHW JupyterHub ("The Hub") and GitHub
 
-- OHW JupyterHub ("The Hub"): [https://ocean.hackweek.io](https://ocean.hackweek.io)
+- OHW JupyterHub ("The Hub"): *Coming soon*
 - OHW GitHub organization: [https://github.com/oceanhackweek](https://github.com/oceanhackweek)
 
 ## Tutorials broadcasting
@@ -23,7 +25,7 @@ We will use Zoom to broadcast all tutorials. The Zoom link will be distributed v
 
 ## Hack projects
 
-See [Project overview](../projects/overview.md) and [Hacking at OHW20](../projects/steps.md) for more info.
+See [Project overview](../projects/overview.md) and [Hacking at OHW21](../projects/steps.md) for more info.
 
 ## Getting Help
 
