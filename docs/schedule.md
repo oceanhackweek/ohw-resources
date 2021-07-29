@@ -146,7 +146,7 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       <td>
         <strong>Tutorial: Data access</strong>
         <br>Searching and obtaining ocean data
-        <br>from multiple servers
+        <br>from multiple sources
       </td>
       <td>
         <ul><li>Filipe Fernandes</li></ul>
@@ -163,7 +163,11 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
         <strong>Project setup and pitch</strong>
       </td>
       <td>
-        <ul><li>Wu-Jung Lee</li></ul>
+        <ul>
+          <li>Joseph Gum</li>
+          <li>Wu-Jung Lee</li>
+          <li>Nick Record</li>
+        </ul>
       </td>
     </tr>
   </tbody>

@@ -42,10 +42,14 @@ extra_css:
 extra:
   hackweek:
     name: OceanHackWeek
+    name_lc: oceanhackweek
+    prefix: ohw
+    currentprefix: ohw21
+    year: 2021
     web_url: https://oceanhackweek.github.io/ohw-resources
     slack_url: https://oceanhackweek.slack.com
-    github_org_url: https://github.com/oceanhackweek/
-    jupyterhub_url: https://ocean.hackweek.io
+    github_org_url: https://github.com/oceanhackweek
+    jupyterhub_url: https://ohw.pilot.2i2c.cloud
     email: oceanhkw@uw.edu
     admin_contact: Emilio Mayorga
 

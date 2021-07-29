@@ -1,36 +1,46 @@
 # JupyterHub
 
-## Why are we using a shared cloud environment?
+## Jupyter notebooks and the Jupyter ecosystem
 
-Teaching software to a diverse group of participants, each with different computers and operating systems, can be challenging. As you'll learn in the next lesson, there are specific ways to configure our software for the tutorials to be successful, so it takes time to get everyone set up consistently. Our solution to this is to give everyone access to a cloud computing environment that is pre-configured for the specific software we will deploy. This cloud computing instance can be accessed from any web browser, which eliminates the need for configuring each person's individual computer. For this hackweek we have created virtual computing instances on Amazon Web Services (AWS) that can be deployed on demand in a parallel computing environment. We use JupyterHub as a way to give a Jupyter Notebook server (JupyterLab) to each person in a group. [These (slightly old) slides](https://www.slideshare.net/willingc/jupyterhub-a-thing-explainer-overview?from_action=save) give a nice overview of what JupyterHub is all about. JupyterHub enables us to quickly begin working with code without spending time to get the necessary libraries and dependencies set up on everyone's individual computers.
+You may have heard of [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter) -- an open computing "ecosystem" developed by [Project Jupyter](https://jupyter.org). This ecosystem is described succinctly and effectively in [the online open book, Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/):
 
-We encourage you to use our shared Hub resources for running all the tutorials, and you can optionally use this for your projects as well. We also hope you will practice installing Python libraries locally on your laptop so that you can continue working after leaving our event.
+> Project Jupyter is three things: a collection of standards, a community, and a set of software tools. Jupyter Notebook, one part of Jupyter, is software that creates a Jupyter notebook. A Jupyter notebook is a document that supports mixing executable code, equations, visualizations, and narrative text. Specifically, Jupyter notebooks allow the user to bring together data, code, and prose, to tell an interactive, computational story. ([*"2.2 But first, what is Jupyter Notebook?"*](https://jupyter4edu.github.io/jupyter-edu-book/why-we-use-jupyter-notebooks.html#but-first-what-is-jupyter-notebook))
 
-!!! note "Pre-Hackweek Jupyter tutorial"
-     **See the OHW20 pre-hackweek presentation on 2020-8-7, [here](../tutorials/getting_started.md#pre-hackweek-tutorials), which demonstrated effective Jupyter use both locally and on the OHW Hub**
+We will use the [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) software to create, manage and run Jupyter notebooks. You will be exposed to Jupyter notebooks throughout the hackweek, including in most tutorials. To learn more about Jupyter, Jupyter notebooks and JupyterLab:
+
+- Check out several sections in the *Teaching and Learning with Jupyter* online open book, specially [Chapter 5 Jupyter Notebook ecosystem](https://jupyter4edu.github.io/jupyter-edu-book/jupyter.html).
+- See the OceanHackWeek 2020 pre-hackweek tutorial "Jupyter and Scientific Python basics: numpy, pandas, matplotlib", which demonstrates effective Jupyter use both on your computer ("locally") and on JupyterHub: [Jupyter notebooks](https://github.com/oceanhackweek/ohw-preweek/tree/master/data-analysis-modules) — [tutorial video](https://youtu.be/CTUAgpvfze0). The video includes Q&As at the end where you'll find common questions you may find asking yourself.
+- See the [resources at the end of this page](#references-and-resources).
+
+## Why are we using a shared cloud computing environment?
+
+Teaching software to a diverse group of participants, each with different computers and operating systems, can be challenging. There are specific ways to configure our software for the tutorials to be successful, so it takes time to get everyone set up consistently. Our solution to this is to give everyone access to a cloud computing environment that is pre-configured for the specific software we will deploy. This cloud computing instance can be accessed from any web browser, which eliminates the need for configuring each person's individual computer. For this hackweek we have created virtual computing instances that can be deployed on demand in a parallel computing environment. We use JupyterHub as a way to give a Jupyter Notebook server ([JupyterLab](https://jupyterlab.readthedocs.io/en/stable/)) to each person in a group. [These (slightly old) slides](https://www.slideshare.net/willingc/jupyterhub-a-thing-explainer-overview?from_action=save) give a nice overview of what JupyterHub is all about. JupyterHub enables us to quickly begin working with code without spending time to get the necessary libraries and dependencies set up on everyone's individual computers.
+
+We encourage you to use our shared JupyterHub resources for running all the tutorials and for your projects. We also hope you will practice installing Python libraries locally on your laptop so that you can continue working after leaving our event.
 
 ## How do I access the shared cloud environment?
 
 Access to our shared cloud environment is easy. Just click on [{{ hackweek.jupyterhub_url }}]({{ hackweek.jupyterhub_url }})
 
-![hub-opening](../img/ohwjupyterhub-opening.png)
+![hub-opening](../img/{{hackweek.currentprefix}}-jupyterhub-opening.png)
 
-Assuming you set up your GitHub credentials correctly (see the previous lesson), you can now click on the "Sign in with GitHub" button:
+You can now click on the "Log in to continue" button, then on the next screen click on "Sign in with GitHub" to grant JupyterHub the required permissions. In the next window, enter your GitHub username (or email address) and password. 
+You will then see something like this while the JupyterHub {{hackweek.name}} {{hackweek.year}} server environment is loading:
 
-![hub-loading](../img/pangeo-loading.png)
+![hub-loading](../img/{{hackweek.currentprefix}}-jupyterhub-loading.png)
 
-It will take a little bit of time for this to load - be patient! Once things are spun up you will see your very own instance of a [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) graphical user interface:
+It will take a bit of time for this to load - be patient! Once things are spun up you will see your very own instance of a [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) graphical user interface:
 
-![jupyterlab](../img/jupyterlab.png)
+![jupyterlab](../img/{{hackweek.currentprefix}}-jupyterlab.png)
 
 
-## How do I get my code in and out of the Hub?
+## How do I get my code in and out of JupyterHub?
 
-When you start your own instance of the Hub you will have access to your own virtual drive space. No other Hub users will be able to see or access your data files. Next we will explain how you can upload files to your virtual drive space and how to save files from the Hub back to another location, such as GitHub or your own local laptop drive.
+When you start your own instance of JupyterHub you will have access to your own virtual drive space. No other JupyterHub users will be able to see or access your data files. Next we will explain how you can upload files to your virtual drive space and how to save files from JupyterHub back to another location, such as GitHub or your own local laptop drive.
 
-First we'll show you how to pull some files from GitHub into your virtual drive space.  This will be a common task during the hackweek: at the start of each tutorial we'll ask you to "clone" (make a copy of) the GitHub repository corresponding to the specific tutorial being taught into your Hub drive space.
+First we'll show you how to pull some files from GitHub into your virtual drive space.  This will be a common task during the hackweek: at the start of most tutorials we'll ask you to "clone" (make a copy of) the GitHub repository corresponding to the specific tutorial being taught into your JupyterHub drive space.
 
-To do this, we will need to interface with the file system of the Hub. Hub is deployed in a Linux operating system and we will need to open a terminal within the Hub JupyterLab interface to manage our files. There are two ways to do this: (1) Navigate to the "File" menu, choose "New" and then "Terminal" or (2) click on the "terminal" button in JupyterLab: 
+To do this, we will need to interface with the JupyterHub file system. JupyterHub is deployed in a Linux operating system and we will need to open a terminal within the JupyterHub JupyterLab interface to manage our files. There are two ways to do this: (1) Navigate to the "File" menu, choose "New" and then "Terminal" or (2) click on the "terminal" button in JupyterLab:
 
 ![terminal-button](../img/terminal-button.png)
 
@@ -38,39 +48,40 @@ This will open a new terminal tab in your JupyterLab interface:
 
 ![terminal-tab](../img/terminal.png)
 
-Now you can issue any Linux commands to manage your local file system.
+You can issue any Linux commands to manage your local file system.
 
-Now let's clone a repository (Note: we'll be teaching about Git clone during our introductory tutorials). This tutorial is built in a repository called "preliminary", so let's try cloning that. First, navigate in a browser on your own computer to the repository link [here](oceanhackweek/ohw20-tutorials). Next, click on the green "clone or download" button and then copy the url into your clipboard by clicking the copy button:
+Now let's clone a repository (see the [Git Setup and Basics](../prep/git.md) page). We'll illustrate this with the `ohw-tutorials` repository. First, navigate in a browser on your own computer to the repository link [{{hackweek.github_org_url}}/ohw-tutorials]({{hackweek.github_org_url}}/ohw-tutorials). Next, click on the green "Code" button and then copy the url into your clipboard by clicking the copy button (clipboard icon):
 
-<!-- CREATE NEW SCREENSHOT USING OHW ORG -->
-![clone](../img/clone.png)
+![clone](../img/{{hackweek.currentprefix}}-clone.png)
 
-Now navigate back to your command line in JupyterLab. Type "git clone" and then paste in the url:
+Now navigate back to your command line in JupyterLab. Type `git clone` and then paste in the url:
 
 ```bash
-git clone https://github.com/oceanhackweek/ohw20-tutorials.git
+git clone {{hackweek.github_org_url}}/ohw-tutorials.git
 ```
 
-After issuing the git clone command you should see something like this:
+After issuing the `git clone` command you should see something like this (again, the screenshot below is for a different repo, but the concept is identical):
 
 ![clone-result](../img/clone-result.png)
 
 ## How do I end my Hub session? Will I lose all of my work?
 
-When you are finished working for the day it is important to explicitly log out of your Hub session. The reason for this is it will save us a bit of money! When you keep a session active it uses up AWS resources and keeps a series of virtual machines deployed. 
+When you are finished working for the day it is important to explicitly log out of your JupyterHub session, to reduce the load on our cloud infrastructure and overall costs.
 
 **To log out and stop the server, select the menu item `File > Log Out`.**
 
 !!! warning "logging out"
     Logging out will **NOT** cause any of your work to be lost or deleted. It simply shuts down some resources. It would be equivalent to turning off your desktop computer at the end of the day.
 
-
 ## References and Resources
 
 - [Why Jupyter is data scientists’ computational notebook of choice. An improved architecture and enthusiastic user base are driving uptake of the open-source web tool (Nature, 2018-10)](https://www.nature.com/articles/d41586-018-07196-1)
+- [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/), an online open book.
+- OceanHackWeek 2020 pre-hackweek tutorial "Jupyter and Scientific Python basics: numpy, pandas, matplotlib": [Jupyter notebooks](https://github.com/oceanhackweek/ohw-preweek/tree/master/data-analysis-modules) — [tutorial video](https://youtu.be/CTUAgpvfze0).
 - From [https://dataquest.io](https://dataquest.io)
     - [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
     - [Tutorial: Advanced Jupyter Notebooks](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
     - [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 - [Getting Started with JupyterLab](https://www.blog.pythonlibrary.org/2019/02/05/getting-started-with-jupyterlab/)
+- [Lesson 0b: Introduction to JupyterLab - (Justin Bois) Introduction to Data Analysis in the Biological Sciences, Caltech](http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2019a/content/lessons/lesson_00/l00b_intro_to_jupyterlab.html)
 - [Jupyter Lab: Evolution of the Jupyter Notebook. An overview of JupyterLab, the next generation of the Jupyter Notebook.](https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b)
