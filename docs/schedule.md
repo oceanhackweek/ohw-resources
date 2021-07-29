@@ -257,11 +257,11 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
     <tr>
       <td>11:45AM - 12:30PM</td>
       <td>
-        <strong>Data management</strong>
+        <strong>Reproducible Science & Data Management</strong>
         <br>
       </td>
       <td>
-        <ul><li>Matt Biddle</li></ul>
+        <ul><li>Mathew Biddle</li></ul>
       </td>
     </tr>
     <tr>
