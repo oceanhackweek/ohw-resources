@@ -198,10 +198,11 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
     <tr>
       <td>11:30AM - 12:15PM</td>
       <td>
-        <strong>Data visualization in Python</strong>
+        <strong>R oce package</strong>
+        <br>for processing and visualizing ocean data
       </td>
       <td>
-        <ul><li>Aimee Barciauskas</li></ul>
+        <ul><li>Clark Richards</li></ul>
       </td>
     </tr>
     <tr>
@@ -212,11 +213,10 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
     <tr>
       <td>12:30PM - 1:30PM</td>
       <td>
-        <strong>R oce package</strong>
-        <br>for processing and visualizing ocean data
+        <strong>Data visualization in Python</strong>
       </td>
       <td>
-        <ul><li>Clark Richards</li></ul>
+        <ul><li>Aimee Barciauskas</li></ul>
       </td>
     </tr>
     <tr>
