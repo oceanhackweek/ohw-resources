@@ -1,5 +1,7 @@
 # Getting started on tutorials
 
+**THIS PAGE HAS NOT BEEN UPDATED FROM OHW20 YET. CHECK BACK SOON!**
+
 ## Introduction
 
 Most tutorials will be run live as Jupyter notebooks on the [OceanHackWeek JupyterHub ("The Hub")](https://ocean.hackweek.io/) in your browser. The instructor and and all participants can be running their own copies of the notebooks in their Hub account, with files cloned from the OHW source in GitHub.
