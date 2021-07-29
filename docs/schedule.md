@@ -84,11 +84,224 @@ All times listed below are in [PDT (UTC-7)](https://www.timeanddate.com/time/zon
 
 <br>
 
-## In-person event at Bigelow Ocean Sciences Lab
+## In-person event at Bigelow Laboratory for Ocean Sciences
 
 All times listed below for the in-person event are in [EDT (UTC-4)](https://www.timeanddate.com/time/zones/edt). You can find your timezone offset at [https://www.timeanddate.com](https://www.timeanddate.com) or similar sites.
 
-In-person participants will gather 9am - 5pm EDT. The detailed schedule will be available soon.
+In-person participants will gather 9am - 5pm EDT. 
+
+### Tuesday (August 3)
+
+<table class ="defTable">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+      <th>Instructors/Leads</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:00AM - 9:30AM</strong></td>
+      <td>
+        <strong>Welcome and Opening</strong>
+        <br>
+      </td>
+      <td>
+        <ul><li>TBD</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9:30AM - 10:15AM</td>
+      <td>
+        <strong>Connecting</strong>
+        <br>Participant introductions icebreaker activity
+      </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10:15AM - 10:30AM</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10:30AM - 11:15AM</td>
+      <td>
+        <strong>Project brainstorming</strong>
+      </td>
+      <td>
+        <ul><li>TBD</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11:15AM - 12:00PM</td>
+      <td>
+		<strong>Git and JupyterHub</strong>
+	  </td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>12:00PM - 1:30PM</td>
+      <td>Lunch</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1:30PM - 5:00PM</td>
+      <td>
+        <strong>Join Main Virtual Event</strong>
+        <br>See the [Main Virtual Event](#main-virtual-event) detailed schedule
+		<br>below (note those times are PDT)
+      </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+### Wednesday (August 4)
+
+<table class ="defTable">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+      <th>Instructors/Leads</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:00AM - 12:00PM</td>
+      <td>
+        <strong>Project work</strong>
+      </td>
+      <td>
+        <ul><li></li></ul>
+      </td>
+    </tr>	
+    <tr>
+      <td>12:00PM - 1:00PM</td>
+      <td>Lunch</td>
+      <td> </td>
+    </tr>
+	<tr>
+      <td>12:00PM - 1:00PM</td>
+      <td>
+        <strong>Project work</strong>
+      </td>
+      <td>
+        <ul><li></li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2:00PM - 5:00PM</td>
+      <td>
+        <strong>Join Main Virtual Event</strong>
+        <br>See the [Main Virtual Event](#main-virtual-event) detailed schedule
+		<br>below (note those times are PDT)
+      </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+### Thursday (August 5)
+
+<table class ="defTable">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+      <th>Instructors/Leads</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:00AM - 12:00PM</td>
+      <td>
+        <strong>Project work</strong>
+      </td>
+      <td>
+        <ul><li></li></ul>
+      </td>
+    </tr>	
+    <tr>
+      <td>12:00PM - 1:00PM</td>
+      <td>Lunch</td>
+      <td> </td>
+    </tr>
+	<tr>
+      <td>12:00PM - 1:00PM</td>
+      <td>
+        <strong>Project work</strong>
+      </td>
+      <td>
+        <ul><li></li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2:00PM - 5:00PM</td>
+      <td>
+        <strong>Join Main Virtual Event</strong>
+        <br>See the [Main Virtual Event](#main-virtual-event) detailed schedule
+		<br>below (note those times are PDT)
+      </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+### Friday (August 6)
+
+<table class ="defTable">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+      <th>Instructors/Leads</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:00AM - 12:00PM</td>
+      <td>
+        <strong>Project work</strong>
+      </td>
+      <td>
+        <ul><li></li></ul>
+      </td>
+    </tr>	
+    <tr>
+      <td>12:00PM - 1:00PM</td>
+      <td>Lunch</td>
+      <td> </td>
+    </tr>
+	<tr>
+      <td>12:00PM - 1:00PM</td>
+      <td>
+        <strong>Project work</strong>
+      </td>
+      <td>
+        <ul><li></li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2:00PM - 5:00PM</td>
+      <td>
+        <strong>Join Main Virtual Event</strong>
+        <br>See the [Main Virtual Event](#main-virtual-event) detailed schedule
+		<br>below (note those times are PDT)
+      </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ## Main Virtual event
 
