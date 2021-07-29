@@ -64,14 +64,22 @@ After issuing the `git clone` command you should see something like this (again,
 
 ![clone-result](../img/clone-result.png)
 
-## How do I end my Hub session? Will I lose all of my work?
+## End your Hub session every day. Will I lose all of my work?
 
-When you are finished working for the day it is important to explicitly log out of your JupyterHub session, to reduce the load on our cloud infrastructure and overall costs.
+**When you are finished working for the day or for an extended period of time, it is important to explicitly shutdown your JupyterHub session,** to reduce the load on our cloud infrastructure and overall costs. 
 
-**To log out and stop the server, select the menu item `File > Log Out`.**
+**To shutdown your server**, if you are viewing JupyterLab, you access the control via `File > Hub Control Panel` menu item:
 
-!!! warning "logging out"
-    Logging out will **NOT** cause any of your work to be lost or deleted. It simply shuts down some resources. It would be equivalent to turning off your desktop computer at the end of the day.
+![hub shut down step 1](../img/{{hackweek.currentprefix}}-shutdownhub-step1.png)
+
+Then you can shutdown your server from your hub control panel (which you can also access directly from {{hackweek.jupyterhub_url}}/hub/home ):
+
+![hub shut down step 2](../img/{{hackweek.currentprefix}}-shutdownhub-step2.png)
+
+Note that the menu item `File > Log Out` doesn't actually shut down the server, so please follow these steps instead.
+
+!!! warning You will not lose your work when shutting down the server
+    Shutting down (Stop Server) will **NOT** cause any of your work to be lost or deleted. It simply shuts down some resources. It would be equivalent to turning off your desktop computer at the end of the day.
 
 ## References and Resources
 
