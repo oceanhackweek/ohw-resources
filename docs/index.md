@@ -12,7 +12,7 @@ There are three different schedules, corresponding to the **in-person event**, t
 
 ## Preparation
 
-We will use a [JupyterHub](https://jupyter.org/hub)-based online environment for all OceanHackWeek computational activities, including tutorials; this environment supports both Python and R. You will need a robust internet connection and a capable laptop or desktop computer. **On July 29 and 30, we will offer short "pre-hackweek" optional sessions to answer questions on the basics of Git, GitHub, Jupyter and core R and Python scientific libraries, and OceanHackWeek in general. The schedule is available in the [Schedule page](schedule.md#pre-hackweek-optional-check-ins), and the Zoom link will be sent via Slack.** The content in the **Preparation** section will be updated very soon.
+We will use a [JupyterHub](https://jupyter.org/hub)-based online environment for all OceanHackWeek computational activities, including tutorials; this environment supports both Python and R. You will need a robust internet connection and a capable laptop or desktop computer. **On July 29 and 30, we will offer short "pre-hackweek" optional sessions to answer questions on the basics of Git, GitHub, Jupyter and core R and Python scientific libraries, and OceanHackWeek in general. The schedule is available in the [Schedule page](schedule.md#pre-hackweek-optional-check-ins), and the Zoom link will be sent via Slack.**
 
 We will use Slack, Zoom and GitHub as our primary communication and content delivery platforms. The week before OceanHackWeek you will receive via email an invitation to join the OceanHackWeek GitHub organization, [https://github.com/oceanhackweek/](https://github.com/oceanhackweek/).
 
