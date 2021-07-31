@@ -103,7 +103,7 @@ In-person participants will gather 9am - 5pm EDT.
   </thead>
   <tbody>
     <tr>
-      <td><strong>9:00AM - 9:30AM</strong></td>
+      <td><strong>9:00AM - 9:30AM<br>EDT</strong></td>
       <td>
         <strong>Welcome and Opening</strong>
         <br>
@@ -113,7 +113,7 @@ In-person participants will gather 9am - 5pm EDT.
       </td>
     </tr>
     <tr>
-      <td>9:30AM - 10:15AM</td>
+      <td>9:30AM - 10:15AM<br>EDT</td>
       <td>
         <strong>Connecting</strong>
         <br>Participant introductions icebreaker activity
@@ -121,12 +121,12 @@ In-person participants will gather 9am - 5pm EDT.
       <td> </td>
     </tr>
     <tr>
-      <td>10:15AM - 10:30AM</td>
+      <td>10:15AM - 10:30AM<br>EDT</td>
       <td>Break</td>
       <td> </td>
     </tr>
     <tr>
-      <td>10:30AM - 11:15AM</td>
+      <td>10:30AM - 11:15AM<br>EDT</td>
       <td>
         <strong>Project brainstorming</strong>
       </td>
@@ -135,19 +135,19 @@ In-person participants will gather 9am - 5pm EDT.
       </td>
     </tr>
     <tr>
-      <td>11:15AM - 12:00PM</td>
+      <td>11:15AM - 12:00PM<br>EDT</td>
       <td>
 		<strong>Git and JupyterHub</strong>
 	  </td>
       <td>TBD</td>
     </tr>
     <tr>
-      <td>12:00PM - 1:30PM</td>
+      <td>12:00PM - 1:30PM<br>EDT</td>
       <td>Lunch</td>
       <td> </td>
     </tr>
     <tr>
-      <td>1:30PM - 5:00PM</td>
+      <td>1:30PM - 5:00PM<br>EDT</td>
       <td>
         <strong>Join Main Virtual Event</strong>
         <br>See the <a href="#main-virtual-event">Main Virtual Event</a> detailed schedule
@@ -172,7 +172,7 @@ In-person participants will gather 9am - 5pm EDT.
   </thead>
   <tbody>
     <tr>
-      <td>9:00AM - 12:00PM</td>
+      <td>9:00AM - 12:00PM<br>EDT</td>
       <td>
         <strong>Project work</strong>
       </td>
@@ -181,12 +181,12 @@ In-person participants will gather 9am - 5pm EDT.
       </td>
     </tr>	
     <tr>
-      <td>12:00PM - 1:00PM</td>
+      <td>12:00PM - 1:00PM<br>EDT</td>
       <td>Lunch</td>
       <td> </td>
     </tr>
 	<tr>
-      <td>12:00PM - 1:00PM</td>
+      <td>12:00PM - 1:00PM<br>EDT</td>
       <td>
         <strong>Project work</strong>
       </td>
@@ -195,7 +195,7 @@ In-person participants will gather 9am - 5pm EDT.
       </td>
     </tr>
     <tr>
-      <td>2:00PM - 5:00PM</td>
+      <td>2:00PM - 5:00PM<br>EDT</td>
       <td>
         <strong>Join Main Virtual Event</strong>
         <br>See the <a href="#main-virtual-event">Main Virtual Event</a> detailed schedule
@@ -220,7 +220,7 @@ In-person participants will gather 9am - 5pm EDT.
   </thead>
   <tbody>
     <tr>
-      <td>9:00AM - 12:00PM</td>
+      <td>9:00AM - 12:00PM<br>EDT</td>
       <td>
         <strong>Project work</strong>
       </td>
@@ -229,12 +229,12 @@ In-person participants will gather 9am - 5pm EDT.
       </td>
     </tr>	
     <tr>
-      <td>12:00PM - 1:00PM</td>
+      <td>12:00PM - 1:00PM<br>EDT</td>
       <td>Lunch</td>
       <td> </td>
     </tr>
 	<tr>
-      <td>12:00PM - 1:00PM</td>
+      <td>12:00PM - 1:00PM<br>EDT</td>
       <td>
         <strong>Project work</strong>
       </td>
@@ -243,7 +243,7 @@ In-person participants will gather 9am - 5pm EDT.
       </td>
     </tr>
     <tr>
-      <td>2:00PM - 5:00PM</td>
+      <td>2:00PM - 5:00PM<br>EDT</td>
       <td>
         <strong>Join Main Virtual Event</strong>
         <br>See the <a href="#main-virtual-event">Main Virtual Event</a> detailed schedule
@@ -268,7 +268,7 @@ In-person participants will gather 9am - 5pm EDT.
   </thead>
   <tbody>
     <tr>
-      <td>9:00AM - 12:00PM</td>
+      <td>9:00AM - 12:00PM<br>EDT</td>
       <td>
         <strong>Project work</strong>
       </td>
@@ -277,12 +277,12 @@ In-person participants will gather 9am - 5pm EDT.
       </td>
     </tr>	
     <tr>
-      <td>12:00PM - 1:00PM</td>
+      <td>12:00PM - 1:00PM<br>EDT</td>
       <td>Lunch</td>
       <td> </td>
     </tr>
 	<tr>
-      <td>12:00PM - 1:00PM</td>
+      <td>12:00PM - 1:00PM<br>EDT</td>
       <td>
         <strong>Project work</strong>
       </td>
@@ -291,7 +291,7 @@ In-person participants will gather 9am - 5pm EDT.
       </td>
     </tr>
     <tr>
-      <td>2:00PM - 5:00PM</td>
+      <td>2:00PM - 5:00PM<br>EDT</td>
       <td>
         <strong>Join Main Virtual Event</strong>
         <br>See the <a href="#main-virtual-event">Main Virtual Event</a> detailed schedule
@@ -319,7 +319,7 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
   </thead>
   <tbody>
     <tr>
-      <td><strong>10:30AM - 11:00AM</strong></td>
+      <td><strong>10:30AM - 11:00AM<br>PDT</strong></td>
       <td>
         <strong>Welcome and Opening</strong>
         <br>
@@ -333,7 +333,7 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       </td>
     </tr>
     <tr>
-      <td>11:00AM - 11:30AM</td>
+      <td>11:00AM - 11:30AM<br>PDT</td>
       <td>
         <strong>Connecting</strong>
         <br>Participant introductions icebreaker activity
@@ -341,7 +341,7 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       <td> </td>
     </tr>
     <tr>
-      <td>11:30AM - 12:15PM</td>
+      <td>11:30AM - 12:15PM<br>PDT</td>
       <td>
         <strong>Tutorial: Xarray</strong>
         <br>
@@ -353,12 +353,12 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       </td>
     </tr>
     <tr>
-      <td>12:15PM - 12:30PM</td>
+      <td>12:15PM - 12:30PM<br>PDT</td>
       <td>Break</td>
       <td> </td>
     </tr>
     <tr>
-      <td>12:30PM - 1:15PM</td>
+      <td>12:30PM - 1:15PM<br>PDT</td>
       <td>
         <strong>Tutorial: Data access</strong>
         <br>Searching and obtaining ocean data
@@ -369,12 +369,12 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       </td>
     </tr>
     <tr>
-      <td>1:15PM - 1:30PM</td>
+      <td>1:15PM - 1:30PM<br>PDT</td>
       <td>Break</td>
       <td> </td>
     </tr>
     <tr>
-      <td>1:30PM - 2:00PM</td>
+      <td>1:30PM - 2:00PM<br>PDT</td>
       <td>
         <strong>Project setup and pitch</strong>
       </td>
@@ -403,7 +403,7 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
   </thead>
   <tbody>
     <tr>
-      <td>11:00AM - 11:30AM</td>
+      <td>11:00AM - 11:30AM<br>PDT</td>
       <td>
         <strong>Project check-in and orientation</strong>
       </td>
@@ -412,7 +412,7 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       </td>
     </tr>
     <tr>
-      <td>11:30AM - 12:15PM</td>
+      <td>11:30AM - 12:15PM<br>PDT</td>
       <td>
         <strong>R oce package</strong>
         <br>for processing and visualizing ocean data
@@ -422,12 +422,12 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       </td>
     </tr>
     <tr>
-      <td>12:15PM - 12:30PM</td>
+      <td>12:15PM - 12:30PM<br>PDT</td>
       <td>Break</td>
       <td> </td>
     </tr>
     <tr>
-      <td>12:30PM - 1:30PM</td>
+      <td>12:30PM - 1:30PM<br>PDT</td>
       <td>
         <strong>Data visualization in Python</strong>
       </td>
@@ -436,7 +436,7 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       </td>
     </tr>
     <tr>
-      <td>1:30PM - 2:00PM</td>
+      <td>1:30PM - 2:00PM<br>PDT</td>
       <td>
         <strong>Project work and helpdesk</strong>
       </td>
@@ -461,7 +461,7 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
   </thead>
   <tbody>
     <tr>
-      <td>11:00AM - 11:45AM</td>
+      <td>11:00AM - 11:45AM<br>PDT</td>
       <td>
         <strong>Neural networks in R</strong>
         <br>
@@ -471,7 +471,7 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       </td>
     </tr>
     <tr>
-      <td>11:45AM - 12:30PM</td>
+      <td>11:45AM - 12:30PM<br>PDT</td>
       <td>
         <strong>Reproducible Science & Data Management</strong>
         <br>
@@ -481,12 +481,12 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       </td>
     </tr>
     <tr>
-      <td>12:30PM - 12:45PM</td>
+      <td>12:30PM - 12:45PM<br>PDT</td>
       <td>Break</td>
       <td> </td>
     </tr>
     <tr>
-      <td>12:45PM - 2:00PM</td>
+      <td>12:45PM - 2:00PM<br>PDT</td>
       <td>
         <strong>Project work and helpdesk</strong>
       </td>
@@ -511,7 +511,7 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
   </thead>
   <tbody>
     <tr>
-      <td>11:00AM - 11:05AM</td>
+      <td>11:00AM - 11:05AM<br>PDT</td>
       <td>
         <strong>Introduction and guidance for the last day</strong>
       </td>
@@ -520,7 +520,7 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       </td>
     </tr>
     <tr>
-      <td>11:05AM - 11:30AM</td>
+      <td>11:05AM - 11:30AM<br>PDT</td>
       <td>
         <strong>Groups finalize projects</strong>
       </td>
@@ -529,38 +529,38 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       </td>
     </tr>
     <tr>
-      <td>11:30AM - 12:15PM</td>
+      <td>11:30AM - 12:15PM<br>PDT</td>
       <td><strong>Project presentations I</strong></td>
       <td>
         <ul><li>Everyone</li></ul>
       </td>
     </tr>
     <tr>
-      <td>12:15PM - 12:30PM</td>
+      <td>12:15PM - 12:30PM<br>PDT</td>
       <td>Break</td>
       <td> </td>
     </tr>
     <tr>
-      <td>12:30PM - 1:00PM</td>
+      <td>12:30PM - 1:00PM<br>PDT</td>
       <td><strong>Project presentations II</strong></td>
       <td>
         <ul><li>Everyone</li></ul>
       </td>
     </tr>
     <tr>
-      <td>1:00PM - 1:15PM</td>
+      <td>1:00PM - 1:15PM<br>PDT</td>
       <td>Break</td>
       <td> </td>
     </tr>
     <tr>
-      <td>1:15PM - 1:45PM</td>
+      <td>1:15PM - 1:45PM<br>PDT</td>
       <td>
         <strong>TBD</strong>
       </td>
       <td> </td>
     </tr>
     <tr>
-      <td>1:45PM - 2:00PM</td>
+      <td>1:45PM - 2:00PM<br>PDT</td>
       <td><strong>Final gathering</strong></td>
       <td>
         <ul><li>Everyone</li></ul>
