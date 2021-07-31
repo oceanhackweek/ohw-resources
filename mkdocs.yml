@@ -9,6 +9,7 @@ nav:
     - logistics/overview.md
     - schedule.md
     - Getting Help: logistics/getting_help.md
+    - Coffee Breaks: logistics/coffeebreaks.md
   - Preparation:
     - Git: prep/git.md
     - GitHub: prep/github.md
