@@ -74,8 +74,9 @@ All times listed below are in [PDT (UTC-7)](https://www.timeanddate.com/time/zon
       </td>
       <td>
         <ul>
+          <li>Matthew Biddle</li>
+          <li>Alex Kerney</li>
           <li>Emilio Mayorga</li>
-          <li>TBD</li>
         </ul>
       </td>
     </tr>
@@ -325,7 +326,10 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
         <em>Note 10:30am start time!</em>
       </td>
       <td>
-        <ul><li>TBD</li></ul>
+        <ul>
+          <li>Emilio Mayorga</li>
+          <li>Wu-Jung Lee</li>
+        </ul>
       </td>
     </tr>
     <tr>
