@@ -571,7 +571,7 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
 
 ## Virtual Oceania event
 
-All times listed below for the main virtual event are in [AEST (UTC+10)](https://www.timeanddate.com/time/zones/edt). You can find your timezone offset at [https://www.timeanddate.com](https://www.timeanddate.com) or similar sites.
+All times listed below for the main virtual event are in [AEST (UTC+10)](https://www.timeanddate.com/time/zones/aest). You can find your timezone offset at [https://www.timeanddate.com](https://www.timeanddate.com) or similar sites.
 
 The “Oceania” virtual event is intended to accommodate participants from Australia to India and will take place 12:00pm - 3:00pm AEST / 2:00 - 5:00 UTC.
 The detailed schedule will be available soon.
