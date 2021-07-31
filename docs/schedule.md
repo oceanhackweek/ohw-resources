@@ -74,8 +74,9 @@ All times listed below are in [PDT (UTC-7)](https://www.timeanddate.com/time/zon
       </td>
       <td>
         <ul>
+          <li>Matthew Biddle</li>
+          <li>Alex Kerney</li>
           <li>Emilio Mayorga</li>
-          <li>TBD</li>
         </ul>
       </td>
     </tr>
