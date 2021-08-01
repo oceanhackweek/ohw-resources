@@ -89,7 +89,7 @@ All times listed below are in [PDT (UTC-7)](https://www.timeanddate.com/time/zon
 
 All times listed below for the in-person event are in [EDT (UTC-4)](https://www.timeanddate.com/time/zones/edt). You can find your timezone offset at [https://www.timeanddate.com](https://www.timeanddate.com) or similar sites.
 
-In-person participants will gather 9am - 5pm EDT. 
+In-person participants will gather 9am - 5pm EDT.
 
 ### Tuesday (August 3)
 
@@ -179,7 +179,7 @@ In-person participants will gather 9am - 5pm EDT.
       <td>
         <ul><li></li></ul>
       </td>
-    </tr>	
+    </tr>
     <tr>
       <td>12:00PM - 1:00PM<br>EDT</td>
       <td>Lunch</td>
@@ -227,7 +227,7 @@ In-person participants will gather 9am - 5pm EDT.
       <td>
         <ul><li></li></ul>
       </td>
-    </tr>	
+    </tr>
     <tr>
       <td>12:00PM - 1:00PM<br>EDT</td>
       <td>Lunch</td>
@@ -275,7 +275,7 @@ In-person participants will gather 9am - 5pm EDT.
       <td>
         <ul><li></li></ul>
       </td>
-    </tr>	
+    </tr>
     <tr>
       <td>12:00PM - 1:00PM<br>EDT</td>
       <td>Lunch</td>
@@ -574,4 +574,76 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
 All times listed below for the main virtual event are in [AEST (UTC+10)](https://www.timeanddate.com/time/zones/aest). You can find your timezone offset at [https://www.timeanddate.com](https://www.timeanddate.com) or similar sites.
 
 The “Oceania” virtual event is intended to accommodate participants from Australia to India and will take place 12:00pm - 3:00pm AEST / 2:00 - 5:00 UTC.
-The detailed schedule will be available soon.
+More detailed schedules are to come.
+
+### Tuesday (August 3)
+
+<table class ="defTable">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+      <th>Instructors/Leads</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>12:00PM - 12:30PM<br>AEST</td>
+      <td>
+        <strong>Welcome and Opening</strong>
+        <br>
+        <em>-</em>
+      </td>
+      <td>
+        <ul>
+          <li>Paige Martin</li>
+          <li>Thomas Moore</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12:30PM - 1:00PM<br>AEST</td>
+      <td>
+        <strong>Connecting</strong>
+        <br>Participant introductions icebreaker activity
+      </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1:00PM - 1:30PM<br>AEST</td>
+      <td>
+        <strong>Schedule discussion & questions</strong>
+        <br>
+        -
+      </td>
+      <td>
+      <ul>
+      <li>Thomas Moore</li>
+      <li>Paige Martin</li>
+      </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1:30PM - 1:45PM<br>AEST</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1:45PM - 3:00PM<br>AEST</td>
+      <td>
+        <strong>Projects discussion</strong>
+        <br>
+        -
+      </td>
+      <td>
+        <ul>
+        <li>Thomas Moore</li>
+        <li>Paige Martin</li>
+        <li>Nick Mortimer</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
