@@ -14,6 +14,10 @@ On Tuesday August 3 we will have a brief “project setup” session for an over
 * When discussing, pitch your explanation to the least experienced hacker in the group, and you'll end up better understanding what you're trying to do, or need to revise your idea.
 * You can mix programming languages as needed in order to get started, but do check in with your project mentors and group members to make sure your efforts are straightforward to be absorbed into the project.
 
+## Creating a GitHub repository for your project
+
+Once a project moves forward, please create a GitHub repository for the project in the OceanHackWeek GitHub organization [https://github.com/oceanhackweek/](https://github.com/oceanhackweek/), following this format for project name: `{{hackweek.currentprefix}}-proj-myprojectname` (you can change the name later), where `myprojectname` is a brief name for your project. Go to the [Git steps and workflows section](../prep/git.md#git-steps-and-workflows) on the `Git` page in this web site for detailed instructions on how to create the repository and collaborate with project team members using git and GitHub.
+
 <!-- * Start with ideas that are close to home: your research, a project for your company, something you have always been interested in. -->
 <!-- * Start with one simple idea first, and when it is built add complexity afterwards. -->
 <!-- * Help your neighbor: you might be the person they need to solve their problem, and vice versa. -->
