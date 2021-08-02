@@ -33,6 +33,18 @@ It will take a bit of time for this to load - be patient! Once things are spun u
 
 ![jupyterlab](../img/{{hackweek.currentprefix}}-jupyterlab.png)
 
+## How do I get the tutorial repository?
+
+For the tutorials, there are two primary ways of getting the notebooks. You can use the traditional git management route ([described below](#How-do-I-get-my-code-in-and-out-of-JupyterHub)), or you can use [this magical nbgitpuller link](https://ohw.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Foceanhackweek%2Fohw-tutorials&urlpath=lab%2Ftree%2Fohw-tutorials%2F&branch=master). 
+
+Nbgitpuller is nice, because it will automatically merge any changes you make with the changes from the upstream repo on subsequent pulls via a [series of sane rules](https://jupyterhub.github.io/nbgitpuller/topic/automatic-merging.html#topic-automatic-merging).
+
+You can accomplish the same results as nbgitpuller when using `git` directly, but it can take a complicated dance of `git add`, `git stash`, `git pull`, and `git stash apply` to keep your changes and get the changes from upstream.
+
+!!! Warning
+
+    If you start by using the nbgitpuller link, and then switch to using git directly, using the nbgitpuller link again will most likely lead to [unpredictable results](https://jupyterhub.github.io/nbgitpuller/#when-to-use-nbgitpuller).
+
 
 ## How do I get my code in and out of JupyterHub?
 
