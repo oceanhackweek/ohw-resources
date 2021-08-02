@@ -647,5 +647,5 @@ More detailed schedules are to come.
 
 <br>
 
-### Tuesday (August 4-6) - TBD
+### Wednesday-Friday (August 4-6) - TBD
 updates coming based on day 1 discussions
