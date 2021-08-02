@@ -597,7 +597,6 @@ More detailed schedules are to come.
       <td>
         <ul>
           <li>Paige Martin</li>
-          <li>Thomas Moore</li>
         </ul>
       </td>
     </tr>
@@ -631,7 +630,7 @@ More detailed schedules are to come.
     <tr>
       <td>1:45PM - 3:00PM<br>AEST</td>
       <td>
-        <strong>Projects discussion</strong>
+        <strong>Projects discussion & more questions</strong>
         <br>
         -
       </td>
@@ -647,3 +646,6 @@ More detailed schedules are to come.
 </table>
 
 <br>
+
+### Tuesday (August 4-6) - TBD
+updates coming based on day 1 discussions
