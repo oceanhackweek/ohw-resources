@@ -95,7 +95,7 @@ Note that the menu item `File > Log Out` doesn't actually shut down the server, 
 
 ## How do I do distributed computation?
 
-Dask is avaliable on the JupyterHub for distributed compute.
+[Dask](https://dask.org/) is available on the JupyterHub for distributed compute.
 
 To start up a Dask cluster, call
 
@@ -117,7 +117,7 @@ And then either call `cluster` on it's own line in a cell and use the UI, or `cl
 
     We are working on making Dask (and server) scaling faster, but no promises of faster scaling at this point.
 
-Similar to your server, please shutdown your dask clusters when you are done.
+Similar to your server, please shutdown your Dask clusters when you are done.
 
 ``` python
 cluster.shutdown()  # or cluster.close()
