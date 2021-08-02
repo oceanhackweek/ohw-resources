@@ -1,6 +1,6 @@
 # Code of Conduct
 
-OceanHackWeek is dedicated to providing a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the organizers.
+OceanHackWeek (OHW) is dedicated to providing a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any OHW venues in either in-person and virtual form, including the Slack workspace. Participants violating these rules may be sanctioned or expelled from OHW at the discretion of the organizers.
 
 Harassment includes, but is not limited to:
 
@@ -27,6 +27,10 @@ This anti-harassment policy is based on the example policy from the Geek Feminis
 ## Group discussion
 **Q: What can each of us do to make OceanHackWeek an optimal learning environment that is inclusive and welcoming for everyone?**
 
+We'll post the discussion results contributed by everyone after morning of Day 1!
+
+
+<!-- OHW20 discussion outcome
 - Be respectful to others’ views; whether it’s technical question or scientific hypothesis
 - Be inclusive regardless of technical expertise and career stage (emphasize the growth mindset)
 - Acknowledge contributions
@@ -43,9 +47,7 @@ This anti-harassment policy is based on the example policy from the Geek Feminis
 - Don’t force others to turn on a microphone or webcam. There may be circumstances you are not aware of.
 - Get to know each other 
 - Make sure people are on the same page and none is completely lost
-- Try to be gentle 
-
-
+- Try to be gentle -->
 
 
 
