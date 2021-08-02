@@ -93,6 +93,36 @@ Note that the menu item `File > Log Out` doesn't actually shut down the server, 
 !!! warning You will not lose your work when shutting down the server
     Shutting down (Stop Server) will **NOT** cause any of your work to be lost or deleted. It simply shuts down some resources. It would be equivalent to turning off your desktop computer at the end of the day.
 
+## How do I do distributed computation?
+
+[Dask](https://dask.org/) is available on the JupyterHub for distributed compute.
+
+To start up a Dask cluster, call
+
+``` python
+from dask.distributed import Client
+from dask_gateway import GatewayCluster
+
+cluster = GatewayCluster()
+client = Client(cluster)
+
+# xarray becomes even more awesome
+```
+
+And then either call `cluster` on it's own line in a cell and use the UI, or `cluster.scale(NUMBER_OF_WORKERS_TO_SCALE_TO)`.
+
+!!! info
+
+    Just as it can take a few minutes for JupyterHub to start up your server, it can also take a few minutes before Dask workers become available. 
+
+    We are working on making Dask (and server) scaling faster, but no promises of faster scaling at this point.
+
+Similar to your server, please shutdown your Dask clusters when you are done.
+
+``` python
+cluster.shutdown()  # or cluster.close()
+```
+
 ## References and Resources
 
 - [Why Jupyter is data scientists’ computational notebook of choice. An improved architecture and enthusiastic user base are driving uptake of the open-source web tool (Nature, 2018-10)](https://www.nature.com/articles/d41586-018-07196-1)
