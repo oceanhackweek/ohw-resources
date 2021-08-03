@@ -186,7 +186,7 @@ In-person participants will gather 9am - 5pm EDT.
       <td> </td>
     </tr>
 	<tr>
-      <td>12:00PM - 1:00PM<br>EDT</td>
+      <td>1:00PM - 2:00PM<br>EDT</td>
       <td>
         <strong>Project work</strong>
       </td>
@@ -234,7 +234,7 @@ In-person participants will gather 9am - 5pm EDT.
       <td> </td>
     </tr>
 	<tr>
-      <td>12:00PM - 1:00PM<br>EDT</td>
+      <td>1:00PM - 2:00PM<br>EDT</td>
       <td>
         <strong>Project work</strong>
       </td>
@@ -282,7 +282,7 @@ In-person participants will gather 9am - 5pm EDT.
       <td> </td>
     </tr>
 	<tr>
-      <td>12:00PM - 1:00PM<br>EDT</td>
+      <td>1:00PM - 2:00PM<br>EDT</td>
       <td>
         <strong>Project work</strong>
       </td>
