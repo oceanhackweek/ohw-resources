@@ -346,7 +346,9 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
         <strong>Tutorial: Xarray</strong>
         <br>
         Working with labelled multi-dimensional
-        <br>arrays in Python
+        <br>arrays in Python<br>
+        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/master/Xarray">Jupyter notebook</a>
+        &mdash; <a href="https://www.youtube.com/watch?v=g0GKqYkp9kk&list=PLA6PlfxWZPLTPQ_OIr3dDPF9FRiHQXoVF&index=3">video</a>
       </td>
       <td>
         <ul><li>Julius Busecke</li></ul>
@@ -362,7 +364,9 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       <td>
         <strong>Tutorial: Data access</strong>
         <br>Searching and obtaining ocean data
-        <br>from multiple sources
+        <br>from multiple sources<br>
+        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/master/Data-Access">Jupyter notebooks</a>
+        &mdash; <a href="https://www.youtube.com/watch?v=yH_R4kASYcw&list=PLA6PlfxWZPLTPQ_OIr3dDPF9FRiHQXoVF&index=2">video</a>
       </td>
       <td>
         <ul><li>Filipe Fernandes</li></ul>
