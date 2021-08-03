@@ -647,5 +647,216 @@ More detailed schedules are to come.
 
 <br>
 
-### Wednesday-Friday (August 4-6) - TBD
-updates coming based on day 1 discussions
+
+### Wednesday (August 4)
+
+<table class ="defTable">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+      <th>Instructors/Leads</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>12:00PM - 12:30PM<br>AEST</td>
+      <td>
+        <strong>Welcome and Opening</strong>
+        <br>
+        <em>-</em>
+      </td>
+      <td>
+        <ul>
+          <li>Paige Martin</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12:30PM - 1:00PM<br>AEST</td>
+      <td>
+        <strong>Connecting</strong>
+        <br>Participant introductions icebreaker activity
+      </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1:00PM - 1:30PM<br>AEST</td>
+      <td>
+        <strong>Schedule discussion & questions</strong>
+        <br>
+        -
+      </td>
+      <td>
+      <ul>
+      <li>Thomas Moore</li>
+      <li>Paige Martin</li>
+      </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1:30PM - 1:45PM<br>AEST</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1:45PM - 3:00PM<br>AEST</td>
+      <td>
+        <strong>Projects discussion & more questions</strong>
+        <br>
+        -
+      </td>
+      <td>
+        <ul>
+        <li>Thomas Moore</li>
+        <li>Paige Martin</li>
+        <li>Nick Mortimer</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+### Thursday (August 5)
+
+<table class ="defTable">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+      <th>Instructors/Leads</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>12:00PM - 12:30PM<br>AEST</td>
+      <td>
+        <strong>Welcome and Opening</strong>
+        <br>
+        <em>-</em>
+      </td>
+      <td>
+        <ul>
+          <li>Paige Martin</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12:30PM - 1:00PM<br>AEST</td>
+      <td>
+        <strong>Connecting</strong>
+        <br>Participant introductions icebreaker activity
+      </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1:00PM - 1:30PM<br>AEST</td>
+      <td>
+        <strong>Schedule discussion & questions</strong>
+        <br>
+        -
+      </td>
+      <td>
+      <ul>
+      <li>Thomas Moore</li>
+      <li>Paige Martin</li>
+      </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1:30PM - 1:45PM<br>AEST</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1:45PM - 3:00PM<br>AEST</td>
+      <td>
+        <strong>Projects discussion & more questions</strong>
+        <br>
+        -
+      </td>
+      <td>
+        <ul>
+        <li>Thomas Moore</li>
+        <li>Paige Martin</li>
+        <li>Nick Mortimer</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+### Friday (August 6)
+
+<table class ="defTable">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+      <th>Instructors/Leads</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>12:00PM - 12:30PM<br>AEST</td>
+      <td>
+        <strong>Welcome and Opening</strong>
+        <br>
+        <em>-</em>
+      </td>
+      <td>
+        <ul>
+          <li>Paige Martin</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12:30PM - 1:00PM<br>AEST</td>
+      <td>
+        <strong>Connecting</strong>
+        <br>Participant introductions icebreaker activity
+      </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1:00PM - 1:30PM<br>AEST</td>
+      <td>
+        <strong>Schedule discussion & questions</strong>
+        <br>
+        -
+      </td>
+      <td>
+      <ul>
+      <li>Thomas Moore</li>
+      <li>Paige Martin</li>
+      </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1:30PM - 1:45PM<br>AEST</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1:45PM - 3:00PM<br>AEST</td>
+      <td>
+        <strong>Projects discussion & more questions</strong>
+        <br>
+        -
+      </td>
+      <td>
+        <ul>
+        <li>Thomas Moore</li>
+        <li>Paige Martin</li>
+        <li>Nick Mortimer</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
