@@ -6,7 +6,15 @@ You can ask anything on the Slack `#ohw21-general` channel, any time. Organizers
 
 ## Helpdesk
 
-We've set up the `#ohw21-helpdesk` Slack channel to ask technical questions (or other types of questions, if you'd like). We will set up some helpdesk Slack user group that you can use to tag your question as, say, about Python. We'll list and describe those groups here. You are also welcome to direct message the helpers if you don't feel comfortable asking questions publicly.
+We've set up the `#ohw21-helpdesk` Slack channel to ask technical questions (or other types of questions, if you'd like). We've also set up some helpdesk Slack user groups that you can use to tag your question as, say, about Python. These groups are listed and described below. You are also welcome to direct message the helpers if you don't feel comfortable asking questions publicly.
+
+Type one of the handles below along with your question in a Slack message to tag the folks that can help you. 
+
+- **@help-infrastructure**: For help with logistical items. Members include Alex Kerney, Filipe, and Paige Martin.
+- **@help-python**: For help with all things Python related. Members include Alex Kerney, Derya Gumustel, Emilio Mayorga, and Wu-Jung Lee.
+- **@help-r**: For help with all things R related. Members include Nick Record, Rene Francolini, and Ben Tupper.
+
+You can view user groups and members on Slack by clicking on 'More' near the top of the Slack navigation menu, and then selecting 'People & user groups' and navigating to the 'User groups' tab; the keyboard shortcut to get to the 'People & user groups' page from any channel is Ctrl+Shift+E. 
 
 ## During tutorials
 
