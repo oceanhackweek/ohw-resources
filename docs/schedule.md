@@ -574,7 +574,6 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
 All times listed below for the main virtual event are in [AEST (UTC+10)](https://www.timeanddate.com/time/zones/aest). You can find your timezone offset at [https://www.timeanddate.com](https://www.timeanddate.com) or similar sites.
 
 The “Oceania” virtual event is intended to accommodate participants from Australia to India and will take place 12:00pm - 3:00pm AEST / 2:00 - 5:00 UTC.
-More detailed schedules are to come.
 
 ### Tuesday (August 3)
 
@@ -647,5 +646,133 @@ More detailed schedules are to come.
 
 <br>
 
-### Wednesday-Friday (August 4-6) - TBD
-updates coming based on day 1 discussions
+
+### Wednesday (August 4)
+
+<table class ="defTable">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+      <th>Instructors/Leads</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>12:00PM - 12:30PM<br>AEST</td>
+      <td>
+        <strong>Short presentation, project formation,<br>
+         & questions</strong>
+        <br>
+      </td>
+      <td>
+        <ul>
+        <li>Nick Mortimer</li>
+        <li>Paige & Thomas</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12:30PM - 2:30PM<br>AEST</td>
+      <td>
+        <strong>Project time</strong>
+        <br>Oceania based projects work in sync<br>
+        (include some opportunistic breaks)
+      </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2:30PM - 3:00PM<br>AEST</td>
+      <td>
+        <strong>Project reports</strong>
+        <br>
+      </td>
+      <td>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+
+### Thursday (August 5)
+
+<table class ="defTable">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+      <th>Instructors/Leads</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>12:00PM - 2:30PM<br>AEST</td>
+      <td>
+        <strong>Project time</strong>
+        <br>Oceania based projects work in sync<br>
+        (include some opportunistic breaks)
+      </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2:30PM - 3:00PM<br>AEST</td>
+      <td>
+        <strong>Project reports</strong>
+        <br>
+      </td>
+      <td>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+
+### Friday (August 6)
+
+<table class ="defTable">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+      <th>Instructors/Leads</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>12:00PM - 12:30PM<br>AEST</td>
+      <td>
+        <strong>Project reports, discussion, & questions</strong>
+        <br>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12:30PM - 3:00PM<br>AEST</td>
+      <td>
+        <strong>Project time</strong>
+        <br>Oceania based projects work in sync<br>
+        (include some opportunistic breaks)
+      </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>3:00PM - 4:00PM<br>AEST</td>
+      <td>
+        <strong>Project presentations & conclusion</strong>
+        <br>(recorded)
+        <br>
+      </td>
+      <td>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
