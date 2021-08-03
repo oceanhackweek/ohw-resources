@@ -574,7 +574,6 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
 All times listed below for the main virtual event are in [AEST (UTC+10)](https://www.timeanddate.com/time/zones/aest). You can find your timezone offset at [https://www.timeanddate.com](https://www.timeanddate.com) or similar sites.
 
 The “Oceania” virtual event is intended to accommodate participants from Australia to India and will take place 12:00pm - 3:00pm AEST / 2:00 - 5:00 UTC.
-More detailed schedules are to come.
 
 ### Tuesday (August 3)
 
@@ -662,62 +661,40 @@ More detailed schedules are to come.
     <tr>
       <td>12:00PM - 12:30PM<br>AEST</td>
       <td>
-        <strong>Welcome and Opening</strong>
+        <strong>Short presentation, project formation,<br>
+         & questions</strong>
         <br>
-        <em>-</em>
       </td>
       <td>
         <ul>
-          <li>Paige Martin</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12:30PM - 1:00PM<br>AEST</td>
-      <td>
-        <strong>Connecting</strong>
-        <br>Participant introductions icebreaker activity
-      </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>1:00PM - 1:30PM<br>AEST</td>
-      <td>
-        <strong>Schedule discussion & questions</strong>
-        <br>
-        -
-      </td>
-      <td>
-      <ul>
-      <li>Thomas Moore</li>
-      <li>Paige Martin</li>
-      </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1:30PM - 1:45PM<br>AEST</td>
-      <td>Break</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>1:45PM - 3:00PM<br>AEST</td>
-      <td>
-        <strong>Projects discussion & more questions</strong>
-        <br>
-        -
-      </td>
-      <td>
-        <ul>
-        <li>Thomas Moore</li>
-        <li>Paige Martin</li>
         <li>Nick Mortimer</li>
+        <li>Paige & Thomas</li>
         </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12:30PM - 2:30PM<br>AEST</td>
+      <td>
+        <strong>Project time</strong>
+        <br>Oceania based projects work in sync<br>
+        (include some opportunistic breaks)
+      </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2:30PM - 3:00PM<br>AEST</td>
+      <td>
+        <strong>Project reports</strong>
+        <br>
+      </td>
+      <td>
       </td>
     </tr>
   </tbody>
 </table>
 
 <br>
+
 
 ### Thursday (August 5)
 
@@ -731,64 +708,28 @@ More detailed schedules are to come.
   </thead>
   <tbody>
     <tr>
-      <td>12:00PM - 12:30PM<br>AEST</td>
+      <td>12:00PM - 2:30PM<br>AEST</td>
       <td>
-        <strong>Welcome and Opening</strong>
-        <br>
-        <em>-</em>
-      </td>
-      <td>
-        <ul>
-          <li>Paige Martin</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12:30PM - 1:00PM<br>AEST</td>
-      <td>
-        <strong>Connecting</strong>
-        <br>Participant introductions icebreaker activity
+        <strong>Project time</strong>
+        <br>Oceania based projects work in sync<br>
+        (include some opportunistic breaks)
       </td>
       <td> </td>
     </tr>
     <tr>
-      <td>1:00PM - 1:30PM<br>AEST</td>
+      <td>2:30PM - 3:00PM<br>AEST</td>
       <td>
-        <strong>Schedule discussion & questions</strong>
+        <strong>Project reports</strong>
         <br>
-        -
       </td>
       <td>
-      <ul>
-      <li>Thomas Moore</li>
-      <li>Paige Martin</li>
-      </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1:30PM - 1:45PM<br>AEST</td>
-      <td>Break</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>1:45PM - 3:00PM<br>AEST</td>
-      <td>
-        <strong>Projects discussion & more questions</strong>
-        <br>
-        -
-      </td>
-      <td>
-        <ul>
-        <li>Thomas Moore</li>
-        <li>Paige Martin</li>
-        <li>Nick Mortimer</li>
-        </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
 <br>
+
 
 ### Friday (August 6)
 
@@ -804,56 +745,31 @@ More detailed schedules are to come.
     <tr>
       <td>12:00PM - 12:30PM<br>AEST</td>
       <td>
-        <strong>Welcome and Opening</strong>
+        <strong>Project reports, discussion, & questions</strong>
         <br>
-        <em>-</em>
       </td>
       <td>
         <ul>
-          <li>Paige Martin</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12:30PM - 1:00PM<br>AEST</td>
+      <td>12:30PM - 3:00PM<br>AEST</td>
       <td>
-        <strong>Connecting</strong>
-        <br>Participant introductions icebreaker activity
+        <strong>Project time</strong>
+        <br>Oceania based projects work in sync<br>
+        (include some opportunistic breaks)
       </td>
       <td> </td>
     </tr>
     <tr>
-      <td>1:00PM - 1:30PM<br>AEST</td>
+      <td>3:00PM - 4:00PM<br>AEST</td>
       <td>
-        <strong>Schedule discussion & questions</strong>
+        <strong>Project presentations & conclusion</strong>
+        <br>(recorded)
         <br>
-        -
       </td>
       <td>
-      <ul>
-      <li>Thomas Moore</li>
-      <li>Paige Martin</li>
-      </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1:30PM - 1:45PM<br>AEST</td>
-      <td>Break</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>1:45PM - 3:00PM<br>AEST</td>
-      <td>
-        <strong>Projects discussion & more questions</strong>
-        <br>
-        -
-      </td>
-      <td>
-        <ul>
-        <li>Thomas Moore</li>
-        <li>Paige Martin</li>
-        <li>Nick Mortimer</li>
-        </ul>
       </td>
     </tr>
   </tbody>
