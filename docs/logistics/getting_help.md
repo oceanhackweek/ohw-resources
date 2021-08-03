@@ -10,7 +10,7 @@ We've set up the `#ohw21-helpdesk` Slack channel to ask technical questions (or 
 
 Type one of the handles below along with your question in a Slack message to tag the folks that can help you. 
 
-- **@help-infrastructure**: For help with logistical items. Members include Alex Kerney, Filipe, and Paige Martin.
+- **@help-infrastructure**: For help with logistical items. Members include Alex Kerney, Filipe Fernandes, and Paige Martin.
 - **@help-python**: For help with all things Python related. Members include Alex Kerney, Derya Gumustel, Emilio Mayorga, and Wu-Jung Lee.
 - **@help-r**: For help with all things R related. Members include Nick Record, Rene Francolini, and Ben Tupper.
 
