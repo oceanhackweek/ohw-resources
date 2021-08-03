@@ -14,6 +14,14 @@ On Tuesday August 3 we will have a brief “project setup” session for an over
 * When discussing, pitch your explanation to the least experienced hacker in the group, and you'll end up better understanding what you're trying to do, or need to revise your idea.
 * You can mix programming languages as needed in order to get started, but do check in with your project mentors and group members to make sure your efforts are straightforward to be absorbed into the project.
 
+### See projects from previous years:
+
+The links below lead to project lists from past OceanHackWeek events, including links to GitHub repositories and video presentations.
+
+* [OHW20 project list](https://oceanhackweek.github.io/projects_2020.html)
+* [OHW19 project list](https://oceanhackweek.github.io/ohw19/projects_2019.html)
+* [OHW18 project list](https://oceanhackweek.github.io/ohw2018/projects.html)
+
 ## Creating a GitHub repository for your project
 
 Once a project moves forward, please create a GitHub repository for the project in the OceanHackWeek GitHub organization [https://github.com/oceanhackweek/](https://github.com/oceanhackweek/), following this format for project name: `{{hackweek.currentprefix}}-proj-myprojectname` (you can change the name later), where `myprojectname` is a brief name for your project. Go to the [Git steps and workflows section](../prep/git.md#git-steps-and-workflows) on the `Git` page in this web site for detailed instructions on how to create the repository and collaborate with project team members using git and GitHub.
