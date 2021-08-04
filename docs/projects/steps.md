@@ -14,7 +14,7 @@ On Tuesday August 3 we will have a brief “project setup” session for an over
 * When discussing, pitch your explanation to the least experienced hacker in the group, and you'll end up better understanding what you're trying to do, or need to revise your idea.
 * You can mix programming languages as needed in order to get started, but do check in with your project mentors and group members to make sure your efforts are straightforward to be absorbed into the project.
 
-### See projects from previous years:
+## See projects from previous years:
 
 The links below lead to project lists from past OceanHackWeek events, including links to GitHub repositories and video presentations.
 
