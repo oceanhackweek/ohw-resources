@@ -384,9 +384,8 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       </td>
       <td>
         <ul>
-          <li>Joseph Gum</li>
-          <li>Wu-Jung Lee</li>
           <li>Nick Record</li>
+          <li>Wu-Jung Lee</li>
         </ul>
       </td>
     </tr>
@@ -412,7 +411,10 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
         <strong>Project check-in and orientation</strong>
       </td>
       <td>
-        <ul><li>TBD</li></ul>
+        <ul>
+          <li>Nick Record</li>
+          <li>Wu-Jung Lee</li>
+        </ul>
       </td>
     </tr>
     <tr>
