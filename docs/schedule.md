@@ -421,7 +421,9 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       <td>11:30AM - 12:15PM<br>PDT</td>
       <td>
         <strong>R oce package</strong>
-        <br>for processing and visualizing ocean data
+        <br>for processing and visualizing ocean data<br>
+        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/master/oce">R Markdown</a>
+        &mdash; <a href="https://www.youtube.com/watch?v=_1KhCMeEsY0&list=PLA6PlfxWZPLTPQ_OIr3dDPF9FRiHQXoVF&index=2">video</a>
       </td>
       <td>
         <ul><li>Clark Richards</li></ul>
@@ -435,7 +437,9 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
     <tr>
       <td>12:30PM - 1:30PM<br>PDT</td>
       <td>
-        <strong>Data visualization in Python</strong>
+        <strong>Data visualization in Python</strong><br>
+        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/master/data-viz/tutorial">Jupyter notebooks</a>
+        &mdash; <a href="https://www.youtube.com/watch?v=uQbpoY_2G8Q&list=PLA6PlfxWZPLTPQ_OIr3dDPF9FRiHQXoVF&index=2">video</a>
       </td>
       <td>
         <ul><li>Aimee Barciauskas</li></ul>
