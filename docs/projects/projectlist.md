@@ -143,7 +143,13 @@ Project ideas:
 - Use seismic data, elemental data, and phylogenetic analysis/satellite imagery of blooms
 - Could help inform what variables are relevant for monitoring geologic activity over time and elucidating how this impacts habitability --could have applications for ocean world exploration (e.g. Enceladus)
 
-- Sampling high-resolution model output as if by an in situ platform (ship, glider, mooring, etc.#ohw21-proj-model-subsampling
+## Sampling high-resolution model output as if by an in situ platform (ship, glider, mooring, etc.
+
+- Project lead: Kyla
+- Presenter:
+- [GitHub](https://github.com/oceanhackweek/ohw21-proj-model-subsampling)
+
+Project ideas: 
 - Compare sub-sampled model data to original data to understand what is missed through the sampling
 - User-customizable sampling parameters (e.g., ship or glider sampling pattern, depth of sensors, etc.) 
 - Would be maybe possible to do this using a wrapper around xarray, as it does have some features to extract non-uniform grid (http://xarray.pydata.org/en/stable/user-guide/interpolation.html#advanced-interpolation would be good starting point).
