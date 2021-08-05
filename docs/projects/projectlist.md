@@ -1,6 +1,6 @@
-## Project List 2021
+# Project List 2021
 
-### Characterising Acoustic Sound Scattering Layers
+## Characterising Acoustic Sound Scattering Layers
 
 - Project leads: Nick M
 - Presenter: 
@@ -9,8 +9,7 @@
 Acoustic data contains information about organisms in the scattering layers. For example, diel vertical migration behavior is visible. This project aims to build tools for classifying and interpreting this data.
 
 
-
-### Interactive visualization of open access glider data
+## Interactive visualization of open access glider data
 - Project leads: Dhruv, Alison
 - Presenter:
 - GitHub (needs link)
@@ -18,7 +17,7 @@ Acoustic data contains information about organisms in the scattering layers. For
 The goal of this project is to show how interactive visualization tools from the [Holoviz ecosystem](https://holoviz.org/) can be combined with glider data access tools ([erddapy](https://github.com/ioos/erddapy), [gliderpy](https://github.com/ioos/gliderpy)) to quickly create a visualization dashboard that can help users intuitively explore glider data.
 
 
-### CMIP analysis ready data (ARD) workflow : turning big climate projection data into useful inputs for modelling or analysis
+## CMIP analysis ready data (ARD) workflow : turning big climate projection data into useful inputs for modelling or analysis
 
 - Project leads: Thomas, Paige, Julius
 - Presenter: 
@@ -27,7 +26,7 @@ The goal of this project is to show how interactive visualization tools from the
 CMIP (Climate Model Intercomparison Project) is a collection of global climate models and is a foundation of global climate projections, helping society better understand the choices we must either make or the impact the communities and industries of our children will face. However there are often barriers (big data, file format, coding familiarity – R vs Python, technical terminology) and challenges (Do I need to dedrift the data? What is this calendar on that model? ) for new users or specific disciplines, such as the marine ecology / ecological modelling community
 
 
-### Matching open source open environmental data to tagged species data
+## Matching open source open environmental data to tagged species data
 
 - Project leads: Jackie
 - Presenter:
@@ -35,7 +34,8 @@ CMIP (Climate Model Intercomparison Project) is a collection of global climate m
 
 Optimize a tool for making environmental data (ocean velocity, SST) in an easy-to-use format for ecological research (I.e. make mapped data easier to load into R, format data with recognizable variables that are measured by GPS tags)
 
-### Predicting ocean deep currents by satellite data
+
+## Predicting ocean deep currents by satellite data
 
 - Project leads: Iury
 - Presenter:
@@ -44,7 +44,7 @@ Optimize a tool for making environmental data (ocean velocity, SST) in an easy-t
 Moorings are expensive and lack long term overage. Deep water oceanography is important. Explore trends & variability from satellites, train a machine learning model to predict deep-water dynamics.
 
 
-### Pull all ocean repositories in the world to be able to subset
+## Pull all ocean repositories in the world to be able to subset
 
 - Project leads: Steve
 - Presenter:
@@ -53,7 +53,7 @@ Moorings are expensive and lack long term overage. Deep water oceanography is im
 There are so many data repositories already. Hard to search them all. If we wait too long, it will be machine learning solving this for us. 
 
 
-### High frequency radar data to measure coastal currents
+## High frequency radar data to measure coastal currents
 
 - Project leads: Teresa
 - Presenter:
@@ -68,7 +68,7 @@ List of ideas:
 - Analyzing surface circulation data to plot circulation along with other datasets
 
 
-### Use drone imagery of turtles, classify using neural network
+## Use drone imagery of turtles, classify using neural network
 
 - Project leads: Johnathan
 - Presenter:
@@ -77,7 +77,7 @@ List of ideas:
 Use neural networks and pytorch to classify images of turtles. 
 
 
-### Continue OHW2020 project on OBIS and MPAs
+## Continue OHW2020 project on OBIS and MPAs
 
 - Project leads: Enrique, Lei
 - Presenter:
@@ -86,7 +86,7 @@ Use neural networks and pytorch to classify images of turtles.
 OBIS record from polygons (e.g. MPA or any polygon) together with satellite data & visualize on a map, and select areas, and upload new species abundance data, and do some statistics correlating with MPA properties.
 
 
-### Adding scale to underwater depth maps from monocular-vision
+## Adding scale to underwater depth maps from monocular-vision
 
 - Project leads: Yelena Randall
 - Presenter:
@@ -104,8 +104,7 @@ Applications:
 - Estimation of bottom rugosity with important implications for internal waves’ generation.
 
 
-
-### Developing pyworms package to improve functionality and usefulness
+## Developing pyworms package to improve functionality and usefulness
 
 - Project leads: Diana L-G 
 - Presenter:
@@ -120,7 +119,7 @@ Project ideas:
     - Doesn’t easily handle problems when species names are not matched
 
 
-### Current/particle back-tracer
+## Current/particle back-tracer
 
 - Project leads: Adam K
 - Presenter:
@@ -133,7 +132,7 @@ Applications: Could be used to re-trace where in-situ samples were taken in open
 Motivation: Currents transport plankton, nutrients, fishes in the time it takes a ship to move between samples or as a glider or saildrone passes through it. Most surfaces produced from point observations ignore the drift that occurred between measurements.  This becomes increasingly important when discussing lead-times or lag periods between ocean states and biological observations.
 
 
-### Determining the degree to which nutrient availability and microbial activity is driven by geologic events
+## Determining the degree to which nutrient availability and microbial activity is driven by geologic events
 
 - Project leads: Laura R
 - Presenter:
@@ -150,7 +149,7 @@ Project ideas:
 - Would be maybe possible to do this using a wrapper around xarray, as it does have some features to extract non-uniform grid (http://xarray.pydata.org/en/stable/user-guide/interpolation.html#advanced-interpolation would be good starting point).
 
 
-### SeafloorHUB - Web Aggregator/Python or R package for oceanographic seafloor data 
+## SeafloorHUB - Web Aggregator/Python or R package for oceanographic seafloor data 
 
 - Project leads: Stanley
 - Presenter:
@@ -163,7 +162,7 @@ The idea is to create a common hub where all things sediment/seafloor lives. For
 
 
 <!-- 
-###
+##
 
 - Project leads:
 - Presenter:
