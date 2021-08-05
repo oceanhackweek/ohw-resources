@@ -56,7 +56,7 @@ There are so many data repositories already. Hard to search them all. If we wait
 ## Quality control of high frequency radar data
 
 - Project leads: Teresa, John
-- Presenter:
+- Presenter: Teresa, John
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-radar-qc](https://github.com/oceanhackweek/ohw21-proj-radar-qc) 
 
 Project ideas: 
@@ -68,7 +68,7 @@ Project ideas:
 ## High frequency radar surface current data comparisons
 
 - Project leads: Teresa
-- Presenter:
+- Presenter: Teresa
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-coastal-radar](https://github.com/oceanhackweek/ohw21-proj-coastal-radar)
 
 Project ideas: 
