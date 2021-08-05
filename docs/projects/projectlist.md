@@ -53,20 +53,24 @@ Moorings are expensive and lack long term overage. Deep water oceanography is im
 There are so many data repositories already. Hard to search them all. If we wait too long, it will be machine learning solving this for us. 
 
 
-## High frequency radar data to measure coastal currents
+## Quality control of high frequency radar data
 
-- Project leads: Teresa
+- Project leads: Teresa, John
 - Presenter:
-- [GitHub](https://github.com/oceanhackweek/ohw21-proj-coastal-radar)
-
-List of ideas: 
+- [GitHub](https://github.com/oceanhackweek/ohw21-proj-radar-qc) 
 
 - QC: Use Machine learning methods to filter out interference 
     - PCA to decompose spectrum images into signal and noise components
     - Ensemble averaging over entire bin to factor out range-dependent artifacts for filter development
     - Apply basis transforms in spectral domain to remove broad noise artifacts while preserving sharper features.
-- Analyzing surface circulation data to plot circulation along with other datasets
 
+## High frequency radar surface current data comparisons
+
+- Project leads: Teresa
+- Presenter:
+- [GitHub](https://github.com/oceanhackweek/ohw21-proj-coastal-radar)
+
+- Plot/compare HFR surface current data with other data
 
 ## Use drone imagery of turtles, classify using neural network
 
