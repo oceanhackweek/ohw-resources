@@ -24,6 +24,7 @@ nav:
   - Projects: 
     - Project Overview: projects/overview.md
     - Hacking at OHW21: projects/steps.md
+    - OHW21 Projects: projects/projectlist.md
 
 theme: 
   name: readthedocs
