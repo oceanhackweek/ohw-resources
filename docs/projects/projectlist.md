@@ -84,7 +84,7 @@ Use neural networks and pytorch to classify images of turtles.
 ## Continue OHW2020 project on OBIS and MPAs
 
 - Project leads: Enrique, Lei
-- Presenter:
+- Presenter: Lei
 - [GitHub](https://github.com/oceanhackweek/ohw20-proj-species-marine-protected-areas)
 
 OBIS record from polygons (e.g. MPA or any polygon) together with satellite data & visualize on a map, and select areas, and upload new species abundance data, and do some statistics correlating with MPA properties.
