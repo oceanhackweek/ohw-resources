@@ -144,7 +144,7 @@ Motivation: Currents transport plankton, nutrients, fishes in the time it takes 
 
 - Project leads: Laura R
 - Presenter:
-- GitHub: (needs link)
+- GitHub: [https://github.com/oceanhackweek/ohw21-proj-biological-activity-driven-by-geologic-events](https://github.com/oceanhackweek/ohw21-proj-biological-activity-driven-by-geologic-events)
 
 Project ideas: 
 
