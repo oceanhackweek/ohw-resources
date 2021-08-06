@@ -20,11 +20,11 @@ CMIP (Climate Model Intercomparison Project) is a collection of global climate m
 
 ## Matching open source open environmental data to tagged species data
 
-- Project leads: Jackie
-- Presenter:
+- Project leads: Jackie Veatch
+- Presenter: Jackie Veatch
 - GitHub: [https://github.com/oceanhackweek/OHW21_proj_tag_data](https://github.com/oceanhackweek/OHW21_proj_tag_data)
 
-Optimize a tool for making environmental data (ocean velocity, SST) in an easy-to-use format for ecological research (I.e. make mapped data easier to load into R, format data with recognizable variables that are measured by GPS tags)
+Optimize a tool for making open source environmental data (ocean velocity, SSH, SST, ocean color, etc.) in an easy-to-use format for ecological research. Match tagged species data to environmental gridded data in space and time. Export to R and visualize relationships. Use findings to inform which environmental variables to map with tagged species data using Python hv plots.
 
 
 ## Predicting ocean deep currents by satellite data
