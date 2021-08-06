@@ -100,7 +100,7 @@ Project ideas:
 ## Sampling high-resolution model output as if by an in situ platform (ship, glider, mooring, etc.)
 
 - Project lead: Kyla
-- Presenter:
+- Presenter: Kyla (speaking) & Diana (sharing screen)
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-model-subsampling](https://github.com/oceanhackweek/ohw21-proj-model-subsampling)
 
 Project ideas: 
