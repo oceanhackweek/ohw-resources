@@ -36,14 +36,13 @@ Optimize a tool for making environmental data (ocean velocity, SST) in an easy-t
 Moorings are expensive and lack long term overage. Deep water oceanography is important. Explore trends & variability from satellites, train a machine learning model to predict deep-water dynamics.
 
 
-## Pull all ocean repositories in the world to be able to subset
+## Pull/Hack all ocean data repositories into a global searchable resource
 
-- Project leads: Steve
-- Presenter:
+- Project leads: Steve, Myranda
+- Presenter: Myranda, Steve
 - GitHub: [https://github.com/oceanhackweek/metadata-repository ??](https://github.com/oceanhackweek/metadata-repository)
 
-There are so many data repositories already. Hard to search them all. If we wait too long, it will be machine learning solving this for us. 
-
+Our goal is to continue build a comprehensive ocean data search web presence to find the data you need right now. Many of the OceanHackWeek projects undertaken this week highlight the need for an easy way to search for the *right* data set for the task.  This is a continuation of previous work under NSF's EarthCube initiave.
 
 ## Quality control of high frequency radar data
 
