@@ -528,7 +528,7 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
         <strong>Introduction and guidance for the last day</strong>
       </td>
       <td>
-        <ul><li>TBD</li></ul>
+        <ul><li>Wu-Jung Lee</li></ul>
       </td>
     </tr>
     <tr>
@@ -565,17 +565,17 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       <td> </td>
     </tr>
     <tr>
-      <td>1:15PM - 1:45PM<br>PDT</td>
-      <td>
-        <strong>TBD</strong>
+      <td>1:15PM - 2:00PM<br>PDT</td>
+      <td><strong>Final gathering</strong><br>
+	  What next? OceanHackWeek after this week
       </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>1:45PM - 2:00PM<br>PDT</td>
-      <td><strong>Final gathering</strong></td>
       <td>
-        <ul><li>Everyone</li></ul>
+        <ul>
+	  <li>Derya Gumustel</li>
+	  <li>Alex Kerney</li>
+	  <li>Emilio Mayorga</li>
+	  <li>Everyone</li>
+	</ul>
       </td>
     </tr>
   </tbody>
