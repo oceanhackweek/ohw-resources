@@ -473,8 +473,9 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
     <tr>
       <td>11:00AM - 11:45AM<br>PDT</td>
       <td>
-        <strong>Neural networks in R</strong>
-        <br>
+        <strong>Neural networks in R</strong><br>
+        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/master/r-keras-test">R Markdown</a>
+        &mdash; <a href="https://www.youtube.com/watch?v=mXDbc5JNyz0&list=PLA6PlfxWZPLTPQ_OIr3dDPF9FRiHQXoVF&index=1">video</a>
       </td>
       <td>
         <ul><li>Johnathan Evanilla</li></ul>
@@ -483,8 +484,9 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
     <tr>
       <td>11:45AM - 12:30PM<br>PDT</td>
       <td>
-        <strong>Reproducible Science & Data Management</strong>
-        <br>
+        <strong>Reproducible Science & Data Management</strong><br>
+        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/master/reproducible-science">Slides</a>
+        &mdash; <a href="https://www.youtube.com/watch?v=l2H4tAc7vho&list=PLA6PlfxWZPLTPQ_OIr3dDPF9FRiHQXoVF&index=2">video</a>
       </td>
       <td>
         <ul><li>Mathew Biddle</li></ul>
