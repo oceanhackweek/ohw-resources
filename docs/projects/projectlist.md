@@ -70,7 +70,7 @@ Project ideas:
 ## Use drone imagery of turtles, classify using neural network
 
 - Project leads: Johnathan
-- Presenter:
+- Presenter: Lu Han
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-drone-turtles](https://github.com/oceanhackweek/ohw21-proj-drone-turtles)
 
 Use neural networks and pytorch to classify images of turtles. 
