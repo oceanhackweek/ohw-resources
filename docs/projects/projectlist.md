@@ -128,21 +128,6 @@ Applications:
 - Estimation of bottom rugosity with important implications for internal waves’ generation.
 
 
-## *(DROPPED?)* Developing pyworms package to improve functionality and usefulness
-
-- Project leads: Diana L-G 
-- Presenter:
-- GitHub: (needs link)
-
-Project ideas: 
-
-- Standardizing species names is a key component of sharing and integrating biological data sets
-- A Python package already exists to check names against WoRMS, but it has a number of shortcomings:
-    - Functions that are incomplete
-    - Returns data in a format that is not easily useable by common tools (e.g. pandas)
-    - Doesn’t easily handle problems when species names are not matched
-
-
 ## *(DROPPED?)* Current/particle back-tracer
 
 - Project leads: Adam K
