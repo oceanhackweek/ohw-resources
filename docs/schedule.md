@@ -474,7 +474,7 @@ All times listed below for the main virtual event are in [PDT (UTC-7)](https://w
       <td>11:00AM - 11:45AM<br>PDT</td>
       <td>
         <strong>Neural networks in R</strong><br>
-        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/master/r-keras-test">R Markdown</a>
+        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/master/deep-learning">Presentation and R Jupyter notebooks</a>
         &mdash; <a href="https://www.youtube.com/watch?v=mXDbc5JNyz0&list=PLA6PlfxWZPLTPQ_OIr3dDPF9FRiHQXoVF&index=1">video</a>
       </td>
       <td>
