@@ -9,14 +9,6 @@
 Acoustic data contains information about organisms in the scattering layers. For example, diel vertical migration behavior is visible. This project aims to build tools for classifying and interpreting this data.
 
 
-## Interactive visualization of open access glider data
-- Project leads: Dhruv, Alison
-- Presenter:
-- GitHub: (needs link)
-
-The goal of this project is to show how interactive visualization tools from the [Holoviz ecosystem](https://holoviz.org/) can be combined with glider data access tools ([erddapy](https://github.com/ioos/erddapy), [gliderpy](https://github.com/ioos/gliderpy)) to quickly create a visualization dashboard that can help users intuitively explore glider data.
-
-
 ## CMIP analysis ready data (ARD) workflow : turning big climate projection data into useful inputs for modelling or analysis
 
 - Project leads: Thomas, Paige, Julius
@@ -48,7 +40,7 @@ Moorings are expensive and lack long term overage. Deep water oceanography is im
 
 - Project leads: Steve
 - Presenter:
-- GitHub: (needs link)
+- GitHub: [https://github.com/oceanhackweek/metadata-repository ??](https://github.com/oceanhackweek/metadata-repository)
 
 There are so many data repositories already. Hard to search them all. If we wait too long, it will be machine learning solving this for us. 
 
@@ -94,52 +86,6 @@ Use neural networks and pytorch to classify images of turtles.
 OBIS record from polygons (e.g. MPA or any polygon) together with satellite data & visualize on a map, and select areas, and upload new species abundance data, and do some statistics correlating with MPA properties.
 
 
-## Adding scale to underwater depth maps from monocular-vision
-
-- Project leads: Yelena Randall
-- Presenter:
-- GitHub: (needs link)
-
-Project ideas: 
-
-- Fuse monocular images and IMU data to create scaled depth maps using structure from motion
-- Validate using known-size targets that were placed in the underwater scene
-
-Applications:
-
-- Estimation and monitoring coral reef’s volume and surface area.
-- Can be used with deep sea vents, rocky reefs, any benthic habitat of interest 
-- Estimation of bottom rugosity with important implications for internal waves’ generation.
-
-
-## Developing pyworms package to improve functionality and usefulness
-
-- Project leads: Diana L-G 
-- Presenter:
-- GitHub: (needs link)
-
-Project ideas: 
-
-- Standardizing species names is a key component of sharing and integrating biological data sets
-- A Python package already exists to check names against WoRMS, but it has a number of shortcomings:
-    - Functions that are incomplete
-    - Returns data in a format that is not easily useable by common tools (e.g. pandas)
-    - Doesn’t easily handle problems when species names are not matched
-
-
-## Current/particle back-tracer
-
-- Project leads: Adam K
-- Presenter:
-- GitHub: (needs link)
-
-Idea: Provide a tool/package that can take a location on the ocean and a period of time, then back-trace where it would have been at that previous point in time based on winds/currents (this tool might exist). 
-
-Applications: Could be used to re-trace where in-situ samples were taken in open ocean surveys to a common date/time for preserving temporal stationarity in ocean states. 
-
-Motivation: Currents transport plankton, nutrients, fishes in the time it takes a ship to move between samples or as a glider or saildrone passes through it. Most surfaces produced from point observations ignore the drift that occurred between measurements.  This becomes increasingly important when discussing lead-times or lag periods between ocean states and biological observations.
-
-
 ## Determining the degree to which nutrient availability and microbial activity is driven by geologic events
 
 - Project leads: Laura R
@@ -165,7 +111,61 @@ Project ideas:
 - Would be maybe possible to do this using a wrapper around xarray, as it does have some features to extract non-uniform grid (http://xarray.pydata.org/en/stable/user-guide/interpolation.html#advanced-interpolation would be good starting point).
 
 
-## SeafloorHUB - Web Aggregator/Python or R package for oceanographic seafloor data 
+## *(DROPPED?)* Adding scale to underwater depth maps from monocular-vision
+
+- Project leads: Yelena Randall
+- Presenter:
+- GitHub: (needs link)
+
+Project ideas: 
+
+- Fuse monocular images and IMU data to create scaled depth maps using structure from motion
+- Validate using known-size targets that were placed in the underwater scene
+
+Applications:
+
+- Estimation and monitoring coral reef’s volume and surface area.
+- Can be used with deep sea vents, rocky reefs, any benthic habitat of interest 
+- Estimation of bottom rugosity with important implications for internal waves’ generation.
+
+
+## *(DROPPED?)* Developing pyworms package to improve functionality and usefulness
+
+- Project leads: Diana L-G 
+- Presenter:
+- GitHub: (needs link)
+
+Project ideas: 
+
+- Standardizing species names is a key component of sharing and integrating biological data sets
+- A Python package already exists to check names against WoRMS, but it has a number of shortcomings:
+    - Functions that are incomplete
+    - Returns data in a format that is not easily useable by common tools (e.g. pandas)
+    - Doesn’t easily handle problems when species names are not matched
+
+
+## *(DROPPED?)* Current/particle back-tracer
+
+- Project leads: Adam K
+- Presenter:
+- GitHub: (needs link)
+
+Idea: Provide a tool/package that can take a location on the ocean and a period of time, then back-trace where it would have been at that previous point in time based on winds/currents (this tool might exist). 
+
+Applications: Could be used to re-trace where in-situ samples were taken in open ocean surveys to a common date/time for preserving temporal stationarity in ocean states. 
+
+Motivation: Currents transport plankton, nutrients, fishes in the time it takes a ship to move between samples or as a glider or saildrone passes through it. Most surfaces produced from point observations ignore the drift that occurred between measurements.  This becomes increasingly important when discussing lead-times or lag periods between ocean states and biological observations.
+
+
+## *(DROPPED?)* Interactive visualization of open access glider data
+- Project leads: Dhruv, Alison
+- Presenter:
+- GitHub: (needs link)
+
+The goal of this project is to show how interactive visualization tools from the [Holoviz ecosystem](https://holoviz.org/) can be combined with glider data access tools ([erddapy](https://github.com/ioos/erddapy), [gliderpy](https://github.com/ioos/gliderpy)) to quickly create a visualization dashboard that can help users intuitively explore glider data.
+
+
+## *(DROPPED?)* SeafloorHUB - Web Aggregator/Python or R package for oceanographic seafloor data 
 
 - Project leads: Stanley
 - Presenter:
