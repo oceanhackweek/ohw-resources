@@ -3,7 +3,7 @@
 ## Characterising Acoustic Sound Scattering Layers
 
 - Project leads: Nick M
-- Presenter: 
+- Presenter: Benjamin Getraer
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-bioacoustics](https://github.com/oceanhackweek/ohw21-proj-bioacoustics)
 
 Acoustic data contains information about organisms in the scattering layers. For example, diel vertical migration behavior is visible. This project aims to build tools for classifying and interpreting this data.
