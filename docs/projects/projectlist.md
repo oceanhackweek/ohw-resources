@@ -30,7 +30,7 @@ Optimize a tool for making open source environmental data (ocean velocity, SSH, 
 ## Predicting ocean deep currents by satellite data
 
 - Project leads: Iury
-- Presenter:
+- Presenter: Iury, Mengyang, Tobias
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-deep-currents](https://github.com/oceanhackweek/ohw21-proj-deep-currents)
 
 Moorings are expensive and lack long term overage. Deep water oceanography is important. Explore trends & variability from satellites, train a machine learning model to predict deep-water dynamics.
