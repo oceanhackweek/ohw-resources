@@ -60,6 +60,7 @@ There are so many data repositories already. Hard to search them all. If we wait
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-radar-qc](https://github.com/oceanhackweek/ohw21-proj-radar-qc) 
 
 Project ideas: 
+
 - Use Machine learning methods to filter out interference 
 - PCA to decompose spectrum images into signal and noise components
 - Ensemble averaging over entire bin to factor out range-dependent artifacts for filter development
@@ -72,6 +73,7 @@ Project ideas:
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-coastal-radar](https://github.com/oceanhackweek/ohw21-proj-coastal-radar)
 
 Project ideas: 
+
 - Plot/compare HFR surface current data with other data
 
 ## Use drone imagery of turtles, classify using neural network
@@ -99,6 +101,7 @@ OBIS record from polygons (e.g. MPA or any polygon) together with satellite data
 - GitHub: (needs link)
 
 Project ideas: 
+
 - Fuse monocular images and IMU data to create scaled depth maps using structure from motion
 - Validate using known-size targets that were placed in the underwater scene
 
@@ -116,6 +119,7 @@ Applications:
 - GitHub: (needs link)
 
 Project ideas: 
+
 - Standardizing species names is a key component of sharing and integrating biological data sets
 - A Python package already exists to check names against WoRMS, but it has a number of shortcomings:
     - Functions that are incomplete
@@ -143,6 +147,7 @@ Motivation: Currents transport plankton, nutrients, fishes in the time it takes 
 - GitHub: (needs link)
 
 Project ideas: 
+
 - Use seismic data, elemental data, and phylogenetic analysis/satellite imagery of blooms
 - Could help inform what variables are relevant for monitoring geologic activity over time and elucidating how this impacts habitability --could have applications for ocean world exploration (e.g. Enceladus)
 
@@ -154,6 +159,7 @@ Project ideas:
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-model-subsampling](https://github.com/oceanhackweek/ohw21-proj-model-subsampling)
 
 Project ideas: 
+
 - Compare sub-sampled model data to original data to understand what is missed through the sampling
 - User-customizable sampling parameters (e.g., ship or glider sampling pattern, depth of sensors, etc.) 
 - Would be maybe possible to do this using a wrapper around xarray, as it does have some features to extract non-uniform grid (http://xarray.pydata.org/en/stable/user-guide/interpolation.html#advanced-interpolation would be good starting point).
