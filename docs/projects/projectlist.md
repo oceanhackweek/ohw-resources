@@ -1,169 +1,110 @@
 # Project List 2021
 
+Collaborating with others on small group projects is an essential part of OceanHackWeek. These projects often involve creating new tools to access and process oceanographic data or using existing tools and techniques to explore datasets in new ways. The projects from OceanHackWeek 2021 were inspired by a wide range of interests shared by the participants and include a mix of Python and R programming.
+
 ## Characterising Acoustic Sound Scattering Layers
 
 - Project leads: Nick M
-- Presenter: Benjamin Getraer
+- Presentation: [Characterising Acoustic Sound Scattering Layers](https://www.youtube.com/watch?v=CZ4ok5Oio14)
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-bioacoustics](https://github.com/oceanhackweek/ohw21-proj-bioacoustics)
 
-Acoustic data contains information about organisms in the scattering layers. For example, diel vertical migration behavior is visible. This project aims to build tools for classifying and interpreting this data.
+Acoustic data contains information about organisms in the scattering layers. For example, diel vertical migration behavior is visible. The project aims to build tools for classifying and interpreting this data.
 
 
 ## CMIP analysis ready data (ARD) workflow : turning big climate projection data into useful inputs for modelling or analysis
 
 - Project leads: Thomas, Paige, Julius
-- Presenter: 
+- Presentation: [Oceania event recording](https://www.youtube.com/watch?v=Y5e50p39mnQ), [Main virtual event recording](https://www.youtube.com/watch?v=_JSB6lW2hbU)
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-cmip-ard](https://github.com/oceanhackweek/ohw21-proj-cmip-ard)
 
-CMIP (Climate Model Intercomparison Project) is a collection of global climate models and is a foundation of global climate projections, helping society better understand the choices we must either make or the impact the communities and industries of our children will face. However there are often barriers (big data, file format, coding familiarity – R vs Python, technical terminology) and challenges (Do I need to dedrift the data? What is this calendar on that model? ) for new users or specific disciplines, such as the marine ecology / ecological modelling community
+CMIP (Climate Model Intercomparison Project) is a collection of global climate models and is a foundation of global climate projections, helping society better understand the choices we must either make or the impact the communities and industries of our children will face. However there are often barriers (big data, file format, coding familiarity – R vs Python, technical terminology) and challenges (Do I need to dedrift the data? What is this calendar on that model?) for new users or specific disciplines, such as the marine ecology / ecological modelling community. This is a project to learn & document examples of CMIP6 workflows, turning big climate projection data into useful inputs for modelling and analysis.
 
 
-## Matching open source open environmental data to tagged species data
+## Matching open source environmental data to tagged species data
 
 - Project leads: Jackie Veatch
-- Presenter: Jackie Veatch
+- Presentation: [Xtractopy](https://www.youtube.com/watch?v=ZPTWcO4aY80)
 - GitHub: [https://github.com/oceanhackweek/OHW21_proj_tag_data](https://github.com/oceanhackweek/OHW21_proj_tag_data)
 
-Optimize a tool for making open source environmental data (ocean velocity, SSH, SST, ocean color, etc.) in an easy-to-use format for ecological research. Match tagged species data to environmental gridded data in space and time. Export to R and visualize relationships. Use findings to inform which environmental variables to map with tagged species data using Python hv plots.
+A significant gap in many ecologists' toolkits is being able to connect animal tracking data to ocean processes easily and to visualize this combined data. The goal of this project is to optimize a tool for making environmental data (ocean velocity, eddy kinetic energy, SST, etc.) in an easy-to-use format for ecological research (i.e., make available environmental data easier to load into R or Python, format data and overlay it with GPS locations of tracked animals).
 
 
 ## Predicting ocean deep currents by satellite data
 
 - Project leads: Iury
-- Presenter: Iury, Mengyang, Tobias
+- Presentation: [Estimating Deep Ocean Currents with Satellite Data](https://www.youtube.com/watch?v=41y2fWqPo54)
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-deep-currents](https://github.com/oceanhackweek/ohw21-proj-deep-currents)
 
-Moorings are expensive and lack long term overage. Deep water oceanography is important. Explore trends & variability from satellites, train a machine learning model to predict deep-water dynamics.
+Estimating deep currents from surface satellite data, exploring trends & variability from satellites, and training a machine learning model to predict deep-water dynamics.
 
 
 ## Pull/Hack all ocean data repositories into a global searchable resource
 
 - Project leads: Steve, Myranda
-- Presenter: Myranda, Steve
-- GitHub: [https://github.com/oceanhackweek/metadata-repository ??](https://github.com/oceanhackweek/metadata-repository)
+- Presentation: [Multi-Repository Searching](https://www.youtube.com/watch?v=FuIcrAkBJ20)
+- GitHub: [https://github.com/oceanhackweek/metadata-repository](https://github.com/oceanhackweek/metadata-repository)
 
-Our goal is to continue build a comprehensive ocean data search web presence to find the data you need right now. Many of the OceanHackWeek projects undertaken this week highlight the need for an easy way to search for the *right* data set for the task.  This is a continuation of previous work under NSF's EarthCube initiave.
+Continue building a comprehensive ocean data search web presence to find the data you need right now. Many of the OceanHackWeek projects undertaken this week highlight the need for an easy way to search for the *right* data set for the task. This is a continuation of previous work under NSF's EarthCube initiave.
+
 
 ## Quality control of high frequency radar data
 
 - Project leads: Teresa, John
-- Presenter: Teresa, John
+- Presentation: [HF Radar Quality Control](https://www.youtube.com/watch?v=O5xVxs7KAqs)
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-radar-qc](https://github.com/oceanhackweek/ohw21-proj-radar-qc) 
 
-Project ideas: 
+Python package for loading and processing HF radar spectra in Cross-Spectrum file format.
 
-- Use Machine learning methods to filter out interference 
-- PCA to decompose spectrum images into signal and noise components
-- Ensemble averaging over entire bin to factor out range-dependent artifacts for filter development
-- Apply basis transforms in spectral domain to remove broad noise artifacts while preserving sharper features.
 
 ## High frequency radar surface current data comparisons
 
 - Project leads: Teresa
-- Presenter: Teresa
+- Presentation: [High frequency radar data to measure coastal currents](https://www.youtube.com/watch?v=qsuciJjQMXw)
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-coastal-radar](https://github.com/oceanhackweek/ohw21-proj-coastal-radar)
 
-Project ideas: 
+Comparing and visualizing HF radar and other datasets.
 
-- Plot/compare HFR surface current data with other data
 
 ## Use drone imagery of turtles, classify using neural network
 
 - Project leads: Johnathan
-- Presenter: Lu Han
+- Presentation: [Turtle Detection Using Deep Learning](https://www.youtube.com/watch?v=fEjwZ3kLGjY)
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-drone-turtles](https://github.com/oceanhackweek/ohw21-proj-drone-turtles)
 
-Use neural networks and pytorch to classify images of turtles. 
+Use neural networks and pytorch to classify drone imagery of turtles. 
 
 
-## Continue OHW2020 project on OBIS and MPAs
+## Continuing OHW2020 project on OBIS and MPAs
 
 - Project leads: Enrique, Lei
-- Presenter: Lei
+- Presentation: [Marine Protected Areas](https://www.youtube.com/watch?v=KyQaFMZ6xvo)
 - GitHub: [https://github.com/oceanhackweek/ohw20-proj-species-marine-protected-areas](https://github.com/oceanhackweek/ohw20-proj-species-marine-protected-areas)
 
-OBIS record from polygons (e.g. MPA or any polygon) together with satellite data & visualize on a map, and select areas, and upload new species abundance data, and do some statistics correlating with MPA properties.
+Linking OBIS records of marine species distributions with satellite imagery of environmental variables in Marine Protected Areas (MPAs).
 
 
-## Determining the degree to which nutrient availability and microbial activity is driven by geologic events
+## Impact of Submarine Volcanism on Ocean World Habitability
 
 - Project leads: Laura R
-- Presenter:
+- Presentation: [Impact of Submarine Volcanism on Habitability](https://www.youtube.com/watch?v=Uske7c48GBc)
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-biological-activity-driven-by-geologic-events](https://github.com/oceanhackweek/ohw21-proj-biological-activity-driven-by-geologic-events)
 
-Project ideas: 
-
-- Use seismic data, elemental data, and phylogenetic analysis/satellite imagery of blooms
-- Could help inform what variables are relevant for monitoring geologic activity over time and elucidating how this impacts habitability --could have applications for ocean world exploration (e.g. Enceladus)
+Tracking the impact of underwater volcanic eruptions on nutrient availability and microbial activity: a case study of the axial seamount eruption.
 
 
 ## Sampling high-resolution model output as if by an in situ platform (ship, glider, mooring, etc.)
 
 - Project lead: Kyla
-- Presenter: Kyla (speaking) & Diana (sharing screen)
+- Presentation: [Model Subsampling Project](https://www.youtube.com/watch?v=acd9VRIiVvM)
 - GitHub: [https://github.com/oceanhackweek/ohw21-proj-model-subsampling](https://github.com/oceanhackweek/ohw21-proj-model-subsampling)
 
-Project ideas: 
-
-- Compare sub-sampled model data to original data to understand what is missed through the sampling
-- User-customizable sampling parameters (e.g., ship or glider sampling pattern, depth of sensors, etc.) 
-- Would be maybe possible to do this using a wrapper around xarray, as it does have some features to extract non-uniform grid (http://xarray.pydata.org/en/stable/user-guide/interpolation.html#advanced-interpolation would be good starting point).
-
-
-## *(DROPPED?)* Adding scale to underwater depth maps from monocular-vision
-
-- Project leads: Yelena Randall
-- Presenter:
-- GitHub: (needs link)
-
-Project ideas: 
-
-- Fuse monocular images and IMU data to create scaled depth maps using structure from motion
-- Validate using known-size targets that were placed in the underwater scene
-
-Applications:
-
-- Estimation and monitoring coral reef’s volume and surface area.
-- Can be used with deep sea vents, rocky reefs, any benthic habitat of interest 
-- Estimation of bottom rugosity with important implications for internal waves’ generation.
-
-
-## *(DROPPED?)* Current/particle back-tracer
-
-- Project leads: Adam K
-- Presenter:
-- GitHub: (needs link)
-
-Idea: Provide a tool/package that can take a location on the ocean and a period of time, then back-trace where it would have been at that previous point in time based on winds/currents (this tool might exist). 
-
-Applications: Could be used to re-trace where in-situ samples were taken in open ocean surveys to a common date/time for preserving temporal stationarity in ocean states. 
-
-Motivation: Currents transport plankton, nutrients, fishes in the time it takes a ship to move between samples or as a glider or saildrone passes through it. Most surfaces produced from point observations ignore the drift that occurred between measurements.  This becomes increasingly important when discussing lead-times or lag periods between ocean states and biological observations.
-
-
-## *(DROPPED?)* Interactive visualization of open access glider data
-- Project leads: Dhruv, Alison
-- Presenter:
-- GitHub: (needs link)
-
-The goal of this project is to show how interactive visualization tools from the [Holoviz ecosystem](https://holoviz.org/) can be combined with glider data access tools ([erddapy](https://github.com/ioos/erddapy), [gliderpy](https://github.com/ioos/gliderpy)) to quickly create a visualization dashboard that can help users intuitively explore glider data.
-
-
-## *(DROPPED?)* SeafloorHUB - Web Aggregator/Python or R package for oceanographic seafloor data 
-
-- Project leads: Stanley
-- Presenter:
-- GitHub: (needs link)
-
-Not enough common computational tools regarding data in the deep sea/or coastal marine system. While researchers are interesting in understanding the role of biological pump in the carbon uptake in the ocean, or the contribution of bottom flux from seafloor to the ocean (which fuel upwelling and nutrient regeneration), or the role of trace metal that is fundamentally altering our understanding of the ocean biogeochemical - common open source tools and repo are still behind standard we expect in the field. Often we still use manual ways to find and get the data. I propose we fix that and do it automatically. 
-
-The idea is to create a common hub where all things sediment/seafloor lives. For now I’m thinking of R shiny or other python stack like streamlit/flask. I think of the hub as a mining hub for seafloor data whether you are interested in geochemistry or ecology. You go in and get your data. 
+The goal of this project was to create a Python package that takes an input trajectory (e.g., the path of an ocean glider), subsamples output from a high-resolution ocean simulation along that trajectory, and returns a set of subsampled variables (e.g., standard physical variables temperature, salinity, velocity; derived physical quantities such as steric height; biogeochemical quantities if available). We envision this package having two potential uses: 1) designing in situ sampling strategies, and 2) interpreting in situ data in the context of a highly resolved oceanographic model.
 
 
 <!-- 
 ##
 
 - Project leads:
-- Presenter:
+- Presentation: []()
 - [GitHub]()
  -->
