@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../../img/favicon.ico">
+  <title>OHW21 Projects - OceanHackWeek'21 Resources</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../../css/theme.css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+  <link href="../../extra.css" rel="stylesheet" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "OHW21 Projects";
+    var mkdocs_page_input_path = "projects/projectlist.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href="../.." class="icon icon-home"> OceanHackWeek'21 Resources</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../..">Overview</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../about_ohw/">About OHW</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../conduct/">Code of Conduct</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Logistics</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/overview/">Logistics Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../schedule/">Schedule</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/getting_help/">Getting Help</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/coffeebreaks/">Coffee Breaks</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Preparation</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../prep/git/">Git</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../prep/github/">GitHub</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../prep/jupyterhub/">Jupyter and the Hub</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../prep/conda/">Conda, Python, R</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Tutorials</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../tutorials/getting_started/">Getting Started</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Projects</span></p>
+                <ul class="current">
+                    <li class="toctree-l1"><a class="reference internal" href="../overview/">Project Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../steps/">Hacking at OHW21</a>
+                    </li>
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">OHW21 Projects</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#characterising-acoustic-sound-scattering-layers">Characterising Acoustic Sound Scattering Layers</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#cmip-analysis-ready-data-ard-workflow-turning-big-climate-projection-data-into-useful-inputs-for-modelling-or-analysis">CMIP analysis ready data (ARD) workflow : turning big climate projection data into useful inputs for modelling or analysis</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#matching-open-source-environmental-data-to-tagged-species-data">Matching open source environmental data to tagged species data</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#predicting-ocean-deep-currents-by-satellite-data">Predicting ocean deep currents by satellite data</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#pullhack-all-ocean-data-repositories-into-a-global-searchable-resource">Pull/Hack all ocean data repositories into a global searchable resource</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#quality-control-of-high-frequency-radar-data">Quality control of high frequency radar data</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#high-frequency-radar-surface-current-data-comparisons">High frequency radar surface current data comparisons</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#use-drone-imagery-of-turtles-classify-using-neural-network">Use drone imagery of turtles, classify using neural network</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#continuing-ohw2020-project-on-obis-and-mpas">Continuing OHW2020 project on OBIS and MPAs</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#impact-of-submarine-volcanism-on-ocean-world-habitability">Impact of Submarine Volcanism on Ocean World Habitability</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#sampling-high-resolution-model-output-as-if-by-an-in-situ-platform-ship-glider-mooring-etc">Sampling high-resolution model output as if by an in situ platform (ship, glider, mooring, etc.)</a>
+    </li>
+    </ul>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../..">OceanHackWeek'21 Resources</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Projects &raquo;</li>
+        
+      
+    
+    <li>OHW21 Projects</li>
+    <li class="wy-breadcrumbs-aside">
+      
+        <a href="https://github.com/oceanhackweek/ohw-resources/edit/master/docs/projects/projectlist.md"
+          class="icon icon-github"> Edit on GitHub</a>
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="project-list-2021">Project List 2021</h1>
+<p>Collaborating with others on small group projects is an essential part of OceanHackWeek. These projects often involve creating new tools to access and process oceanographic data or using existing tools and techniques to explore datasets in new ways. The projects from OceanHackWeek 2021 were inspired by a wide range of interests shared by the participants and include a mix of Python and R programming.</p>
+<h2 id="characterising-acoustic-sound-scattering-layers">Characterising Acoustic Sound Scattering Layers</h2>
+<ul>
+<li>Project leads: Nick M</li>
+<li>Presentation: <a href="https://www.youtube.com/watch?v=CZ4ok5Oio14">Characterising Acoustic Sound Scattering Layers</a></li>
+<li>GitHub: <a href="https://github.com/oceanhackweek/ohw21-proj-bioacoustics">https://github.com/oceanhackweek/ohw21-proj-bioacoustics</a></li>
+</ul>
+<p>Acoustic data contains information about organisms in the scattering layers. For example, diel vertical migration behavior is visible. The project aims to build tools for classifying and interpreting this data.</p>
+<h2 id="cmip-analysis-ready-data-ard-workflow-turning-big-climate-projection-data-into-useful-inputs-for-modelling-or-analysis">CMIP analysis ready data (ARD) workflow : turning big climate projection data into useful inputs for modelling or analysis</h2>
+<ul>
+<li>Project leads: Thomas, Paige, Julius</li>
+<li>Presentation: <a href="https://www.youtube.com/watch?v=Y5e50p39mnQ">Oceania event recording</a>, <a href="https://www.youtube.com/watch?v=_JSB6lW2hbU">Main virtual event recording</a></li>
+<li>GitHub: <a href="https://github.com/oceanhackweek/ohw21-proj-cmip-ard">https://github.com/oceanhackweek/ohw21-proj-cmip-ard</a></li>
+</ul>
+<p>CMIP (Climate Model Intercomparison Project) is a collection of global climate models and is a foundation of global climate projections, helping society better understand the choices we must either make or the impact the communities and industries of our children will face. However there are often barriers (big data, file format, coding familiarity – R vs Python, technical terminology) and challenges (Do I need to dedrift the data? What is this calendar on that model?) for new users or specific disciplines, such as the marine ecology / ecological modelling community. This is a project to learn &amp; document examples of CMIP6 workflows, turning big climate projection data into useful inputs for modelling and analysis.</p>
+<h2 id="matching-open-source-environmental-data-to-tagged-species-data">Matching open source environmental data to tagged species data</h2>
+<ul>
+<li>Project leads: Jackie Veatch</li>
+<li>Presentation: <a href="https://www.youtube.com/watch?v=ZPTWcO4aY80">Xtractopy</a></li>
+<li>GitHub: <a href="https://github.com/oceanhackweek/OHW21_proj_tag_data">https://github.com/oceanhackweek/OHW21_proj_tag_data</a></li>
+</ul>
+<p>A significant gap in many ecologists' toolkits is being able to connect animal tracking data to ocean processes easily and to visualize this combined data. The goal of this project is to optimize a tool for making environmental data (ocean velocity, eddy kinetic energy, SST, etc.) in an easy-to-use format for ecological research (i.e., make available environmental data easier to load into R or Python, format data and overlay it with GPS locations of tracked animals).</p>
+<h2 id="predicting-ocean-deep-currents-by-satellite-data">Predicting ocean deep currents by satellite data</h2>
+<ul>
+<li>Project leads: Iury</li>
+<li>Presentation: <a href="https://www.youtube.com/watch?v=41y2fWqPo54">Estimating Deep Ocean Currents with Satellite Data</a></li>
+<li>GitHub: <a href="https://github.com/oceanhackweek/ohw21-proj-deep-currents">https://github.com/oceanhackweek/ohw21-proj-deep-currents</a></li>
+</ul>
+<p>Estimating deep currents from surface satellite data, exploring trends &amp; variability from satellites, and training a machine learning model to predict deep-water dynamics.</p>
+<h2 id="pullhack-all-ocean-data-repositories-into-a-global-searchable-resource">Pull/Hack all ocean data repositories into a global searchable resource</h2>
+<ul>
+<li>Project leads: Steve, Myranda</li>
+<li>Presentation: <a href="https://www.youtube.com/watch?v=FuIcrAkBJ20">Multi-Repository Searching</a></li>
+<li>GitHub: <a href="https://github.com/oceanhackweek/metadata-repository">https://github.com/oceanhackweek/metadata-repository</a></li>
+</ul>
+<p>Continue building a comprehensive ocean data search web presence to find the data you need right now. Many of the OceanHackWeek projects undertaken this week highlight the need for an easy way to search for the <em>right</em> data set for the task. This is a continuation of previous work under NSF's EarthCube initiave.</p>
+<h2 id="quality-control-of-high-frequency-radar-data">Quality control of high frequency radar data</h2>
+<ul>
+<li>Project leads: Teresa, John</li>
+<li>Presentation: <a href="https://www.youtube.com/watch?v=O5xVxs7KAqs">HF Radar Quality Control</a></li>
+<li>GitHub: <a href="https://github.com/oceanhackweek/ohw21-proj-radar-qc">https://github.com/oceanhackweek/ohw21-proj-radar-qc</a> </li>
+</ul>
+<p>Python package for loading and processing HF radar spectra in Cross-Spectrum file format.</p>
+<h2 id="high-frequency-radar-surface-current-data-comparisons">High frequency radar surface current data comparisons</h2>
+<ul>
+<li>Project leads: Teresa</li>
+<li>Presentation: <a href="https://www.youtube.com/watch?v=qsuciJjQMXw">High frequency radar data to measure coastal currents</a></li>
+<li>GitHub: <a href="https://github.com/oceanhackweek/ohw21-proj-coastal-radar">https://github.com/oceanhackweek/ohw21-proj-coastal-radar</a></li>
+</ul>
+<p>Comparing and visualizing HF radar and other datasets.</p>
+<h2 id="use-drone-imagery-of-turtles-classify-using-neural-network">Use drone imagery of turtles, classify using neural network</h2>
+<ul>
+<li>Project leads: Johnathan</li>
+<li>Presentation: <a href="https://www.youtube.com/watch?v=fEjwZ3kLGjY">Turtle Detection Using Deep Learning</a></li>
+<li>GitHub: <a href="https://github.com/oceanhackweek/ohw21-proj-drone-turtles">https://github.com/oceanhackweek/ohw21-proj-drone-turtles</a></li>
+</ul>
+<p>Use neural networks and pytorch to classify drone imagery of turtles. </p>
+<h2 id="continuing-ohw2020-project-on-obis-and-mpas">Continuing OHW2020 project on OBIS and MPAs</h2>
+<ul>
+<li>Project leads: Enrique, Lei</li>
+<li>Presentation: <a href="https://www.youtube.com/watch?v=KyQaFMZ6xvo">Marine Protected Areas</a></li>
+<li>GitHub: <a href="https://github.com/oceanhackweek/ohw20-proj-species-marine-protected-areas">https://github.com/oceanhackweek/ohw20-proj-species-marine-protected-areas</a></li>
+</ul>
+<p>Linking OBIS records of marine species distributions with satellite imagery of environmental variables in Marine Protected Areas (MPAs).</p>
+<h2 id="impact-of-submarine-volcanism-on-ocean-world-habitability">Impact of Submarine Volcanism on Ocean World Habitability</h2>
+<ul>
+<li>Project leads: Laura R</li>
+<li>Presentation: <a href="https://www.youtube.com/watch?v=Uske7c48GBc">Impact of Submarine Volcanism on Habitability</a></li>
+<li>GitHub: <a href="https://github.com/oceanhackweek/ohw21-proj-biological-activity-driven-by-geologic-events">https://github.com/oceanhackweek/ohw21-proj-biological-activity-driven-by-geologic-events</a></li>
+</ul>
+<p>Tracking the impact of underwater volcanic eruptions on nutrient availability and microbial activity: a case study of the axial seamount eruption.</p>
+<h2 id="sampling-high-resolution-model-output-as-if-by-an-in-situ-platform-ship-glider-mooring-etc">Sampling high-resolution model output as if by an in situ platform (ship, glider, mooring, etc.)</h2>
+<ul>
+<li>Project lead: Kyla</li>
+<li>Presentation: <a href="https://www.youtube.com/watch?v=acd9VRIiVvM">Model Subsampling Project</a></li>
+<li>GitHub: <a href="https://github.com/oceanhackweek/ohw21-proj-model-subsampling">https://github.com/oceanhackweek/ohw21-proj-model-subsampling</a></li>
+</ul>
+<p>The goal of this project was to create a Python package that takes an input trajectory (e.g., the path of an ocean glider), subsamples output from a high-resolution ocean simulation along that trajectory, and returns a set of subsampled variables (e.g., standard physical variables temperature, salinity, velocity; derived physical quantities such as steric height; biogeochemical quantities if available). We envision this package having two potential uses: 1) designing in situ sampling strategies, and 2) interpreting in situ data in the context of a highly resolved oceanographic model.</p>
+<!-- 
+##
+
+- Project leads:
+- Presentation: []()
+- [GitHub]()
+ -->
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+      
+        <a href="../steps/" class="btn btn-neutral" title="Hacking at OHW21"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+        <span>
+          <a href="https://github.com/oceanhackweek/ohw-resources/" class="fa fa-github" style="color: #fcfcfc"> GitHub</a>
+        </span>
+    
+    
+      <span><a href="../steps/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+  </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme_extra.js" defer></script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../../img/favicon.ico">
+  <title>Conda, Python, R - OceanHackWeek'21 Resources</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../../css/theme.css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+  <link href="../../extra.css" rel="stylesheet" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Conda, Python, R";
+    var mkdocs_page_input_path = "prep/conda.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href="../.." class="icon icon-home"> OceanHackWeek'21 Resources</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../..">Overview</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../about_ohw/">About OHW</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../conduct/">Code of Conduct</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Logistics</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/overview/">Logistics Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../schedule/">Schedule</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/getting_help/">Getting Help</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/coffeebreaks/">Coffee Breaks</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Preparation</span></p>
+                <ul class="current">
+                    <li class="toctree-l1"><a class="reference internal" href="../git/">Git</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../github/">GitHub</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../jupyterhub/">Jupyter and the Hub</a>
+                    </li>
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Conda, Python, R</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#python-and-r-learning-resources">Python and R learning resources</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#conda-and-installing-python-and-r-environments">Conda and installing Python and R environments</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#overview">Overview</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#what-is-conda">What is Conda?</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#conda-on-the-jupyterhub">Conda on the JupyterHub</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#jupyterhub-base-environment">JupyterHub base environment</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#temporary-packages">Temporary packages</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#create-your-own-environment-on-jupyterhub">Create your own environment on JupyterHub</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#conda-on-your-own-computer">Conda on your own computer</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#installing-conda">Installing Conda</a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Tutorials</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../tutorials/getting_started/">Getting Started</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Projects</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/overview/">Project Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/steps/">Hacking at OHW21</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/projectlist/">OHW21 Projects</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../..">OceanHackWeek'21 Resources</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Preparation &raquo;</li>
+        
+      
+    
+    <li>Conda, Python, R</li>
+    <li class="wy-breadcrumbs-aside">
+      
+        <a href="https://github.com/oceanhackweek/ohw-resources/edit/master/docs/prep/conda.md"
+          class="icon icon-github"> Edit on GitHub</a>
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="conda-python-and-r">Conda, Python and R</h1>
+<h2 id="python-and-r-learning-resources">Python and R learning resources</h2>
+<p>While we anticipate that most participants will have some experience with Python and/or R programming, we understand that everyone joining OceanHackWeek is coming from a different background and skill level in programming. Below are links to a few resources to refresh your skills in Python and R, as well as a tutorial video from a previous OHW event that covers a handful of Python packages. The material covered in these lessons is a good reflection of the level we expect participants to be at and should get you up-to-date on the basic programming skills needed for the workshop.</p>
+<ul>
+<li><a href="https://swcarpentry.github.io/python-novice-gapminder/index.html">Plotting and Programming in Python</a> - This lesson is an introduction to programming in Python for people with little or no previous programming experience.</li>
+<li><a href="https://swcarpentry.github.io/python-novice-inflammation/">Programming with Python</a> - This Python lesson teaches data analysis using a case study of inflammation in patients who have been given a new treatment for arthritis.</li>
+<li><a href="https://swcarpentry.github.io/r-novice-gapminder/">R for Reproducible Scientific Analysis</a> - R is commonly used in many scientific disciplines for statistical analysis. This lesson teaches novice programmers to write modular code and covers best practices for using R for data analysis.</li>
+<li><a href="https://www.youtube.com/watch?v=CTUAgpvfze0">Oceanhackweek 2020 recording: Jupyter, NumPy, Pandas, and Matplotlib</a> - As a part of OceanHackWeek 2020, Leticia Portella gave a pre-hackweek tutorial on Jupyter, NumPy, Pandas, and Matplotlib. The Jupyter notebooks are found <a href="https://github.com/oceanhackweek/ohw-preweek/tree/master/data-analysis-modules">here</a>.</li>
+</ul>
+<h2 id="conda-and-installing-python-and-r-environments">Conda and installing Python and R environments</h2>
+<h3 id="overview">Overview</h3>
+<p>The Hub is pre-configured with a customized "environment" of Python and R packages designed to run all the tutorial notebooks, and supporting a broad range of oceanographic applications. This environment is created and managed using the open-source <a href="https://docs.conda.io"><strong>Conda</strong> package and environment management system</a> for installing multiple versions of software packages together with their dependencies, and convenient switching between environments. </p>
+<h3 id="what-is-conda">What is Conda?</h3>
+<p><a href="http://conda.pydata.org/docs/"><strong>Conda</strong></a> is an <strong>open source <code>package</code> and <code>environment</code> management system for any programming languages, but very popular among the Python community,</strong></p>
+<p>Conda runs on Windows, macOS, and Linux: <em>"Conda quickly installs, runs, and updates packages and their dependencies. Conda easily creates, saves, loads, and switches between environments on your local computer. It was created for Python programs but it can package and distribute software for any language."</em></p>
+<p>For Python, the advantage of conda compared to <code>pip</code> is that it has a built in environment management system as well as the management of binaries, and non-Python dependencies.</p>
+<h3 id="conda-on-the-jupyterhub">Conda on the JupyterHub</h3>
+<p>The JupyterHub has both a pre-configured base environment, and environments that you create and manage yourself.</p>
+<h4 id="jupyterhub-base-environment">JupyterHub base environment</h4>
+<p>The Conda environment for the base JupyterHub environment is defined in <a href="https://github.com/oceanhackweek/jupyter-image/">oceanhackweek/jupyter-image</a>. This image contains hopefully everything you will need for the tutorials and for general exploration.</p>
+<p>The <a href="https://github.com/oceanhackweek/jupyter-image/blob/master/environment.yml">environment.yml</a> captures the current state of the OceanHackWeek environment. You can explore this file to see what packages we have selected to come in the base environment.</p>
+<pre><code class="language-yaml"># environment.yml
+name: OHW
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pangeo-notebook=2021.07.24
+  - argopy
+  - bokeh
+  - bottleneck
+  - cartopy
+  - cdsapi
+  - cf-units
+  - cf_xarray
+  - cmip6_preprocessing
+  - cmocean
+  - colorcet
+  - compilers
+  - compliance-checker
+  - conda-lock
+#   ... oh so many more packages that we are not going to include them all here
+</code></pre>
+<p>It also contains a lot of supporting infrastructure for running each individual's JupyterLab server (for instance <code>compilers</code> and <code>conda-lock</code> in just that small subset), so we suggest building up an environment from scratch, rather than by trimming down the base environment.</p>
+<p>The exact state of the Conda environment is captured in <a href="https://github.com/oceanhackweek/jupyter-image/blob/master/conda-linux-64.lock"><code>conda-linux-64.lock</code></a>, which will also include lots of packages that we didn't explicitly select, but are needed dependencies of those we did.</p>
+<p>There are also a handful of dependencies that are installed directly in the <a href="https://github.com/oceanhackweek/jupyter-image/blob/master/Dockerfile">Docker image</a>, like RStudio, and the Bigelow Labs R libraries (<a href="https://github.com/BigelowLab/ohwobpg"><code>ohwobpg</code></a> and <a href="https://github.com/BigelowLab/rasf"><code>rasf</code></a>).</p>
+<h4 id="temporary-packages">Temporary packages</h4>
+<p>You can temporarily add packages to your hub, via Jupyter cell magic, <code>%pip install &lt;list-of-packages&gt;</code> or <code>%conda install &lt;list-of-packages&gt;</code>. In R you can use <code>install.packages("package-name")</code> as usual.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>For those who know their way around Jupyter, you may be tempted to <code>!pip install &lt;list-of-packages&gt;</code>. This can leave your environment in an inconsistent state, which may prevent your server from starting (and will require some heavy duty assistance from <code>@help-infrastructure</code> to debug). More information is <a href="https://pilot.2i2c.org/en/latest/admin/howto/environment.html#temporarily-install-packages-for-a-session">available here.</a></p>
+</div>
+<h4 id="create-your-own-environment-on-jupyterhub">Create your own environment on JupyterHub</h4>
+<p>To create your own Conda environment on JupyterHub, you can launch the terminal and run <code>conda create</code> commands as expected. Be sure to specify <code>-n &lt;environment-name&gt;</code>. For a Python environment:</p>
+<p><code>conda create -n cool-project -c conda-forge python=3.9 xarray ipykernel</code></p>
+<p>Once you've created an environment, you can run <code>conda activate cool-project</code> as usual for access to the environment in the terminal. Additionally the environment will become available as a notebook environment if you install <code>ipykernel</code> for Python or <code>irkernel</code> for R.</p>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
+<p>It may take a minute or two for JupyterLab to show your new Conda environment.
+The <a href="https://github.com/Anaconda-Platform/nb_conda_kernels">package</a> that detects additional environments doesn't run constantly, so give it a second before worrying that you created an environment wrong.</p>
+</div>
+<h3 id="conda-on-your-own-computer">Conda on your own computer</h3>
+<p>Conda may be used on your computer as well as the Hub. If you wish to install the same environment as the hub is running, after you install Conda, you can download the <a href="https://github.com/oceanhackweek/ohw20-tutorials/blob/master/environment.yml"><code>environment.yml</code></a> that we use, then <code>conda create -n &lt;ENV NAME&gt; --file environment.yml</code></p>
+<h4 id="installing-conda">Installing Conda</h4>
+<p>There are a few different ways to install conda:</p>
+<ul>
+<li>The <a href="https://www.anaconda.com/products/individual">Anaconda Individual Edition</a> which comes with a large pre-packaged environment, and a snazzy management interface to help explore what packages are available and what environments you have installed.</li>
+<li><a href="https://docs.conda.io/en/latest/miniconda.html">Miniconda</a> is a stripped down version with just the installer, which is really for kick starting other environments.</li>
+<li>There is also <a href="https://mamba.readthedocs.io/en/latest/index.html">Mamba</a> which is a newer take on Conda that tends to be faster, though it's still under heavy development (and it's what we're actually using).</li>
+</ul>
+<p>We recommend the use of Miniconda.</p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../../tutorials/getting_started/" class="btn btn-neutral float-right" title="Getting Started">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../jupyterhub/" class="btn btn-neutral" title="Jupyter and the Hub"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+        <span>
+          <a href="https://github.com/oceanhackweek/ohw-resources/" class="fa fa-github" style="color: #fcfcfc"> GitHub</a>
+        </span>
+    
+    
+      <span><a href="../jupyterhub/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../../tutorials/getting_started/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme_extra.js" defer></script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
