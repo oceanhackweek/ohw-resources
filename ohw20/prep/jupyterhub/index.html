@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../../img/favicon.ico">
+  <title>Jupyter and the Hub - OceanHackWeek Resources</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../../css/theme.css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+  <link href="../../extra.css" rel="stylesheet" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Jupyter and the Hub";
+    var mkdocs_page_input_path = "prep/jupyterhub.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href="../.." class="icon icon-home"> OceanHackWeek Resources</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../..">Overview</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../conduct/">Code of Conduct</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Logistics</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/overview/">Overview of Logistics</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../schedule/">Schedule</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/getting_help/">Getting Help</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Pre-event Preparation</span></p>
+                <ul class="current">
+                    <li class="toctree-l1"><a class="reference internal" href="../git/">Git</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../github/">GitHub</a>
+                    </li>
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Jupyter and the Hub</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#why-are-we-using-a-shared-cloud-environment">Why are we using a shared cloud environment?</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#how-do-i-access-the-shared-cloud-environment">How do I access the shared cloud environment?</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#how-do-i-get-my-code-in-and-out-of-the-hub">How do I get my code in and out of the Hub?</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#how-do-i-end-my-hub-session-will-i-lose-all-of-my-work">How do I end my Hub session? Will I lose all of my work?</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#references-and-resources">References and Resources</a>
+    </li>
+    </ul>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Tutorials</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../tutorials/getting_started/">Getting Started</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Projects</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/overview/">Project Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/steps/">Hacking at OHW20</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../..">OceanHackWeek Resources</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Pre-event Preparation &raquo;</li>
+        
+      
+    
+    <li>Jupyter and the Hub</li>
+    <li class="wy-breadcrumbs-aside">
+      
+        <a href="https://github.com/oceanhackweek/ohw-resources/edit/master/docs/prep/jupyterhub.md"
+          class="icon icon-github"> Edit on GitHub</a>
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="jupyterhub">JupyterHub</h1>
+<h2 id="why-are-we-using-a-shared-cloud-environment">Why are we using a shared cloud environment?</h2>
+<p>Teaching software to a diverse group of participants, each with different computers and operating systems, can be challenging. As you'll learn in the next lesson, there are specific ways to configure our software for the tutorials to be successful, so it takes time to get everyone set up consistently. Our solution to this is to give everyone access to a cloud computing environment that is pre-configured for the specific software we will deploy. This cloud computing instance can be accessed from any web browser, which eliminates the need for configuring each person's individual computer. For this hackweek we have created virtual computing instances on Amazon Web Services (AWS) that can be deployed on demand in a parallel computing environment. We use JupyterHub as a way to give a Jupyter Notebook server (JupyterLab) to each person in a group. <a href="https://www.slideshare.net/willingc/jupyterhub-a-thing-explainer-overview?from_action=save">These (slightly old) slides</a> give a nice overview of what JupyterHub is all about. JupyterHub enables us to quickly begin working with code without spending time to get the necessary libraries and dependencies set up on everyone's individual computers.</p>
+<p>We encourage you to use our shared Hub resources for running all the tutorials, and you can optionally use this for your projects as well. We also hope you will practice installing Python libraries locally on your laptop so that you can continue working after leaving our event.</p>
+<div class="admonition note">
+<p class="admonition-title">Pre-Hackweek Jupyter tutorial</p>
+<p><strong>See the OHW20 pre-hackweek presentation on 2020-8-7, <a href="../../tutorials/getting_started/#pre-hackweek-tutorials">here</a>, which demonstrated effective Jupyter use both locally and on the OHW Hub</strong></p>
+</div>
+<h2 id="how-do-i-access-the-shared-cloud-environment">How do I access the shared cloud environment?</h2>
+<p>Access to our shared cloud environment is easy. Just click on <a href="https://ocean.hackweek.io">https://ocean.hackweek.io</a></p>
+<p><img alt="hub-opening" src="../../img/ohwjupyterhub-opening.png" /></p>
+<p>Assuming you set up your GitHub credentials correctly (see the previous lesson), you can now click on the "Sign in with GitHub" button:</p>
+<p><img alt="hub-loading" src="../../img/pangeo-loading.png" /></p>
+<p>It will take a little bit of time for this to load - be patient! Once things are spun up you will see your very own instance of a <a href="https://jupyterlab.readthedocs.io/en/stable/">JupyterLab</a> graphical user interface:</p>
+<p><img alt="jupyterlab" src="../../img/jupyterlab.png" /></p>
+<h2 id="how-do-i-get-my-code-in-and-out-of-the-hub">How do I get my code in and out of the Hub?</h2>
+<p>When you start your own instance of the Hub you will have access to your own virtual drive space. No other Hub users will be able to see or access your data files. Next we will explain how you can upload files to your virtual drive space and how to save files from the Hub back to another location, such as GitHub or your own local laptop drive.</p>
+<p>First we'll show you how to pull some files from GitHub into your virtual drive space.  This will be a common task during the hackweek: at the start of each tutorial we'll ask you to "clone" (make a copy of) the GitHub repository corresponding to the specific tutorial being taught into your Hub drive space.</p>
+<p>To do this, we will need to interface with the file system of the Hub. Hub is deployed in a Linux operating system and we will need to open a terminal within the Hub JupyterLab interface to manage our files. There are two ways to do this: (1) Navigate to the "File" menu, choose "New" and then "Terminal" or (2) click on the "terminal" button in JupyterLab: </p>
+<p><img alt="terminal-button" src="../../img/terminal-button.png" /></p>
+<p>This will open a new terminal tab in your JupyterLab interface:</p>
+<p><img alt="terminal-tab" src="../../img/terminal.png" /></p>
+<p>Now you can issue any Linux commands to manage your local file system.</p>
+<p>Now let's clone a repository (Note: we'll be teaching about Git clone during our introductory tutorials). This tutorial is built in a repository called "preliminary", so let's try cloning that. First, navigate in a browser on your own computer to the repository link <a href="oceanhackweek/ohw20-tutorials">here</a>. Next, click on the green "clone or download" button and then copy the url into your clipboard by clicking the copy button:</p>
+<!-- CREATE NEW SCREENSHOT USING OHW ORG -->
+<p><img alt="clone" src="../../img/clone.png" /></p>
+<p>Now navigate back to your command line in JupyterLab. Type "git clone" and then paste in the url:</p>
+<pre><code class="language-bash">git clone https://github.com/oceanhackweek/ohw20-tutorials.git
+</code></pre>
+<p>After issuing the git clone command you should see something like this:</p>
+<p><img alt="clone-result" src="../../img/clone-result.png" /></p>
+<h2 id="how-do-i-end-my-hub-session-will-i-lose-all-of-my-work">How do I end my Hub session? Will I lose all of my work?</h2>
+<p>When you are finished working for the day it is important to explicitly log out of your Hub session. The reason for this is it will save us a bit of money! When you keep a session active it uses up AWS resources and keeps a series of virtual machines deployed. </p>
+<p><strong>To log out and stop the server, select the menu item <code>File &gt; Log Out</code>.</strong></p>
+<div class="admonition warning">
+<p class="admonition-title">logging out</p>
+<p>Logging out will <strong>NOT</strong> cause any of your work to be lost or deleted. It simply shuts down some resources. It would be equivalent to turning off your desktop computer at the end of the day.</p>
+</div>
+<h2 id="references-and-resources">References and Resources</h2>
+<ul>
+<li><a href="https://www.nature.com/articles/d41586-018-07196-1">Why Jupyter is data scientists’ computational notebook of choice. An improved architecture and enthusiastic user base are driving uptake of the open-source web tool (Nature, 2018-10)</a></li>
+<li>From <a href="https://dataquest.io">https://dataquest.io</a><ul>
+<li><a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">Jupyter Notebook for Beginners: A Tutorial</a></li>
+<li><a href="https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/">Tutorial: Advanced Jupyter Notebooks</a></li>
+<li><a href="https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/">28 Jupyter Notebook Tips, Tricks, and Shortcuts</a></li>
+</ul>
+</li>
+<li><a href="https://www.blog.pythonlibrary.org/2019/02/05/getting-started-with-jupyterlab/">Getting Started with JupyterLab</a></li>
+<li><a href="https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b">Jupyter Lab: Evolution of the Jupyter Notebook. An overview of JupyterLab, the next generation of the Jupyter Notebook.</a></li>
+</ul>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../../tutorials/getting_started/" class="btn btn-neutral float-right" title="Getting Started">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../github/" class="btn btn-neutral" title="GitHub"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+        <span>
+          <a href="https://github.com/oceanhackweek/ohw-resources/" class="fa fa-github" style="color: #fcfcfc"> GitHub</a>
+        </span>
+    
+    
+      <span><a href="../github/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../../tutorials/getting_started/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme_extra.js" defer></script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>

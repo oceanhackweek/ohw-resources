@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../../img/favicon.ico">
+  <title>Git - OceanHackWeek Resources</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../../css/theme.css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+  <link href="../../extra.css" rel="stylesheet" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Git";
+    var mkdocs_page_input_path = "prep/git.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href="../.." class="icon icon-home"> OceanHackWeek Resources</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../..">Overview</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../conduct/">Code of Conduct</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Logistics</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/overview/">Overview of Logistics</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../schedule/">Schedule</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/getting_help/">Getting Help</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Pre-event Preparation</span></p>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Git</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#about-git-and-github">About Git and GitHub</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#git-installation">Git Installation</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#getting-started-with-bash-terminal">Getting started with Bash terminal</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#terminal-command-line-text-editor">Terminal (command line) text editor</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#git-steps-and-workflows">Git steps and workflows</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#1-create-a-project-repository">1. Create a project repository</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#2-clone-the-repository">2. Clone the repository</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#3-update-the-readme-with-your-name">3. Update the README with your name</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#4-update-your-local-repository-with-the-changes-of-your-collaborators">4. Update your local repository with the changes of your collaborators</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#5-resolving-the-merge-conflict">5. Resolving the merge conflict</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#6-avoiding-problems-forking-workflow">6. Avoiding problems: forking workflow</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#submitting-changes-via-a-pull-request">Submitting changes via a pull request</a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#troubleshooting">Troubleshooting</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#references-and-resources">References and Resources</a>
+    </li>
+    </ul>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../github/">GitHub</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../jupyterhub/">Jupyter and the Hub</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Tutorials</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../tutorials/getting_started/">Getting Started</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Projects</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/overview/">Project Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/steps/">Hacking at OHW20</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../..">OceanHackWeek Resources</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Pre-event Preparation &raquo;</li>
+        
+      
+    
+    <li>Git</li>
+    <li class="wy-breadcrumbs-aside">
+      
+        <a href="https://github.com/oceanhackweek/ohw-resources/edit/master/docs/prep/git.md"
+          class="icon icon-github"> Edit on GitHub</a>
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="git-setup-and-basics">Git Setup and Basics</h1>
+<h2 id="about-git-and-github">About Git and GitHub</h2>
+<p><a href="https://git-scm.com/">Git</a> is a popular version control system that is the foundation of most open source software development. You are not required to be a Git pro in advance of this event, but come prepared to learn a lot about it! <a href="https://icesat-2hackweek.github.io/github.com">GitHub</a> is a hosting service for Git repositories, enabling us to share code across teams in a web environment. </p>
+<p>We will use Git and Github for collaborative work. Be sure to arrive at OceanHackWeek with your own <a href="https://github.com/">GitHub</a> account.</p>
+<h2 id="git-installation">Git Installation</h2>
+<ul>
+<li>Windows<ul>
+<li>Install Git for Windows from this <a href="https://gitforwindows.org/">link</a>. For more setup details follow these <a href="https://carpentries.github.io/workshop-template/#shell">instructions</a></li>
+</ul>
+</li>
+<li>MAC OS<ul>
+<li>Download the <a href="https://git-scm.com/download/mac">git installer</a> and run it.</li>
+</ul>
+</li>
+<li>Linux (Debian): <code>sudo apt install git-all</code></li>
+</ul>
+<p>To test open the terminal (on Windows, Git Bash) and setup your username and email:</p>
+<pre><code class="language-bash">git config --global user.name &quot;your username&quot;
+git config --global user.email &quot;your email&quot;
+</code></pre>
+<h2 id="getting-started-with-bash-terminal">Getting started with Bash terminal</h2>
+<p>During the hackweek it will be useful to know how to navigate between files from the command line. If you are not familiar with the linux shell commands, you can review the first three sections of this <a href="https://swcarpentry.github.io/shell-novice/">Software Carpentry Shell Novice</a> lesson. On Windows, use the Git Bash terminal to run these commands.</p>
+<h2 id="terminal-command-line-text-editor">Terminal (command line) text editor</h2>
+<p>When working on the command line (the terminal or shell), it is often handy to modify file content directly from there. For that you can use a command line editor such as <a href="https://linuxize.com/post/how-to-use-nano-text-editor/">nano</a>. On Mac and Linux it is usually pre-installed, but for Windows you can follow the instructions in this <a href="http://carpentries.github.io/workshop-template/#editor">link</a> to set it up. Test your installation by opening a terminal and running <code>nano --version</code>. If it works you can link your git configuration with nano:</p>
+<pre><code class="language-bash">git config --global core.editor &quot;nano -w&quot;
+</code></pre>
+<h2 id="git-steps-and-workflows">Git steps and workflows</h2>
+<div class="admonition note">
+<p class="admonition-title">Centralized vs Fork-Clone workflows</p>
+<p>Steps 1-5 focus on the Git "centralized workflow". We present it here as an illustration, but <strong>the workflow we recommend for use in OHW20 is the Git Fork - Clone workflow, discussed in Step 6 and discussed in the OHW20 pre-hackweek presentation on 2020-8-6, <a href="../../tutorials/getting_started/#pre-hackweek-tutorials">here</a>.</strong></p>
+</div>
+<h3 id="1-create-a-project-repository">1. Create a project repository</h3>
+<p>On your own or someone in your project group (preferably one who has never done it before, create a repository for the project under the OceanHackWeek organization, <a href="https://github.com/oceanhackweek">https://github.com/oceanhackweek</a></p>
+<p><img alt="New Repo" src="../../img/newRepo.png" /></p>
+<p>Click <code>New</code> and follow the steps: check yes to create a <code>README.md</code> file.</p>
+<ul>
+<li>Format project name as <code>ohw20-proj-myprojectname</code> (you can change the name later), where <code>myprojectname</code> is a brief name for your project</li>
+<li>Invite others to the repo:<ul>
+<li><code>Settings -&gt; Collaborators</code></li>
+<li>Note to collaborators: you will receive an invitation to your email associated with github.com. If you cannnot find it look for the <code>bell</code> notifications on the top right of the website.</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-clone-the-repository">2. Clone the repository</h3>
+<p>Each participant should clone the repository so they have their copy on their Hub account space (and locally in the participant's computer, if desired). Navigate through the terminal to the folder where you want to keep OceanHackWeek work (<code>cd path_to_oceanhackweek</code>).</p>
+<pre><code class="language-bash">git clone https://github.com/oceanhackweek/ohw20-proj-myprojectname.git
+</code></pre>
+<p>This will create a new folder called <code>ohw20-proj-myprojectname</code>. Navigate to the new folder, <code>ohw20-proj-myprojectname</code>.</p>
+<h3 id="3-update-the-readme-with-your-name">3. Update the README with your name</h3>
+<p>Open the <code>README.md</code> file with your favorite editor and create a new section header. Under this section add your name. Then add this change, commit it to the local repository, and push it so that it appears on the <code>origin</code> GitHub repository.</p>
+<pre><code class="language-bash">git add README.md
+git commit -m &quot;Adding Valentina's name to README.md&quot;
+git push origin
+</code></pre>
+<p>Make sure your change appears online.</p>
+<div class="admonition note">
+<p class="admonition-title">Remember to run:</p>
+<p><code>git status</code> to observe the changes made into the your repository. Pay attention to the colors. To see the changes in the files run <code>git diff</code>.</p>
+</div>
+<h3 id="4-update-your-local-repository-with-the-changes-of-your-collaborators">4. Update your local repository with the changes of your collaborators</h3>
+<pre><code class="language-bash">git pull origin master
+</code></pre>
+<div class="admonition note">
+<p class="admonition-title">Remember <code>origin</code> is just a short name of the web address of the repository.</p>
+<p>To see what is hidden in origin: <code>git remote -v</code></p>
+</div>
+<p>To continue practicing these steps, make more changes to the title and the description of the project.</p>
+<p><img alt="" src="../../img/centralized_workflow.png" /></p>
+<p><em>Ran into a problem?</em></p>
+<p>When working with several people sometimes you</p>
+<ul>
+<li>cannot push because changes have been made that have not been incorporated: need to first pull</li>
+<li>when pulling you arrive into a merge conflict: need to resolve the conflict manually</li>
+</ul>
+<h3 id="5-resolving-the-merge-conflict">5. Resolving the merge conflict</h3>
+<pre><code class="language-bash">git status
+</code></pre>
+<p>You will see the file/s which caused the merge conflict in green.</p>
+<p>Open it and detect the conflict by the special format:</p>
+<pre><code>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+my text
+=======
+somebody else's text
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 35ab35436
+</code></pre>
+<p>Decide which changes you want to keep, and modify the file so it looks as you wish directly from the editor. Remove the unnecessary characters. Add, commit and push the changes.</p>
+<pre><code class="language-bash">git add README.md
+git commit -m &quot;resolving merge conflict&quot;
+git push origin master
+</code></pre>
+<p>You can continue working on as usual.</p>
+<div class="admonition note">
+<p class="admonition-title">Remember to pull often and push small changes ...</p>
+<p>... to avoid messing with complicatd merges and keep your repo up-to-date.</p>
+</div>
+<h3 id="6-avoiding-problems-forking-workflow">6. Avoiding problems: forking workflow</h3>
+<p>So far you collaborated using what is called a centralized git workflow: i.e. every collaborator makes directly changes to the repo.</p>
+<p><img alt="" src="../../img/centralized_workflow_atlasian.png" /></p>
+<p>Some merge conflicts can be avoided by working with Forks instead of directly pushing to the repo.</p>
+<div class="admonition note">
+<p class="admonition-title">This is the workflow covered in the OHW20 pre-hackweek presentation on 2020-8-6</p>
+<p>The presentation is <a href="../../tutorials/getting_started/#pre-hackweek-tutorials">here</a>; the workflow is the one recommended for use in OHW20.</p>
+</div>
+<p>Forks are public copies of the main repo, from which you can submit changes to the main repo.</p>
+<p><img alt="" src="../../img/forked_workflow.png" /></p>
+<ul>
+<li>Sync your local repo with the public one</li>
+<li>Fork the public repo
+<img alt="" src="../../img/fork_button.png" /><ul>
+<li>Note it looks the same but the web address contains your username 
+<a href="www.github.com/valentina-s/ohw20-proj-myprojectname">www.github.com/valentina-s/ohw20-proj-myprojectname</a></li>
+</ul>
+</li>
+<li>Go to your local repo and rename your <code>origin</code> to point to the fork:</li>
+</ul>
+<pre><code class="language-bash">git remote rm origin
+git remote add origin https://github.com/valentina-s/ohw20-proj-myprojectname.git
+</code></pre>
+<ul>
+<li>Add a new remote to talk to the main repo:</li>
+</ul>
+<pre><code>git remote add upstream https://github.com/oceanhackweek/ohw20-proj-myprojectname.git 
+</code></pre>
+<p>From now on you will push to <code>origin</code>, but you pull from <code>upstream</code>.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>"Make sure your <code>origin</code> contains your github username, and upstream contains the oceanhackweek name."</p>
+</div>
+<h4 id="submitting-changes-via-a-pull-request">Submitting changes via a pull request</h4>
+<p>Make some changes to a file and commit and publish them.</p>
+<pre><code class="language-bash">git add README.md
+git commit -m &quot;more changes&quot;
+git push origin master
+</code></pre>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>They appear on your fork, but not on the main repo.</p>
+</div>
+<p>Submit a pull request by clicking <code>New pull request</code>:</p>
+<p><img alt="New PR" src="../../img/newPR.png" /></p>
+<ul>
+<li>Explain what changes you have made.</li>
+<li>Assign somebody for review.</li>
+<li>Reviewer: look through changes in the files</li>
+<li>Approve PR or ask for more changes.</li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>While your pull request is pending, any change you push to the fork will become a part of the request. This is useful if you are asked to make small changes before your PR is accepted.</p>
+</div>
+<p>In general we encourage github users to submit changes to the main repo through pull requests, but direct push is still a viable workflow for small projects when participants work on the same documents.</p>
+<p><img alt="" src="../../img/BasicForkWorkflow.png" /></p>
+<h2 id="troubleshooting">Troubleshooting</h2>
+<ul>
+<li>
+<p>Deleting files
+    <code>bash
+    git rm filename.txt
+    rm filename.txt</code></p>
+<p>!  <code>git rm</code> just removes the file from git, to delete the file completely  use the bash <code>rm</code> command after that
+* Reverting to the previous commit</p>
+<p><code>bash
+git revert HEAD</code></p>
+</li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Your files in the local repo will be still there. </p>
+</div>
+<h2 id="references-and-resources">References and Resources</h2>
+<p>Git and GitHub are very powerful tools but no doubt the learning curve is steep. Learning is an iterative process so below we list some resources which can help you be better prepared:</p>
+<ul>
+<li>OHW19 tutorial: Git, GitHub, and Project Collaboration. <a href="https://github.com/oceanhackweek/ohw19-tutorial-github">presentation files</a> and <a href="https://www.youtube.com/watch?v=wWKDp4Uw25A&amp;list=PLA6PlfxWZPLTPQ_OIr3dDPF9FRiHQXoVF&amp;index=14&amp;t=0s">video</a>. This tutorial is the source of most of the materials for this Git page.</li>
+<li><a href="http://swcarpentry.github.io/git-novice/">git-novice - Software Carpentry Lesson</a> (3 hours with exercises)</li>
+<li><a href="https://swcarpentry.github.io/git-novice/02-setup/index.html">Setting Up Git - Software Carpentry Lesson</a></li>
+<li><a href="https://www.atlassian.com/git/tutorials/what-is-version-control">Atlassian Tutorials - Version Control</a></li>
+<li><a href="https://www.youtube.com/watch?v=w3jLJU7DT5E">What is GitHub?</a> (3:45 min)</li>
+<li><a href="https://lab.github.com/">GitHub Learning Lab</a>: practice with a bot! (On your own pace)</li>
+<li><a href="https://berkeley-stat159-f17.github.io/stat159-f17/lectures/01-git/Git-Tutorial..html">An interactive Git Tutorial: the tool you didn’t know you needed. From personal workflows to open collaboration</a></li>
+<li><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">GeoHackWeek 2019 tutorial: Getting started with Git</a></li>
+<li><a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">ICESAT-2HackWeek intro-jupyter-git repo</a>, with several notebooks going into a lot of detail.</li>
+</ul>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../github/" class="btn btn-neutral float-right" title="GitHub">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../../logistics/getting_help/" class="btn btn-neutral" title="Getting Help"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+        <span>
+          <a href="https://github.com/oceanhackweek/ohw-resources/" class="fa fa-github" style="color: #fcfcfc"> GitHub</a>
+        </span>
+    
+    
+      <span><a href="../../logistics/getting_help/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../github/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme_extra.js" defer></script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
