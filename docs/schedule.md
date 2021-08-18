@@ -126,7 +126,7 @@ subscription.
       <td>
         <strong>Xarray</strong>
         <br>
-        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/09-xarray">Jupyter notebook</a>
+        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/OHW20/09-xarray">Jupyter notebook</a>
         &mdash; <a href="https://youtu.be/q020HHnGAWo">video</a>
       </td>
       <td>Deepak Cherian</td>
@@ -142,9 +142,9 @@ subscription.
         <strong>Searching and obtaining data 
         <br>from multiple servers</strong>
         <br>Python: 
-        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/01-Data-Access">Jupyter notebooks</a>
+        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/OHW20/01-Data-Access">Jupyter notebooks</a>
         <br>R: 
-        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/08-R-tutorials">Jupyter notebooks</a>
+        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/OHW20/08-R-tutorials">Jupyter notebooks</a>
         <br><a href="https://youtu.be/q4Ebdsd02g0">video</a>
       </td>
       <td>
@@ -198,7 +198,7 @@ subscription.
         <strong>Data visualization in Python
         <br>with Holoviz</strong>
         <br>
-        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/holoviz-examples">Jupyter notebooks</a>
+        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/OHW20/holoviz-examples">Jupyter notebooks</a>
         &mdash; <a href="https://youtu.be/fW7-XT_8m6U">video</a>
       </td>
       <td>James Bednar</td>
@@ -213,7 +213,7 @@ subscription.
       <td>
         <strong>Data visualization in R</strong>
         <br>
-        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/02-R-genomicviz">Jupyter notebooks</a>
+        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/OHW20/02-R-genomicviz">Jupyter notebooks</a>
         &mdash; <a href="https://youtu.be/B49zCa-P0Hs">video</a>
       </td>
       <td>Maria Pachiadaki</td>
@@ -250,7 +250,7 @@ subscription.
         <strong>Satellite data from the cloud,</strong>
         <br>in Python
         <br>
-        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/10-satellite-data-access">Jupyter notebooks</a>
+        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/OHW20/10-satellite-data-access">Jupyter notebooks</a>
         &mdash; <a href="https://youtu.be/6LzVSjd3dt0">video</a>
       </td>
       <td>Chelle Gentemann</td>
@@ -261,7 +261,7 @@ subscription.
         <strong>Raster data management,</strong>
         <br>in R
         <br>
-        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/08-R-tutorials">Jupyter notebooks</a>
+        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/OHW20/08-R-tutorials">Jupyter notebooks</a>
         &mdash; <a href="https://youtu.be/YPhY5Vq611s">video</a>
       </td>
       <td>
@@ -305,7 +305,7 @@ subscription.
       <td>
         <strong>Machine learning</strong>
         <br>
-        <a href="https://github.com/oceanhackweek/ohw20-tutorials/tree/master/ml-overview">Presentation materials</a>
+        <a href="https://github.com/oceanhackweek/ohw-tutorials/tree/OHW20/ml-overview">Presentation materials</a>
         &mdash; <a href="https://youtu.be/1hgu9YhxZVA">video</a>
       </td>
       <td>Valentina Staneva</td>
