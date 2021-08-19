@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../../img/favicon.ico">
+  <title>Getting Started - OceanHackWeek'20 Resources</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../../css/theme.css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+  <link href="../../extra.css" rel="stylesheet" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Getting Started";
+    var mkdocs_page_input_path = "tutorials/getting_started.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href="../.." class="icon icon-home"> OceanHackWeek'20 Resources</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../..">Overview</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../conduct/">Code of Conduct</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Logistics</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/overview/">Overview of Logistics</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../schedule/">Schedule</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/getting_help/">Getting Help</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Pre-event Preparation</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../prep/git/">Git</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../prep/github/">GitHub</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../prep/jupyterhub/">Jupyter and the Hub</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Tutorials</span></p>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Getting Started</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#introduction">Introduction</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#pre-hackweek-tutorials">Pre-Hackweek tutorials</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#start-the-hub-in-your-browser">Start the Hub in your browser</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#step-1">Step 1</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#step-2">Step 2</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#step-3">Step 3</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#upload-git-clone-a-copy-of-the-oh20-tutorials-github-repository-and-follow-along">Upload (git clone) a copy of the oh20-tutorials GitHub repository and follow along</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#shortcut">Shortcut</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#longer-description-step-1">Longer description - Step 1</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#step-2_1">Step 2</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#step-3_1">Step 3</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Projects</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/overview/">Project Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/steps/">Hacking at OHW20</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../..">OceanHackWeek'20 Resources</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Tutorials &raquo;</li>
+        
+      
+    
+    <li>Getting Started</li>
+    <li class="wy-breadcrumbs-aside">
+      
+        <a href="https://github.com/oceanhackweek/ohw-resources/edit/master/docs/tutorials/getting_started.md"
+          class="icon icon-github"> Edit on GitHub</a>
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="getting-started-on-tutorials">Getting started on tutorials</h1>
+<h2 id="introduction">Introduction</h2>
+<p>Most tutorials will be run live as Jupyter notebooks on the <a href="https://ocean.hackweek.io/">OceanHackWeek JupyterHub ("The Hub")</a> in your browser. The instructor and and all participants can be running their own copies of the notebooks in their Hub account, with files cloned from the OHW source in GitHub.</p>
+<p>Below are instructions for getting the tutorials started on the the Hub in your browser, and updating the tutorials files with the latest version from GitHub. The schedule of tutorials is available <a href="../../schedule/">here</a>, and links to tutorial materials and some background resources are availabe elsewhere in the Tutorials section.</p>
+<h2 id="pre-hackweek-tutorials">Pre-Hackweek tutorials</h2>
+<ul>
+<li><strong>Git and GitHub, including the Git fork - clone "workflow".</strong> <a href="https://github.com/oceanhackweek/ohw-preweek/tree/master/git-github-survival-guide&quot;">Presentation slides (pdf)</a> &mdash; <a href="https://youtu.be/7nYFRixSV2c">video</a></li>
+<li><strong>Jupyter and Scientific Python basics: numpy, pandas, matplotlib.</strong> <a href="https://github.com/oceanhackweek/ohw-preweek/tree/master/data-analysis-modules">Jupyter notebooks</a> &mdash; <a href="https://youtu.be/CTUAgpvfze0">video</a></li>
+</ul>
+<h2 id="start-the-hub-in-your-browser">Start the Hub in your browser</h2>
+<h3 id="step-1">Step 1</h3>
+<p>Navigate to the <a href="https://ocean.hackweek.io/">OceanHackWeek Hub, https://ocean.hackweek.io/</a>.</p>
+<h3 id="step-2">Step 2</h3>
+<p>Sign in using your GitHub account, if you are not already signed in. (First time only: Grant the OceanHackWeek Organization permissions - this grants you access to the cloud computing environment for the Hackweek.)</p>
+<h3 id="step-3">Step 3</h3>
+<p>Start the "Oceanhackweek" computing environement (the Oceanhackweek "image"). It may take up to a minute or so to start up.</p>
+<h2 id="upload-git-clone-a-copy-of-the-oh20-tutorials-github-repository-and-follow-along">Upload (<code>git clone</code>) a copy of the <code>oh20-tutorials</code> GitHub repository and follow along</h2>
+<p>This basic workflow allows you to follow along with tutorials with your own live copy of the tutorials notebooks while staying up-to-date with any changes made to the master tutorials repository, <a href="https://github.com/oceanhackweek/ohw20-tutorials">ohw20-tutorials</a>.</p>
+<h3 id="shortcut">Shortcut</h3>
+<p>The first time you try to upload (<code>git clone</code>) the <code>ohw20-tutorials</code> repository, launch a new terminal, then enter:</p>
+<pre><code class="language-bash">git clone https://github.com/oceanhackweek/ohw20-tutorials.git
+</code></pre>
+<p>Now you have a new <code>ohw20-tutorials</code> directory under your "home" directory, <code>/home/jovyan</code>. You're good to go!</p>
+<h3 id="longer-description-step-1">Longer description - Step 1</h3>
+<p>Navigate to the <a href="https://github.com/oceanhackweek/ohw20-tutorials">tutorial repository on GitHub</a>.</p>
+<p>Clone the tutorial to the Hub environment. You can easily copy the link to a repository by selecting the green "clone or download" dropdown (making sure the pop up says "Clone with HTTPS") and hitting the clipboard icon, which will automatically copy the link for you.</p>
+<p>Launch a terminal using the "plus" sign in the upper left corner of your JupyterHub:</p>
+<p><img alt="Jupyter Launch Terminal" src="../../img/Jupyter-LaunchNewTerminal.jpg" /></p>
+<p>then execute the <code>git clone</code> statement:</p>
+<pre><code class="language-bash">git clone https://github.com/oceanhackweek/ohw20-tutorials.git
+</code></pre>
+<p>A new <code>ohw20-tutorials</code> directory will be created, holding the repository clone.</p>
+<!-- _Note: a more detailed version of step 1, including images, is available as part of the [Preliminary Steps - JupyterHub Connection](https://icesat-2hackweek.github.io/learning-resources/preliminary/jupyterhub/#how-do-i-get-my-code-in-and-out-of-pangeo) -->
+
+<h3 id="step-2_1">Step 2</h3>
+<p>Follow along by opening and running the tutorial notebooks. You can save changes within your clone (such as edits to a notebook) or add other files, then download a copy to your local machine if you'd like.</p>
+<h3 id="step-3_1">Step 3</h3>
+<p>Update your Hub copy with any changes to the <code>origin</code> repository. If you have saved changes within your local copy of the notebook or added other files, this may cause conflicts (<em>ask us questions if you run into problems!</em>). Fetch and merge (using <code>git pull</code>) the latest changes from the <code>origin</code> remote.</p>
+<pre><code class="language-bash">git pull origin
+</code></pre>
+<p>These instructions assume you're working on the default <code>master</code> branch.</p>
+<p><strong>Please note: the OceanHackWeek JupyterHub (the Hub) should not be relied upon to save your files beyond the duration of the hackweek, and will be removed a couple of weeks after the hackweek. Thus, for any non-repository changes or repository changes that have not been pushed to GitHub, you MUST complete Step 3 to save the files to your local machine if you would like continued access to them.</strong></p>
+<hr />
+<p>Adapted from <a href="https://icesat-2hackweek.github.io/learning-resources/tutorials/getting_started/">https://icesat-2hackweek.github.io/learning-resources/tutorials/getting_started/</a>. Originally from <a href="https://medium.com/sweetmeat/how-to-keep-a-downstream-git-repository-current-with-upstream-repository-changes-10b76fad6d97">https://medium.com/sweetmeat/how-to-keep-a-downstream-git-repository-current-with-upstream-repository-changes-10b76fad6d97</a></p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../../projects/overview/" class="btn btn-neutral float-right" title="Project Overview">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../../prep/jupyterhub/" class="btn btn-neutral" title="Jupyter and the Hub"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+        <span>
+          <a href="https://github.com/oceanhackweek/ohw-resources/" class="fa fa-github" style="color: #fcfcfc"> GitHub</a>
+        </span>
+    
+    
+      <span><a href="../../prep/jupyterhub/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../../projects/overview/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme_extra.js" defer></script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
